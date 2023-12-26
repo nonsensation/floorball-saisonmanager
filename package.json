@@ -1,0 +1,34 @@
+{
+    "name": "floorball-saisonmanager",
+    "version": "0.1.0",
+    "description": "(inoffiziell) Saisonmanager API v2 als Typescript Package",
+    "main": "lib/index.js",
+    "types": "lib/index.d.ts",
+    "scripts": {
+        "build": "tsc --build",
+        "prepare": "npm run build"
+    },
+    "files": [
+        "lib/**/*"
+    ],
+    "keywords": [
+        "typescript",
+        "library",
+        "floorball",
+        "aisonmanager"
+    ],
+    "author": "Elias Beyer (3li @ nonsensation)",
+    "license": "MIT",
+    "devDependencies": {
+        "typescript": "^5.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nonsensation/floorball-saisonmanager.git"
+    },
+    "bugs": {
+        "url": "https://github.com/nonsensation/floorball-saisonmanager/issues"
+    },
+    "homepage": "https://github.com/nonsensation/floorball-saisonmanager#readme",
+    "typings": "./lib/index.d.ts"
+}
