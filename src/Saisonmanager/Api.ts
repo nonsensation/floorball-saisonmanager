@@ -3,11 +3,6 @@ import type { Arena } from "./Arena"
 import type { Team, Club } from "./Team"
 
 
-export const LeagueId_Regio = 1396
-export const LeagueId_u11_1 = 1412
-export const LeagueId_u11_2 = 1475
-
-export const Slug_Ost = 'ost'
 export const SmBaseUrl = 'https://saisonmanager.de'
 export const SmApi = `${ SmBaseUrl }/api/v2`
 
