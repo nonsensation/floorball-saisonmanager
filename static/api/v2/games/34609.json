@@ -248,7 +248,7 @@
             "penalty_type": "penalty_2",
             "penalty_type_string": "2'",
             "penalty_reason": 924,
-            "penalty_reason_string": "Spielverzögerung"
+            "penalty_reason_string": "Spielverz\u00f6gerung"
         }
     ],
     "players": {
@@ -263,7 +263,7 @@
             },
             {
                 "player_id": 22552,
-                "player_name": "Böschel",
+                "player_name": "B\u00f6schel",
                 "trikot_number": 95,
                 "player_firstname": "Adrian",
                 "position": "Feld"
@@ -293,7 +293,7 @@
                 "player_id": 1636,
                 "player_name": "Compera",
                 "trikot_number": 75,
-                "player_firstname": "René",
+                "player_firstname": "Ren\u00e9",
                 "position": "Feld"
             },
             {
@@ -305,7 +305,7 @@
             },
             {
                 "player_id": 19354,
-                "player_name": "Günther",
+                "player_name": "G\u00fcnther",
                 "trikot_number": 26,
                 "player_firstname": "Andreas",
                 "position": "Feld"
@@ -370,7 +370,7 @@
             },
             {
                 "player_id": 19359,
-                "player_name": "Steinbrück",
+                "player_name": "Steinbr\u00fcck",
                 "trikot_number": 10,
                 "player_firstname": "Raik",
                 "position": "Feld"
@@ -486,7 +486,7 @@
             },
             {
                 "player_id": 7912,
-                "player_name": "Prüfer",
+                "player_name": "Pr\u00fcfer",
                 "trikot_number": 19,
                 "player_firstname": "Daniel",
                 "position": "Feld"
@@ -574,7 +574,7 @@
         {
             "period": 3.5,
             "short_title": "PV",
-            "title": "Pause vor Verlängerung",
+            "title": "Pause vor Verl\u00e4ngerung",
             "status_id": "pause_et",
             "can_end_game": false,
             "optional": true,
@@ -583,7 +583,7 @@
         {
             "period": 4,
             "short_title": "V",
-            "title": "Verlängerung",
+            "title": "Verl\u00e4ngerung",
             "status_id": "extratime",
             "can_end_game": true,
             "optional": true,
@@ -592,7 +592,7 @@
         {
             "period": 4.5,
             "short_title": "PP",
-            "title": "Pause vor Penalty-Schießen",
+            "title": "Pause vor Penalty-Schie\u00dfen",
             "status_id": "pause_ps",
             "can_end_game": false,
             "optional": true,
@@ -601,7 +601,7 @@
         {
             "period": 5,
             "short_title": "P",
-            "title": "Penalty-Schießen",
+            "title": "Penalty-Schie\u00dfen",
             "status_id": "penalty_shots",
             "can_end_game": true,
             "optional": true,
@@ -619,7 +619,7 @@
     },
     "arena": 178,
     "arena_name": "Sporthalle Kochstedt",
-    "arena_address": "Winklerstraße 4, 06847 Dessau",
+    "arena_address": "Winklerstra\u00dfe 4, 06847 Dessau",
     "arena_short": "Dessau, Sporthalle Kochstedt",
     "nominated_referees": "WER",
     "deletable": false,
