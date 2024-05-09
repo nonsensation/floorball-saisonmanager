@@ -10,7 +10,7 @@ import requests
 #     try:
 #         with open(file_path, 'r',encoding='utf-8') as f:
 #             data = json.load(f)
-#         prettified_json = json.dumps(data, indent=4)
+#         prettified_json = json.dumps(data, indent=4,ensure_ascii=False)
 #         return prettified_json
 #     except (json.JSONDecodeError, FileNotFoundError):
 #         return None
@@ -51,7 +51,7 @@ def download_file(url):
         try:
             data = response.json()
             with open(filepath, 'w',encoding='utf-8') as f:
-                json.dump(data, f, indent=4)
+                json.dump(data, f, indent=4,ensure_ascii=False)
         except json.JSONDecodeError:
             print("Invalid JSON content")
     else:

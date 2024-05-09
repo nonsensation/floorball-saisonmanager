@@ -304,7 +304,7 @@
             {
                 "player_id": 7389,
                 "goalkeeper": true,
-                "player_name": "B\u00fcrger",
+                "player_name": "Bürger",
                 "trikot_number": 1,
                 "player_firstname": "Dominik",
                 "position": "Tor"
@@ -327,7 +327,7 @@
             },
             {
                 "player_id": 14308,
-                "player_name": "Ke\u00df",
+                "player_name": "Keß",
                 "trikot_number": 6,
                 "player_firstname": "Kevin",
                 "position": "Feld"
@@ -376,7 +376,7 @@
             },
             {
                 "player_id": 12653,
-                "player_name": "Kl\u00f6ck",
+                "player_name": "Klöck",
                 "trikot_number": 29,
                 "player_firstname": "Martin",
                 "position": "Feld"
@@ -411,7 +411,7 @@
             },
             {
                 "player_id": 2636,
-                "player_name": "H\u00e4ringer",
+                "player_name": "Häringer",
                 "trikot_number": 71,
                 "player_firstname": "Dennis",
                 "position": "Feld"
@@ -425,7 +425,7 @@
             },
             {
                 "player_id": 3031,
-                "player_name": "Ke\u00df",
+                "player_name": "Keß",
                 "trikot_number": 90,
                 "player_firstname": "Marco",
                 "position": "Feld"
@@ -458,7 +458,7 @@
             {
                 "captain": true,
                 "player_id": 4413,
-                "player_name": "Langenstra\u00df",
+                "player_name": "Langenstraß",
                 "trikot_number": 21,
                 "player_firstname": "Hannes",
                 "position": "Feld"
@@ -500,7 +500,7 @@
             },
             {
                 "player_id": 1452,
-                "player_name": "Schr\u00f6der",
+                "player_name": "Schröder",
                 "trikot_number": 31,
                 "player_firstname": "Maximilian",
                 "position": "Feld"
@@ -555,7 +555,7 @@
         ],
         "postfix": {
             "short": "n.V.",
-            "long": "nach Verl\u00e4ngerung"
+            "long": "nach Verlängerung"
         },
         "forfait": false,
         "overtime": true
@@ -616,7 +616,7 @@
         {
             "period": 3.5,
             "short_title": "PV",
-            "title": "Pause vor Verl\u00e4ngerung",
+            "title": "Pause vor Verlängerung",
             "status_id": "pause_et",
             "can_end_game": false,
             "optional": true,
@@ -625,7 +625,7 @@
         {
             "period": 4,
             "short_title": "V",
-            "title": "Verl\u00e4ngerung",
+            "title": "Verlängerung",
             "status_id": "extratime",
             "can_end_game": true,
             "optional": true,
@@ -634,7 +634,7 @@
         {
             "period": 4.5,
             "short_title": "PP",
-            "title": "Pause vor Penalty-Schie\u00dfen",
+            "title": "Pause vor Penalty-Schießen",
             "status_id": "pause_ps",
             "can_end_game": false,
             "optional": true,
@@ -643,7 +643,7 @@
         {
             "period": 5,
             "short_title": "P",
-            "title": "Penalty-Schie\u00dfen",
+            "title": "Penalty-Schießen",
             "status_id": "penalty_shots",
             "can_end_game": true,
             "optional": true,
@@ -653,9 +653,9 @@
     "current_period_title": null,
     "arena": 486,
     "arena_name": "Sportzentrum Kaufering",
-    "arena_address": "Bayernstra\u00dfe 17, 86916 Kaufering",
+    "arena_address": "Bayernstraße 17, 86916 Kaufering",
     "arena_short": "Kaufering, Sportzentrum Kaufering",
-    "nominated_referees": "P. Aho / T. Streckfu\u00df",
+    "nominated_referees": "P. Aho / T. Streckfuß",
     "deletable": false,
     "notice_type": null,
     "notice_string": null,
@@ -668,7 +668,7 @@
         {
             "license_id": "1427",
             "first_name": "Timo",
-            "last_name": "Streckfu\u00df"
+            "last_name": "Streckfuß"
         }
     ]
 }

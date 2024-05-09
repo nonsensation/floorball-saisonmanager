@@ -62,7 +62,7 @@
             "penalty_type": "penalty_2",
             "penalty_type_string": "2'",
             "penalty_reason": 907,
-            "penalty_reason_string": "Sto\u00dfen"
+            "penalty_reason_string": "Stoßen"
         },
         {
             "event_id": null,
@@ -202,7 +202,7 @@
             "penalty_type": "penalty_2",
             "penalty_type_string": "2'",
             "penalty_reason": 909,
-            "penalty_reason_string": "\u00dcberharter K\u00f6rpereinsatz"
+            "penalty_reason_string": "Überharter Körpereinsatz"
         },
         {
             "event_id": null,
@@ -217,7 +217,7 @@
             "penalty_type": "penalty_2",
             "penalty_type_string": "2'",
             "penalty_reason": 907,
-            "penalty_reason_string": "Sto\u00dfen"
+            "penalty_reason_string": "Stoßen"
         },
         {
             "event_id": null,
@@ -300,7 +300,7 @@
             "penalty_type": "penalty_2",
             "penalty_type_string": "2'",
             "penalty_reason": 909,
-            "penalty_reason_string": "\u00dcberharter K\u00f6rpereinsatz"
+            "penalty_reason_string": "Überharter Körpereinsatz"
         },
         {
             "event_id": null,
@@ -358,26 +358,26 @@
                 "player_id": 10805,
                 "player_name": "Hoppe",
                 "trikot_number": 11,
-                "player_firstname": "Bj\u00f6rn",
+                "player_firstname": "Björn",
                 "position": "Feld"
             },
             {
                 "player_id": 4777,
-                "player_name": "B\u00f6thgen",
+                "player_name": "Böthgen",
                 "trikot_number": 15,
                 "player_firstname": "Matthias",
                 "position": "Feld"
             },
             {
                 "player_id": 2281,
-                "player_name": "Sa\u00df",
+                "player_name": "Saß",
                 "trikot_number": 16,
                 "player_firstname": "Perry",
                 "position": "Feld"
             },
             {
                 "player_id": 3940,
-                "player_name": "G\u00fchlke",
+                "player_name": "Gühlke",
                 "trikot_number": 19,
                 "player_firstname": "Marco",
                 "position": "Feld"
@@ -489,7 +489,7 @@
             {
                 "captain": true,
                 "player_id": 4413,
-                "player_name": "Langenstra\u00df",
+                "player_name": "Langenstraß",
                 "trikot_number": 21,
                 "player_firstname": "Hannes",
                 "position": "Feld"
@@ -518,7 +518,7 @@
             },
             {
                 "player_id": 1452,
-                "player_name": "Schr\u00f6der",
+                "player_name": "Schröder",
                 "trikot_number": 31,
                 "player_firstname": "Maximilian",
                 "position": "Feld"
@@ -642,7 +642,7 @@
         {
             "period": 3.5,
             "short_title": "PV",
-            "title": "Pause vor Verl\u00e4ngerung",
+            "title": "Pause vor Verlängerung",
             "status_id": "pause_et",
             "can_end_game": false,
             "optional": true,
@@ -651,7 +651,7 @@
         {
             "period": 4,
             "short_title": "V",
-            "title": "Verl\u00e4ngerung",
+            "title": "Verlängerung",
             "status_id": "extratime",
             "can_end_game": true,
             "optional": true,
@@ -660,7 +660,7 @@
         {
             "period": 4.5,
             "short_title": "PP",
-            "title": "Pause vor Penalty-Schie\u00dfen",
+            "title": "Pause vor Penalty-Schießen",
             "status_id": "pause_ps",
             "can_end_game": false,
             "optional": true,
@@ -669,7 +669,7 @@
         {
             "period": 5,
             "short_title": "P",
-            "title": "Penalty-Schie\u00dfen",
+            "title": "Penalty-Schießen",
             "status_id": "penalty_shots",
             "can_end_game": true,
             "optional": true,
@@ -678,9 +678,9 @@
     ],
     "current_period_title": null,
     "arena": 310,
-    "arena_name": "Br\u00fcderstra\u00dfe",
-    "arena_address": "Br\u00fcderstra\u00dfe 15, 04103 Leipzig",
-    "arena_short": "Leipzig, Br\u00fcderstra\u00dfe",
+    "arena_name": "Brüderstraße",
+    "arena_address": "Brüderstraße 15, 04103 Leipzig",
+    "arena_short": "Leipzig, Brüderstraße",
     "nominated_referees": "O. Hofmann / S. Liers",
     "deletable": false,
     "notice_type": null,

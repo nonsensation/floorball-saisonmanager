@@ -11,8 +11,8 @@
     "game_status": null,
     "ingame_status": null,
     "audience": 126,
-    "home_team_name": "Blau-Wei\u00c3\u0178 96 Schenefeld",
-    "guest_team_name": "UHC Sparkasse Wei\u00c3\u0178enfels",
+    "home_team_name": "Blau-Weiß 96 Schenefeld",
+    "guest_team_name": "UHC Sparkasse Weißenfels",
     "home_team_id": 2389,
     "guest_team_id": 2385,
     "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
@@ -102,7 +102,7 @@
             "penalty_type": "penalty_2",
             "penalty_type_string": "2'",
             "penalty_reason": 907,
-            "penalty_reason_string": "Sto\u00c3\u0178en"
+            "penalty_reason_string": "Stoßen"
         },
         {
             "event_id": null,
@@ -195,7 +195,7 @@
             "penalty_type": "penalty_5",
             "penalty_type_string": "5'",
             "penalty_reason": 907,
-            "penalty_reason_string": "Sto\u00c3\u0178en"
+            "penalty_reason_string": "Stoßen"
         },
         {
             "event_id": null,
@@ -522,7 +522,7 @@
                 "player_id": 10088,
                 "player_name": "Gittek",
                 "trikot_number": 77,
-                "player_firstname": "S\u00c3\u00b6ren",
+                "player_firstname": "Sören",
                 "position": "Feld"
             },
             {
@@ -581,7 +581,7 @@
             {
                 "player_id": 9746,
                 "goalkeeper": true,
-                "player_name": "Br\u00c3\u00bcckner",
+                "player_name": "Brückner",
                 "trikot_number": 17,
                 "player_firstname": "Martin",
                 "position": "Tor"
@@ -602,7 +602,7 @@
             },
             {
                 "player_id": 17564,
-                "player_name": "\u00c3\u201erlig",
+                "player_name": "Ärlig",
                 "trikot_number": 22,
                 "player_firstname": "Sami ",
                 "position": "Feld"
@@ -623,7 +623,7 @@
             },
             {
                 "player_id": 15458,
-                "player_name": "B\u00c3\u00b6ttcher",
+                "player_name": "Böttcher",
                 "trikot_number": 33,
                 "player_firstname": "Florian",
                 "position": "Feld"
@@ -733,7 +733,7 @@
         {
             "period": 3.5,
             "short_title": "PV",
-            "title": "Pause vor Verl\u00c3\u00a4ngerung",
+            "title": "Pause vor Verlängerung",
             "status_id": "pause_et",
             "can_end_game": false,
             "optional": true,
@@ -742,7 +742,7 @@
         {
             "period": 4,
             "short_title": "V",
-            "title": "Verl\u00c3\u00a4ngerung",
+            "title": "Verlängerung",
             "status_id": "extratime",
             "can_end_game": true,
             "optional": true,
@@ -751,7 +751,7 @@
         {
             "period": 4.5,
             "short_title": "PP",
-            "title": "Pause vor Penalty-Schie\u00c3\u0178en",
+            "title": "Pause vor Penalty-Schießen",
             "status_id": "pause_ps",
             "can_end_game": false,
             "optional": true,
@@ -760,7 +760,7 @@
         {
             "period": 5,
             "short_title": "P",
-            "title": "Penalty-Schie\u00c3\u0178en",
+            "title": "Penalty-Schießen",
             "status_id": "penalty_shots",
             "can_end_game": true,
             "optional": true,
@@ -772,7 +772,7 @@
     "arena_name": "Schulzentrum Achter de Weiden",
     "arena_address": "Achter de Weiden 32, 22869 Schenefeld",
     "arena_short": "Schenefeld, Schulzentrum Achter de Weiden",
-    "nominated_referees": "M. G\u00c3\u00bcnther / M. Volling",
+    "nominated_referees": "M. Günther / M. Volling",
     "deletable": false,
     "notice_type": null,
     "notice_string": null,
@@ -780,7 +780,7 @@
         {
             "license_id": "748",
             "first_name": "Martin",
-            "last_name": "G\u00c3\u00bcnther"
+            "last_name": "Günther"
         },
         {
             "license_id": "2382",

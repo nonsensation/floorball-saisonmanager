@@ -48,7 +48,7 @@
             "penalty_type": "penalty_2",
             "penalty_type_string": "2'",
             "penalty_reason": 907,
-            "penalty_reason_string": "Sto\u00dfen"
+            "penalty_reason_string": "Stoßen"
         },
         {
             "event_id": null,
@@ -174,7 +174,7 @@
             "penalty_type": "penalty_2",
             "penalty_type_string": "2'",
             "penalty_reason": 924,
-            "penalty_reason_string": "Spielverz\u00f6gerung"
+            "penalty_reason_string": "Spielverzögerung"
         },
         {
             "event_id": null,
@@ -231,7 +231,7 @@
         "home": [
             {
                 "player_id": 8963,
-                "player_name": "M\u00fcnster",
+                "player_name": "Münster",
                 "trikot_number": 3,
                 "player_firstname": "Tobias",
                 "position": "Feld"
@@ -383,7 +383,7 @@
             },
             {
                 "player_id": 14557,
-                "player_name": "Sp\u00f6hle",
+                "player_name": "Spöhle",
                 "trikot_number": 7,
                 "player_firstname": "Maximilian",
                 "position": "Feld"
@@ -411,7 +411,7 @@
             },
             {
                 "player_id": 1412,
-                "player_name": "Br\u00f6ker",
+                "player_name": "Bröker",
                 "trikot_number": 11,
                 "player_firstname": "Niklas",
                 "position": "Feld"
@@ -446,7 +446,7 @@
             },
             {
                 "player_id": 14179,
-                "player_name": "R\u00f6ttger",
+                "player_name": "Röttger",
                 "trikot_number": 29,
                 "player_firstname": "Hannes",
                 "position": "Feld"
@@ -476,7 +476,7 @@
             {
                 "player_id": 11366,
                 "goalkeeper": true,
-                "player_name": "Sp\u00f6hle",
+                "player_name": "Spöhle",
                 "trikot_number": 96,
                 "player_firstname": "Sebastian",
                 "position": "Tor"
@@ -579,7 +579,7 @@
         {
             "period": 3.5,
             "short_title": "PV",
-            "title": "Pause vor Verl\u00e4ngerung",
+            "title": "Pause vor Verlängerung",
             "status_id": "pause_et",
             "can_end_game": false,
             "optional": true,
@@ -588,7 +588,7 @@
         {
             "period": 4,
             "short_title": "V",
-            "title": "Verl\u00e4ngerung",
+            "title": "Verlängerung",
             "status_id": "extratime",
             "can_end_game": true,
             "optional": true,
@@ -597,7 +597,7 @@
         {
             "period": 4.5,
             "short_title": "PP",
-            "title": "Pause vor Penalty-Schie\u00dfen",
+            "title": "Pause vor Penalty-Schießen",
             "status_id": "pause_ps",
             "can_end_game": false,
             "optional": true,
@@ -606,7 +606,7 @@
         {
             "period": 5,
             "short_title": "P",
-            "title": "Penalty-Schie\u00dfen",
+            "title": "Penalty-Schießen",
             "status_id": "penalty_shots",
             "can_end_game": true,
             "optional": true,

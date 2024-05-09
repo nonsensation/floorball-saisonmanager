@@ -12,7 +12,7 @@
     "ingame_status": null,
     "audience": 195,
     "home_team_name": "VfL Red Hocks Kaufering",
-    "guest_team_name": "UHC Sparkasse Wei\u00dfenfels",
+    "guest_team_name": "UHC Sparkasse Weißenfels",
     "home_team_id": 2416,
     "guest_team_id": 2385,
     "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZFk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dce22e30122e310a15c3d4c4f7980ce3cd943412/102-kaufering.png",
@@ -75,7 +75,7 @@
             "penalty_type": "penalty_2",
             "penalty_type_string": "2'",
             "penalty_reason": 913,
-            "penalty_reason_string": "Hoher Fu\u00df"
+            "penalty_reason_string": "Hoher Fuß"
         },
         {
             "event_id": null,
@@ -90,7 +90,7 @@
             "penalty_type": "penalty_5",
             "penalty_type_string": "5'",
             "penalty_reason": 924,
-            "penalty_reason_string": "Spielverz\u00f6gerung"
+            "penalty_reason_string": "Spielverzögerung"
         },
         {
             "event_id": null,
@@ -233,7 +233,7 @@
             "penalty_type": "penalty_2",
             "penalty_type_string": "2'",
             "penalty_reason": 924,
-            "penalty_reason_string": "Spielverz\u00f6gerung"
+            "penalty_reason_string": "Spielverzögerung"
         },
         {
             "event_id": null,
@@ -306,7 +306,7 @@
             "penalty_type": "penalty_2",
             "penalty_type_string": "2'",
             "penalty_reason": 907,
-            "penalty_reason_string": "Sto\u00dfen"
+            "penalty_reason_string": "Stoßen"
         },
         {
             "event_id": null,
@@ -383,14 +383,14 @@
             {
                 "player_id": 7389,
                 "goalkeeper": true,
-                "player_name": "B\u00fcrger",
+                "player_name": "Bürger",
                 "trikot_number": 1,
                 "player_firstname": "Dominik",
                 "position": "Tor"
             },
             {
                 "player_id": 14308,
-                "player_name": "Ke\u00df",
+                "player_name": "Keß",
                 "trikot_number": 6,
                 "player_firstname": "Kevin",
                 "position": "Feld"
@@ -449,7 +449,7 @@
             },
             {
                 "player_id": 12653,
-                "player_name": "Kl\u00f6ck",
+                "player_name": "Klöck",
                 "trikot_number": 29,
                 "player_firstname": "Martin",
                 "position": "Feld"
@@ -498,7 +498,7 @@
             },
             {
                 "player_id": 3031,
-                "player_name": "Ke\u00df",
+                "player_name": "Keß",
                 "trikot_number": 90,
                 "player_firstname": "Marco",
                 "position": "Feld"
@@ -535,7 +535,7 @@
             },
             {
                 "player_id": 6782,
-                "player_name": "Br\u00fcckner",
+                "player_name": "Brückner",
                 "trikot_number": 9,
                 "player_firstname": "Martin",
                 "position": "Feld"
@@ -550,14 +550,14 @@
             {
                 "captain": true,
                 "player_id": 9334,
-                "player_name": "B\u00f6ttcher",
+                "player_name": "Böttcher",
                 "trikot_number": 15,
                 "player_firstname": "Tim",
                 "position": "Feld"
             },
             {
                 "player_id": 17564,
-                "player_name": "\u00c4rlig",
+                "player_name": "Ärlig",
                 "trikot_number": 16,
                 "player_firstname": "Sami ",
                 "position": "Feld"
@@ -565,7 +565,7 @@
             {
                 "player_id": 9746,
                 "goalkeeper": true,
-                "player_name": "Br\u00fcckner",
+                "player_name": "Brückner",
                 "trikot_number": 17,
                 "player_firstname": "Martin",
                 "position": "Tor"
@@ -579,7 +579,7 @@
             },
             {
                 "player_id": 15458,
-                "player_name": "B\u00f6ttcher",
+                "player_name": "Böttcher",
                 "trikot_number": 33,
                 "player_firstname": "Florian",
                 "position": "Feld"
@@ -703,7 +703,7 @@
         {
             "period": 3.5,
             "short_title": "PV",
-            "title": "Pause vor Verl\u00e4ngerung",
+            "title": "Pause vor Verlängerung",
             "status_id": "pause_et",
             "can_end_game": false,
             "optional": true,
@@ -712,7 +712,7 @@
         {
             "period": 4,
             "short_title": "V",
-            "title": "Verl\u00e4ngerung",
+            "title": "Verlängerung",
             "status_id": "extratime",
             "can_end_game": true,
             "optional": true,
@@ -721,7 +721,7 @@
         {
             "period": 4.5,
             "short_title": "PP",
-            "title": "Pause vor Penalty-Schie\u00dfen",
+            "title": "Pause vor Penalty-Schießen",
             "status_id": "pause_ps",
             "can_end_game": false,
             "optional": true,
@@ -730,7 +730,7 @@
         {
             "period": 5,
             "short_title": "P",
-            "title": "Penalty-Schie\u00dfen",
+            "title": "Penalty-Schießen",
             "status_id": "penalty_shots",
             "can_end_game": true,
             "optional": true,
@@ -740,7 +740,7 @@
     "current_period_title": null,
     "arena": 486,
     "arena_name": "Sportzentrum Kaufering",
-    "arena_address": "Bayernstra\u00dfe 17, 86916 Kaufering",
+    "arena_address": "Bayernstraße 17, 86916 Kaufering",
     "arena_short": "Kaufering, Sportzentrum Kaufering",
     "nominated_referees": "S. Bluzet / P. Zubler",
     "deletable": false,

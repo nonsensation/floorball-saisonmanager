@@ -12,7 +12,7 @@
     "ingame_status": null,
     "audience": 128,
     "home_team_name": "TV Lilienthal",
-    "guest_team_name": "Blau-Wei\u00df 96 Schenefeld",
+    "guest_team_name": "Blau-Weiß 96 Schenefeld",
     "home_team_id": 2411,
     "guest_team_id": 2389,
     "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
@@ -187,7 +187,7 @@
             },
             {
                 "player_id": 14557,
-                "player_name": "Sp\u00f6hle",
+                "player_name": "Spöhle",
                 "trikot_number": 7,
                 "player_firstname": "Maximilian",
                 "position": "Feld"
@@ -215,7 +215,7 @@
             },
             {
                 "player_id": 1412,
-                "player_name": "Br\u00f6ker",
+                "player_name": "Bröker",
                 "trikot_number": 11,
                 "player_firstname": "Niklas",
                 "position": "Feld"
@@ -257,7 +257,7 @@
             },
             {
                 "player_id": 14179,
-                "player_name": "R\u00f6ttger",
+                "player_name": "Röttger",
                 "trikot_number": 29,
                 "player_firstname": "Hannes",
                 "position": "Feld"
@@ -287,7 +287,7 @@
             {
                 "player_id": 11366,
                 "goalkeeper": true,
-                "player_name": "Sp\u00f6hle",
+                "player_name": "Spöhle",
                 "trikot_number": 96,
                 "player_firstname": "Sebastian",
                 "position": "Tor"
@@ -420,7 +420,7 @@
                 "player_id": 10088,
                 "player_name": "Gittek",
                 "trikot_number": 77,
-                "player_firstname": "S\u00f6ren",
+                "player_firstname": "Sören",
                 "position": "Feld"
             },
             {
@@ -514,7 +514,7 @@
         {
             "period": 3.5,
             "short_title": "PV",
-            "title": "Pause vor Verl\u00e4ngerung",
+            "title": "Pause vor Verlängerung",
             "status_id": "pause_et",
             "can_end_game": false,
             "optional": true,
@@ -523,7 +523,7 @@
         {
             "period": 4,
             "short_title": "V",
-            "title": "Verl\u00e4ngerung",
+            "title": "Verlängerung",
             "status_id": "extratime",
             "can_end_game": true,
             "optional": true,
@@ -532,7 +532,7 @@
         {
             "period": 4.5,
             "short_title": "PP",
-            "title": "Pause vor Penalty-Schie\u00dfen",
+            "title": "Pause vor Penalty-Schießen",
             "status_id": "pause_ps",
             "can_end_game": false,
             "optional": true,
@@ -541,7 +541,7 @@
         {
             "period": 5,
             "short_title": "P",
-            "title": "Penalty-Schie\u00dfen",
+            "title": "Penalty-Schießen",
             "status_id": "penalty_shots",
             "can_end_game": true,
             "optional": true,

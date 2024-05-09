@@ -11,7 +11,7 @@
     "game_status": null,
     "ingame_status": null,
     "audience": 154,
-    "home_team_name": "Blau-Wei\u00df 96 Schenefeld",
+    "home_team_name": "Blau-Weiß 96 Schenefeld",
     "guest_team_name": "Floor Fighters Chemnitz",
     "home_team_id": 2389,
     "guest_team_id": 2399,
@@ -425,7 +425,7 @@
                 "player_id": 10088,
                 "player_name": "Gittek",
                 "trikot_number": 77,
-                "player_firstname": "S\u00f6ren",
+                "player_firstname": "Sören",
                 "position": "Feld"
             },
             {
@@ -477,7 +477,7 @@
             {
                 "captain": true,
                 "player_id": 4413,
-                "player_name": "Langenstra\u00df",
+                "player_name": "Langenstraß",
                 "trikot_number": 21,
                 "player_firstname": "Hannes",
                 "position": "Feld"
@@ -498,7 +498,7 @@
             },
             {
                 "player_id": 1452,
-                "player_name": "Schr\u00f6der",
+                "player_name": "Schröder",
                 "trikot_number": 31,
                 "player_firstname": "Maximilian",
                 "position": "Feld"
@@ -554,7 +554,7 @@
         ],
         "postfix": {
             "short": "n.V.",
-            "long": "nach Verl\u00e4ngerung"
+            "long": "nach Verlängerung"
         },
         "forfait": false,
         "overtime": true
@@ -615,7 +615,7 @@
         {
             "period": 3.5,
             "short_title": "PV",
-            "title": "Pause vor Verl\u00e4ngerung",
+            "title": "Pause vor Verlängerung",
             "status_id": "pause_et",
             "can_end_game": false,
             "optional": true,
@@ -624,7 +624,7 @@
         {
             "period": 4,
             "short_title": "V",
-            "title": "Verl\u00e4ngerung",
+            "title": "Verlängerung",
             "status_id": "extratime",
             "can_end_game": true,
             "optional": true,
@@ -633,7 +633,7 @@
         {
             "period": 4.5,
             "short_title": "PP",
-            "title": "Pause vor Penalty-Schie\u00dfen",
+            "title": "Pause vor Penalty-Schießen",
             "status_id": "pause_ps",
             "can_end_game": false,
             "optional": true,
@@ -642,7 +642,7 @@
         {
             "period": 5,
             "short_title": "P",
-            "title": "Penalty-Schie\u00dfen",
+            "title": "Penalty-Schießen",
             "status_id": "penalty_shots",
             "can_end_game": true,
             "optional": true,
@@ -661,7 +661,7 @@
     "referees": [
         {
             "license_id": "326",
-            "first_name": "Ren\u00e9",
+            "first_name": "René",
             "last_name": "Potthoff"
         },
         {

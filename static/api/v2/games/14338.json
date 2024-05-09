@@ -132,7 +132,7 @@
             "penalty_type": "penalty_2",
             "penalty_type_string": "2'",
             "penalty_reason": 907,
-            "penalty_reason_string": "Sto\u00dfen"
+            "penalty_reason_string": "Stoßen"
         },
         {
             "event_id": null,
@@ -280,7 +280,7 @@
             {
                 "captain": true,
                 "player_id": 4413,
-                "player_name": "Langenstra\u00df",
+                "player_name": "Langenstraß",
                 "trikot_number": 21,
                 "player_firstname": "Hannes",
                 "position": "Feld"
@@ -309,7 +309,7 @@
             },
             {
                 "player_id": 1452,
-                "player_name": "Schr\u00f6der",
+                "player_name": "Schröder",
                 "trikot_number": 31,
                 "player_firstname": "Maximilian",
                 "position": "Feld"
@@ -549,7 +549,7 @@
         {
             "period": 3.5,
             "short_title": "PV",
-            "title": "Pause vor Verl\u00e4ngerung",
+            "title": "Pause vor Verlängerung",
             "status_id": "pause_et",
             "can_end_game": false,
             "optional": true,
@@ -558,7 +558,7 @@
         {
             "period": 4,
             "short_title": "V",
-            "title": "Verl\u00e4ngerung",
+            "title": "Verlängerung",
             "status_id": "extratime",
             "can_end_game": true,
             "optional": true,
@@ -567,7 +567,7 @@
         {
             "period": 4.5,
             "short_title": "PP",
-            "title": "Pause vor Penalty-Schie\u00dfen",
+            "title": "Pause vor Penalty-Schießen",
             "status_id": "pause_ps",
             "can_end_game": false,
             "optional": true,
@@ -576,7 +576,7 @@
         {
             "period": 5,
             "short_title": "P",
-            "title": "Penalty-Schie\u00dfen",
+            "title": "Penalty-Schießen",
             "status_id": "penalty_shots",
             "can_end_game": true,
             "optional": true,
@@ -586,7 +586,7 @@
     "current_period_title": null,
     "arena": 503,
     "arena_name": "Schlossteichhalle",
-    "arena_address": "Schlo\u00dfstra\u00dfe 13, 09111 Chemnitz",
+    "arena_address": "Schloßstraße 13, 09111 Chemnitz",
     "arena_short": "Chemnitz, Schlossteichhalle",
     "nominated_referees": "T. Galetzka / P. Reichert",
     "deletable": false,

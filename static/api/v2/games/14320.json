@@ -103,7 +103,7 @@
             "penalty_type": "penalty_2",
             "penalty_type_string": "2'",
             "penalty_reason": 907,
-            "penalty_reason_string": "Sto\u00dfen"
+            "penalty_reason_string": "Stoßen"
         },
         {
             "event_id": null,
@@ -237,14 +237,14 @@
             },
             {
                 "player_id": 15505,
-                "player_name": "Krupi\u010dka",
+                "player_name": "Krupička",
                 "trikot_number": 4,
                 "player_firstname": "Vojta",
                 "position": "Feld"
             },
             {
                 "player_id": 648,
-                "player_name": "Tr\u00fctzschler",
+                "player_name": "Trützschler",
                 "trikot_number": 7,
                 "player_firstname": "Arian",
                 "position": "Feld"
@@ -390,26 +390,26 @@
                 "player_id": 10805,
                 "player_name": "Hoppe",
                 "trikot_number": 11,
-                "player_firstname": "Bj\u00f6rn",
+                "player_firstname": "Björn",
                 "position": "Feld"
             },
             {
                 "player_id": 4777,
-                "player_name": "B\u00f6thgen",
+                "player_name": "Böthgen",
                 "trikot_number": 15,
                 "player_firstname": "Matthias",
                 "position": "Feld"
             },
             {
                 "player_id": 2281,
-                "player_name": "Sa\u00df",
+                "player_name": "Saß",
                 "trikot_number": 16,
                 "player_firstname": "Perry",
                 "position": "Feld"
             },
             {
                 "player_id": 3940,
-                "player_name": "G\u00fchlke",
+                "player_name": "Gühlke",
                 "trikot_number": 19,
                 "player_firstname": "Marco",
                 "position": "Feld"
@@ -563,7 +563,7 @@
         {
             "period": 3.5,
             "short_title": "PV",
-            "title": "Pause vor Verl\u00e4ngerung",
+            "title": "Pause vor Verlängerung",
             "status_id": "pause_et",
             "can_end_game": false,
             "optional": true,
@@ -572,7 +572,7 @@
         {
             "period": 4,
             "short_title": "V",
-            "title": "Verl\u00e4ngerung",
+            "title": "Verlängerung",
             "status_id": "extratime",
             "can_end_game": true,
             "optional": true,
@@ -581,7 +581,7 @@
         {
             "period": 4.5,
             "short_title": "PP",
-            "title": "Pause vor Penalty-Schie\u00dfen",
+            "title": "Pause vor Penalty-Schießen",
             "status_id": "pause_ps",
             "can_end_game": false,
             "optional": true,
@@ -590,7 +590,7 @@
         {
             "period": 5,
             "short_title": "P",
-            "title": "Penalty-Schie\u00dfen",
+            "title": "Penalty-Schießen",
             "status_id": "penalty_shots",
             "can_end_game": true,
             "optional": true,
@@ -600,7 +600,7 @@
     "current_period_title": null,
     "arena": 475,
     "arena_name": "Stadtfeldhalle",
-    "arena_address": "Gro\u00dfe Dammstra\u00dfe 38, 38855 Wernigerode",
+    "arena_address": "Große Dammstraße 38, 38855 Wernigerode",
     "arena_short": "Wernigerode, Stadtfeldhalle",
     "nominated_referees": "T. Schnelle / O. Hofmann",
     "deletable": false,

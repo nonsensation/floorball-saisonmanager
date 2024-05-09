@@ -166,7 +166,7 @@
         "home": [
             {
                 "player_id": 8963,
-                "player_name": "M\u00fcnster",
+                "player_name": "Münster",
                 "trikot_number": 3,
                 "player_firstname": "Tobias",
                 "position": "Feld"
@@ -334,7 +334,7 @@
             },
             {
                 "player_id": 17229,
-                "player_name": "K\u00e4sermann",
+                "player_name": "Käsermann",
                 "trikot_number": 11,
                 "player_firstname": "Lorenz",
                 "position": "Feld"
@@ -376,14 +376,14 @@
             },
             {
                 "player_id": 1439,
-                "player_name": "Hallb\u00e4ck",
+                "player_name": "Hallbäck",
                 "trikot_number": 42,
                 "player_firstname": "Ismael",
                 "position": "Feld"
             },
             {
                 "player_id": 13444,
-                "player_name": "L\u00f6sel",
+                "player_name": "Lösel",
                 "trikot_number": 76,
                 "player_firstname": "Niclas",
                 "position": "Feld"
@@ -486,7 +486,7 @@
         {
             "period": 3.5,
             "short_title": "PV",
-            "title": "Pause vor Verl\u00e4ngerung",
+            "title": "Pause vor Verlängerung",
             "status_id": "pause_et",
             "can_end_game": false,
             "optional": true,
@@ -495,7 +495,7 @@
         {
             "period": 4,
             "short_title": "V",
-            "title": "Verl\u00e4ngerung",
+            "title": "Verlängerung",
             "status_id": "extratime",
             "can_end_game": true,
             "optional": true,
@@ -504,7 +504,7 @@
         {
             "period": 4.5,
             "short_title": "PP",
-            "title": "Pause vor Penalty-Schie\u00dfen",
+            "title": "Pause vor Penalty-Schießen",
             "status_id": "pause_ps",
             "can_end_game": false,
             "optional": true,
@@ -513,7 +513,7 @@
         {
             "period": 5,
             "short_title": "P",
-            "title": "Penalty-Schie\u00dfen",
+            "title": "Penalty-Schießen",
             "status_id": "penalty_shots",
             "can_end_game": true,
             "optional": true,
@@ -532,7 +532,7 @@
     "referees": [
         {
             "license_id": "326",
-            "first_name": "Ren\u00e9",
+            "first_name": "René",
             "last_name": "Potthoff"
         },
         {

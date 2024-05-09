@@ -12,7 +12,7 @@
     "ingame_status": null,
     "audience": 256,
     "home_team_name": "Red Devils Wernigerode",
-    "guest_team_name": "DJK Holzb\u00fcttgen",
+    "guest_team_name": "DJK Holzbüttgen",
     "home_team_id": 2402,
     "guest_team_id": 2390,
     "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
@@ -213,7 +213,7 @@
             "penalty_type": "penalty_2",
             "penalty_type_string": "2'",
             "penalty_reason": 907,
-            "penalty_reason_string": "Sto\u00dfen"
+            "penalty_reason_string": "Stoßen"
         },
         {
             "event_id": null,
@@ -241,14 +241,14 @@
             },
             {
                 "player_id": 15505,
-                "player_name": "Krupi\u010dka",
+                "player_name": "Krupička",
                 "trikot_number": 4,
                 "player_firstname": "Vojta",
                 "position": "Feld"
             },
             {
                 "player_id": 648,
-                "player_name": "Tr\u00fctzschler",
+                "player_name": "Trützschler",
                 "trikot_number": 7,
                 "player_firstname": "Arian",
                 "position": "Feld"
@@ -358,7 +358,7 @@
             {
                 "player_id": 10053,
                 "goalkeeper": true,
-                "player_name": "B\u00f6ggering",
+                "player_name": "Böggering",
                 "trikot_number": 16,
                 "player_firstname": "Simon",
                 "position": "Tor"
@@ -511,7 +511,7 @@
         {
             "period": 3.5,
             "short_title": "PV",
-            "title": "Pause vor Verl\u00e4ngerung",
+            "title": "Pause vor Verlängerung",
             "status_id": "pause_et",
             "can_end_game": false,
             "optional": true,
@@ -520,7 +520,7 @@
         {
             "period": 4,
             "short_title": "V",
-            "title": "Verl\u00e4ngerung",
+            "title": "Verlängerung",
             "status_id": "extratime",
             "can_end_game": true,
             "optional": true,
@@ -529,7 +529,7 @@
         {
             "period": 4.5,
             "short_title": "PP",
-            "title": "Pause vor Penalty-Schie\u00dfen",
+            "title": "Pause vor Penalty-Schießen",
             "status_id": "pause_ps",
             "can_end_game": false,
             "optional": true,
@@ -538,7 +538,7 @@
         {
             "period": 5,
             "short_title": "P",
-            "title": "Penalty-Schie\u00dfen",
+            "title": "Penalty-Schießen",
             "status_id": "penalty_shots",
             "can_end_game": true,
             "optional": true,
@@ -548,7 +548,7 @@
     "current_period_title": null,
     "arena": 475,
     "arena_name": "Stadtfeldhalle",
-    "arena_address": "Gro\u00dfe Dammstra\u00dfe 38, 38855 Wernigerode",
+    "arena_address": "Große Dammstraße 38, 38855 Wernigerode",
     "arena_short": "Wernigerode, Stadtfeldhalle",
     "nominated_referees": "T. Schnelle / O. Hofmann",
     "deletable": false,

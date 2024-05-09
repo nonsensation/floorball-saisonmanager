@@ -12,7 +12,7 @@
     "ingame_status": null,
     "audience": 55,
     "home_team_name": "BAT Berlin",
-    "guest_team_name": "Blau-Wei\u00df 96 Schenefeld",
+    "guest_team_name": "Blau-Weiß 96 Schenefeld",
     "home_team_id": 2387,
     "guest_team_id": 2389,
     "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
@@ -77,7 +77,7 @@
             "penalty_type": "penalty_2",
             "penalty_type_string": "2'",
             "penalty_reason": 924,
-            "penalty_reason_string": "Spielverz\u00f6gerung"
+            "penalty_reason_string": "Spielverzögerung"
         },
         {
             "event_id": null,
@@ -120,7 +120,7 @@
             "penalty_type": "penalty_2",
             "penalty_type_string": "2'",
             "penalty_reason": 907,
-            "penalty_reason_string": "Sto\u00dfen"
+            "penalty_reason_string": "Stoßen"
         },
         {
             "event_id": null,
@@ -274,7 +274,7 @@
             },
             {
                 "player_id": 17229,
-                "player_name": "K\u00e4sermann",
+                "player_name": "Käsermann",
                 "trikot_number": 11,
                 "player_firstname": "Lorenz",
                 "position": "Feld"
@@ -317,14 +317,14 @@
             },
             {
                 "player_id": 1439,
-                "player_name": "Hallb\u00e4ck",
+                "player_name": "Hallbäck",
                 "trikot_number": 42,
                 "player_firstname": "Ismael",
                 "position": "Feld"
             },
             {
                 "player_id": 13444,
-                "player_name": "L\u00f6sel",
+                "player_name": "Lösel",
                 "trikot_number": 76,
                 "player_firstname": "Niclas",
                 "position": "Feld"
@@ -464,7 +464,7 @@
                 "player_id": 10088,
                 "player_name": "Gittek",
                 "trikot_number": 77,
-                "player_firstname": "S\u00f6ren",
+                "player_firstname": "Sören",
                 "position": "Feld"
             },
             {
@@ -497,7 +497,7 @@
         ],
         "postfix": {
             "short": "n.V.",
-            "long": "nach Verl\u00e4ngerung"
+            "long": "nach Verlängerung"
         },
         "forfait": false,
         "overtime": true
@@ -558,7 +558,7 @@
         {
             "period": 3.5,
             "short_title": "PV",
-            "title": "Pause vor Verl\u00e4ngerung",
+            "title": "Pause vor Verlängerung",
             "status_id": "pause_et",
             "can_end_game": false,
             "optional": true,
@@ -567,7 +567,7 @@
         {
             "period": 4,
             "short_title": "V",
-            "title": "Verl\u00e4ngerung",
+            "title": "Verlängerung",
             "status_id": "extratime",
             "can_end_game": true,
             "optional": true,
@@ -576,7 +576,7 @@
         {
             "period": 4.5,
             "short_title": "PP",
-            "title": "Pause vor Penalty-Schie\u00dfen",
+            "title": "Pause vor Penalty-Schießen",
             "status_id": "pause_ps",
             "can_end_game": false,
             "optional": true,
@@ -585,7 +585,7 @@
         {
             "period": 5,
             "short_title": "P",
-            "title": "Penalty-Schie\u00dfen",
+            "title": "Penalty-Schießen",
             "status_id": "penalty_shots",
             "can_end_game": true,
             "optional": true,

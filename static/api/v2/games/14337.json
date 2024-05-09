@@ -11,7 +11,7 @@
     "game_status": null,
     "ingame_status": null,
     "audience": 146,
-    "home_team_name": "Blau-Wei\u00df 96 Schenefeld",
+    "home_team_name": "Blau-Weiß 96 Schenefeld",
     "guest_team_name": "Red Devils Wernigerode",
     "home_team_id": 2389,
     "guest_team_id": 2402,
@@ -102,7 +102,7 @@
             "penalty_type": "penalty_2",
             "penalty_type_string": "2'",
             "penalty_reason": 924,
-            "penalty_reason_string": "Spielverz\u00f6gerung"
+            "penalty_reason_string": "Spielverzögerung"
         },
         {
             "event_id": null,
@@ -117,7 +117,7 @@
             "penalty_type": "penalty_ms2",
             "penalty_type_string": "M II",
             "penalty_reason": 924,
-            "penalty_reason_string": "Spielverz\u00f6gerung"
+            "penalty_reason_string": "Spielverzögerung"
         },
         {
             "event_id": null,
@@ -230,7 +230,7 @@
             "penalty_type": "penalty_2",
             "penalty_type_string": "2'",
             "penalty_reason": 924,
-            "penalty_reason_string": "Spielverz\u00f6gerung"
+            "penalty_reason_string": "Spielverzögerung"
         },
         {
             "event_id": null,
@@ -503,7 +503,7 @@
                 "player_id": 10088,
                 "player_name": "Gittek",
                 "trikot_number": 77,
-                "player_firstname": "S\u00f6ren",
+                "player_firstname": "Sören",
                 "position": "Feld"
             },
             {
@@ -525,14 +525,14 @@
             },
             {
                 "player_id": 15505,
-                "player_name": "Krupi\u010dka",
+                "player_name": "Krupička",
                 "trikot_number": 4,
                 "player_firstname": "Vojta",
                 "position": "Feld"
             },
             {
                 "player_id": 648,
-                "player_name": "Tr\u00fctzschler",
+                "player_name": "Trützschler",
                 "trikot_number": 7,
                 "player_firstname": "Arian",
                 "position": "Feld"
@@ -707,7 +707,7 @@
         {
             "period": 3.5,
             "short_title": "PV",
-            "title": "Pause vor Verl\u00e4ngerung",
+            "title": "Pause vor Verlängerung",
             "status_id": "pause_et",
             "can_end_game": false,
             "optional": true,
@@ -716,7 +716,7 @@
         {
             "period": 4,
             "short_title": "V",
-            "title": "Verl\u00e4ngerung",
+            "title": "Verlängerung",
             "status_id": "extratime",
             "can_end_game": true,
             "optional": true,
@@ -725,7 +725,7 @@
         {
             "period": 4.5,
             "short_title": "PP",
-            "title": "Pause vor Penalty-Schie\u00dfen",
+            "title": "Pause vor Penalty-Schießen",
             "status_id": "pause_ps",
             "can_end_game": false,
             "optional": true,
@@ -734,7 +734,7 @@
         {
             "period": 5,
             "short_title": "P",
-            "title": "Penalty-Schie\u00dfen",
+            "title": "Penalty-Schießen",
             "status_id": "penalty_shots",
             "can_end_game": true,
             "optional": true,

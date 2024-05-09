@@ -208,7 +208,7 @@
             },
             {
                 "player_id": 17229,
-                "player_name": "K\u00c3\u00a4sermann",
+                "player_name": "Käsermann",
                 "trikot_number": 11,
                 "player_firstname": "Lorenz",
                 "position": "Feld"
@@ -257,7 +257,7 @@
             },
             {
                 "player_id": 1439,
-                "player_name": "Hallb\u00c3\u00a4ck",
+                "player_name": "Hallbäck",
                 "trikot_number": 42,
                 "player_firstname": "Ismael",
                 "position": "Feld"
@@ -273,7 +273,7 @@
         "guest": [
             {
                 "player_id": 3951,
-                "player_name": "G\u00c3\u00bcnther",
+                "player_name": "Günther",
                 "trikot_number": 6,
                 "player_firstname": "Lukas",
                 "position": "Feld"
@@ -287,7 +287,7 @@
             },
             {
                 "player_id": 9693,
-                "player_name": "Ladst\u00c3\u00a4tter",
+                "player_name": "Ladstätter",
                 "trikot_number": 11,
                 "player_firstname": "Mathis",
                 "position": "Feld"
@@ -330,7 +330,7 @@
             },
             {
                 "player_id": 1452,
-                "player_name": "Schr\u00c3\u00b6der",
+                "player_name": "Schröder",
                 "trikot_number": 31,
                 "player_firstname": "Maximilian",
                 "position": "Feld"
@@ -400,7 +400,7 @@
         ],
         "postfix": {
             "short": "n.V.",
-            "long": "nach Verl\u00c3\u00a4ngerung"
+            "long": "nach Verlängerung"
         },
         "forfait": false,
         "overtime": true
@@ -461,7 +461,7 @@
         {
             "period": 3.5,
             "short_title": "PV",
-            "title": "Pause vor Verl\u00c3\u00a4ngerung",
+            "title": "Pause vor Verlängerung",
             "status_id": "pause_et",
             "can_end_game": false,
             "optional": true,
@@ -470,7 +470,7 @@
         {
             "period": 4,
             "short_title": "V",
-            "title": "Verl\u00c3\u00a4ngerung",
+            "title": "Verlängerung",
             "status_id": "extratime",
             "can_end_game": true,
             "optional": true,
@@ -479,7 +479,7 @@
         {
             "period": 4.5,
             "short_title": "PP",
-            "title": "Pause vor Penalty-Schie\u00c3\u0178en",
+            "title": "Pause vor Penalty-Schießen",
             "status_id": "pause_ps",
             "can_end_game": false,
             "optional": true,
@@ -488,7 +488,7 @@
         {
             "period": 5,
             "short_title": "P",
-            "title": "Penalty-Schie\u00c3\u0178en",
+            "title": "Penalty-Schießen",
             "status_id": "penalty_shots",
             "can_end_game": true,
             "optional": true,
