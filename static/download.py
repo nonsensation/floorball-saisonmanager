@@ -5,31 +5,31 @@ import requests
 
 
 
-def prettify_json_file(file_path):
-    """Prettify the contents of the JSON file."""
-    try:
-        with open(file_path, 'r',encoding='utf-8') as f:
-            data = json.load(f)
-        prettified_json = json.dumps(data, indent=4)
-        return prettified_json
-    except (json.JSONDecodeError, FileNotFoundError):
-        return None
+# def prettify_json_file(file_path):
+#     """Prettify the contents of the JSON file."""
+#     try:
+#         with open(file_path, 'r',encoding='utf-8') as f:
+#             data = json.load(f)
+#         prettified_json = json.dumps(data, indent=4)
+#         return prettified_json
+#     except (json.JSONDecodeError, FileNotFoundError):
+#         return None
 
-def process_directory(directory):
-    """Process all JSON files in the specified directory and its subdirectories."""
-    for root, dirs, files in os.walk(directory):
-        for file in files:
-            if file.endswith('.json'):
-                file_path = os.path.join(root, file)
-                prettified_content = prettify_json_file(file_path)
-                if prettified_content is not None:
-                    with open(file_path, 'w',encoding='utf-8') as f:
-                        f.write(prettified_content)
-                    print(f"Prettified '{file_path}' and saved back.")
+# def process_directory(directory):
+#     """Process all JSON files in the specified directory and its subdirectories."""
+#     for root, dirs, files in os.walk(directory):
+#         for file in files:
+#             if file.endswith('.json'):
+#                 file_path = os.path.join(root, file)
+#                 prettified_content = prettify_json_file(file_path)
+#                 if prettified_content is not None:
+#                     with open(file_path, 'w',encoding='utf-8') as f:
+#                         f.write(prettified_content)
+#                     print(f"Prettified '{file_path}' and saved back.")
 
-# Example usage:
-directory = './api/'
-process_directory(directory)
+# # Example usage:
+# directory = './api/'
+# process_directory(directory)
 
 
 def download_file(url):
