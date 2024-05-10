@@ -31,16 +31,18 @@ import requests
 # directory = './api/'
 # process_directory(directory)
 
+skipCount = 0
 
 def download_file(url):
-
+    global skipCount
     url = '/api/v2' + url
     filepath = '.' + url
 
     if not os.path.exists(filepath):
         os.makedirs(os.path.dirname(filepath),mode=0o777,exist_ok=True)
     else:
-        print(f'Skip: {filepath}')
+        skipCount += 1
+        print(f'Skip (#{skipCount}): {filepath}')
         return
 
     print(f'DOWNLOADING {"https://saisonmanager.de"+url} into {filepath}')
