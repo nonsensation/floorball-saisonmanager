@@ -1,6 +1,6 @@
 {
     "name": "floorball-saisonmanager",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "(inoffiziell) Saisonmanager API v2 als Typescript Package",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
@@ -9,13 +9,15 @@
         "prepare": "npm run build"
     },
     "files": [
-        "lib/**/*"
+        "lib/**/*",
+        "static/*.json"
     ],
     "keywords": [
         "typescript",
+        "javascript",
         "library",
         "floorball",
-        "aisonmanager"
+        "saisonmanager"
     ],
     "author": "",
     "license": "",
