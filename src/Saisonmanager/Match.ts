@@ -1,5 +1,6 @@
 
 import type { Game, IngameState, PeriodTitle } from "./Game"
+import type { Event } from "./Event"
 
 
 export interface MatchResult extends Game
