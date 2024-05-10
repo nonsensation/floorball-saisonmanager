@@ -1,0 +1,474 @@
+{
+    "id": 16487,
+    "game_number": "18",
+    "start_time": "14.50",
+    "actual_start_time": null,
+    "date": "2019-02-02",
+    "game_day": {
+        "game_day_number": 4,
+        "title": "4. Spieltag"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": 28,
+    "home_team_name": "Südharzrüpel Großörner",
+    "guest_team_name": "TSV 1847 Buchholz",
+    "home_team_id": 2753,
+    "guest_team_id": 2723,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--64ecdc401b2f534533ecd2ae65fde4b19c23cd77/5-grossoerner.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--64ecdc401b2f534533ecd2ae65fde4b19c23cd77/5-grossoerner.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbXNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--67ec8206202e2dbe5affb442c0863bd58f9f0d39/215-TSV_1847_Buchholz.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbXNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--67ec8206202e2dbe5affb442c0863bd58f9f0d39/215-TSV_1847_Buchholz.png",
+    "live_stream_link": null,
+    "events": [
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 0,
+            "guest_goals": 1,
+            "time": "3:34",
+            "sortkey": "1-03:34",
+            "number": 21,
+            "assist": 13,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 0,
+            "guest_goals": 2,
+            "time": "3:39",
+            "sortkey": "1-03:39",
+            "number": 5,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 2,
+            "time": "7:53",
+            "sortkey": "1-07:53",
+            "number": 27,
+            "assist": 30,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 3,
+            "time": "9:34",
+            "sortkey": "1-09:34",
+            "number": 5,
+            "assist": 21,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 2,
+            "guest_goals": 3,
+            "time": "11:31",
+            "sortkey": "1-11:31",
+            "number": 30,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 2,
+            "guest_goals": 4,
+            "time": "12:37",
+            "sortkey": "1-12:37",
+            "number": 16,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 3,
+            "guest_goals": 4,
+            "time": "13:29",
+            "sortkey": "1-13:29",
+            "number": 13,
+            "assist": 78,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "penalty",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 0,
+            "guest_goals": 0,
+            "time": "15:27",
+            "sortkey": "1-15:27",
+            "number": 7,
+            "penalty_type": "penalty_2",
+            "penalty_type_string": "2'",
+            "penalty_reason": 904,
+            "penalty_reason_string": "Hoher Stock"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 4,
+            "guest_goals": 4,
+            "time": "16:07",
+            "sortkey": "1-16:07",
+            "number": 77,
+            "assist": 5,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 5,
+            "guest_goals": 4,
+            "time": "18:51",
+            "sortkey": "1-18:51",
+            "number": 77,
+            "assist": 17,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 5,
+            "guest_goals": 5,
+            "time": "23:05",
+            "sortkey": "2-23:05",
+            "number": 21,
+            "goal_type": "penalty_shot",
+            "goal_type_string": "Strafschuss"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 5,
+            "guest_goals": 6,
+            "time": "29:17",
+            "sortkey": "2-29:17",
+            "number": 7,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 9001,
+            "event_type": "timeout",
+            "event_team": "home",
+            "period": 2,
+            "time": "29:17",
+            "sortkey": "2-29:17"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 6,
+            "guest_goals": 6,
+            "time": "32:59",
+            "sortkey": "2-32:59",
+            "number": 5,
+            "assist": 77,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 6,
+            "guest_goals": 7,
+            "time": "38:26",
+            "sortkey": "2-38:26",
+            "number": 22,
+            "assist": 7,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 11272,
+                "goalkeeper": true,
+                "player_name": "Herrmann-Lauch",
+                "trikot_number": 1,
+                "player_firstname": "Dirk",
+                "position": "Tor"
+            },
+            {
+                "player_id": 2022,
+                "player_name": "Lauch",
+                "trikot_number": 5,
+                "player_firstname": "Fabian",
+                "position": "Feld"
+            },
+            {
+                "player_id": 5250,
+                "player_name": "Zimmermann",
+                "trikot_number": 13,
+                "player_firstname": "Niklas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 1117,
+                "player_name": "Sucker",
+                "trikot_number": 16,
+                "player_firstname": "Max",
+                "position": "Feld"
+            },
+            {
+                "player_id": 4040,
+                "player_name": "Fallei",
+                "trikot_number": 17,
+                "player_firstname": "Max",
+                "position": "Feld"
+            },
+            {
+                "player_id": 14477,
+                "player_name": "Weise",
+                "trikot_number": 27,
+                "player_firstname": "Martin",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17317,
+                "player_name": "Kurch",
+                "trikot_number": 30,
+                "player_firstname": "Martin",
+                "position": "Feld"
+            },
+            {
+                "player_id": 1180,
+                "player_name": "Fallei",
+                "trikot_number": 70,
+                "player_firstname": "Andreas",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 18962,
+                "player_name": "Roccy",
+                "trikot_number": 77,
+                "player_firstname": "Becker",
+                "position": "Feld"
+            },
+            {
+                "player_id": 2517,
+                "player_name": "Vogel",
+                "trikot_number": 78,
+                "player_firstname": "Arwed",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 2918,
+                "player_name": "Schmidt",
+                "trikot_number": 5,
+                "player_firstname": "Donat",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17716,
+                "player_name": "Hädrich",
+                "trikot_number": 7,
+                "player_firstname": "Michael",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17719,
+                "player_name": "Tkocz",
+                "trikot_number": 13,
+                "player_firstname": "Mathias",
+                "position": "Feld"
+            },
+            {
+                "player_id": 14041,
+                "player_name": "Jenicek",
+                "trikot_number": 16,
+                "player_firstname": "Martin",
+                "position": "Feld"
+            },
+            {
+                "player_id": 2623,
+                "player_name": "Franke",
+                "trikot_number": 21,
+                "player_firstname": "Paul",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 4860,
+                "player_name": "Gehlert",
+                "trikot_number": 22,
+                "player_firstname": "Benjamin",
+                "position": "Feld"
+            },
+            {
+                "player_id": 1375,
+                "goalkeeper": true,
+                "player_name": "Kentsch",
+                "trikot_number": 73,
+                "player_firstname": "Ulrich",
+                "position": "Tor"
+            },
+            {
+                "player_id": 512,
+                "player_name": "Richter",
+                "trikot_number": 83,
+                "player_firstname": "Kai",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "6:7",
+    "result": {
+        "home_goals": 6,
+        "guest_goals": 7,
+        "home_goals_period": [
+            5,
+            1,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            4,
+            3,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 669,
+    "league_name": "Regionalliga Ost Herren Kleinfeld",
+    "league_short_name": "RLOHeKF",
+    "game_operation_id": 6,
+    "game_operation_name": "SBK Ost",
+    "game_operation_short_name": "SBK Ost",
+    "game_operation_slug": "SBK Ost",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 574,
+    "arena_name": "Silberlandhalle",
+    "arena_address": "Talstraße 8-10, 09456 Annaberg-Buchholz",
+    "arena_short": "Annaberg-Buchholz, Silberlandhalle",
+    "nominated_referees": "ERF",
+    "deletable": false,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": [
+        {
+            "license_id": "2944",
+            "first_name": "Peter",
+            "last_name": "Müller"
+        }
+    ]
+}
