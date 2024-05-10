@@ -1,0 +1,548 @@
+{
+    "id": 14157,
+    "game_number": "14",
+    "start_time": "12:30",
+    "actual_start_time": null,
+    "date": "2018-11-24",
+    "game_day": {
+        "game_day_number": 3,
+        "title": "3. Spieltag"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": 35,
+    "home_team_name": "Hannover 96",
+    "guest_team_name": "Floorball Falcons Wahnbek",
+    "home_team_id": 2690,
+    "guest_team_id": 2687,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY2s9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--13ef12558154a7adf5db130c76020ca31fa4cd3b/32-hannover96.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY2s9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--13ef12558154a7adf5db130c76020ca31fa4cd3b/32-hannover96.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYmM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--44eb0009cbc64d691924e2a42821888438218255/41-wahnbeckfalcons.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYmM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--44eb0009cbc64d691924e2a42821888438218255/41-wahnbeckfalcons.png",
+    "live_stream_link": null,
+    "events": [
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 7,
+            "guest_goals": 2,
+            "time": "0:13",
+            "sortkey": "1-00:13",
+            "number": 39,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 7,
+            "guest_goals": 1,
+            "time": "1:55",
+            "sortkey": "1-01:55",
+            "number": 11,
+            "assist": 2,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 6,
+            "guest_goals": 1,
+            "time": "2:37",
+            "sortkey": "1-02:37",
+            "number": 2,
+            "assist": 11,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 5,
+            "guest_goals": 1,
+            "time": "7:41",
+            "sortkey": "1-07:41",
+            "number": 10,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 4,
+            "guest_goals": 1,
+            "time": "8:29",
+            "sortkey": "1-08:29",
+            "number": 10,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 3,
+            "guest_goals": 1,
+            "time": "8:43",
+            "sortkey": "1-08:43",
+            "number": 39,
+            "assist": 27,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 3,
+            "guest_goals": 0,
+            "time": "9:37",
+            "sortkey": "1-09:37",
+            "number": 11,
+            "assist": 2,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 2,
+            "guest_goals": 0,
+            "time": "10:28",
+            "sortkey": "1-10:28",
+            "number": 8,
+            "assist": 10,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 0,
+            "time": "13:19",
+            "sortkey": "1-13:19",
+            "number": 11,
+            "assist": 2,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 12,
+            "guest_goals": 6,
+            "time": "1:27",
+            "sortkey": "2-01:27",
+            "number": 27,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 12,
+            "guest_goals": 5,
+            "time": "2:09",
+            "sortkey": "2-02:09",
+            "number": 36,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 12,
+            "guest_goals": 4,
+            "time": "2:23",
+            "sortkey": "2-02:23",
+            "number": 1000,
+            "goal_type": "owngoal",
+            "goal_type_string": "Eigentor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 11,
+            "guest_goals": 4,
+            "time": "3:20",
+            "sortkey": "2-03:20",
+            "number": 10,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 10,
+            "guest_goals": 4,
+            "time": "4:54",
+            "sortkey": "2-04:54",
+            "number": 11,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 9,
+            "guest_goals": 4,
+            "time": "5:24",
+            "sortkey": "2-05:24",
+            "number": 39,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 9,
+            "guest_goals": 3,
+            "time": "10:26",
+            "sortkey": "2-10:26",
+            "number": 11,
+            "assist": 2,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 8,
+            "guest_goals": 3,
+            "time": "13:18",
+            "sortkey": "2-13:18",
+            "number": 27,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 8,
+            "guest_goals": 2,
+            "time": "14:34",
+            "sortkey": "2-14:34",
+            "number": 2,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "captain": true,
+                "player_id": 15944,
+                "goalkeeper": true,
+                "player_name": "Alt",
+                "trikot_number": 1,
+                "player_firstname": "Liam",
+                "position": "Tor"
+            },
+            {
+                "player_id": 16093,
+                "player_name": "Isaak",
+                "trikot_number": 2,
+                "player_firstname": "Niclas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17700,
+                "player_name": "Ahlers",
+                "trikot_number": 4,
+                "player_firstname": "Philip",
+                "position": "Feld"
+            },
+            {
+                "player_id": 15946,
+                "player_name": "Willeke",
+                "trikot_number": 5,
+                "player_firstname": "Henri",
+                "position": "Feld"
+            },
+            {
+                "player_id": 18775,
+                "player_name": "Brockmann",
+                "trikot_number": 6,
+                "player_firstname": "Philipp",
+                "position": "Feld"
+            },
+            {
+                "player_id": 18787,
+                "player_name": "Alkasab",
+                "trikot_number": 7,
+                "player_firstname": "Mand",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17701,
+                "player_name": "Brandrick",
+                "trikot_number": 8,
+                "player_firstname": "Florian",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17702,
+                "player_name": "Fahrenholz",
+                "trikot_number": 9,
+                "player_firstname": "Insa",
+                "position": "Feld"
+            },
+            {
+                "player_id": 6985,
+                "player_name": "Wohlgehagen",
+                "trikot_number": 10,
+                "player_firstname": "Robert",
+                "position": "Feld"
+            },
+            {
+                "player_id": 15945,
+                "player_name": "Rösch-Brassovan",
+                "trikot_number": 11,
+                "player_firstname": "Frederik",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17798,
+                "player_name": "Schilling",
+                "trikot_number": 12,
+                "player_firstname": "Lukas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17703,
+                "player_name": "Fahrenholz",
+                "trikot_number": 13,
+                "player_firstname": "Yannis",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "captain": true,
+                "player_id": 16731,
+                "goalkeeper": true,
+                "player_name": "Darsow",
+                "trikot_number": 1,
+                "player_firstname": "Lenny",
+                "position": "Tor"
+            },
+            {
+                "player_id": 17205,
+                "player_name": "Brunken",
+                "trikot_number": 38,
+                "player_firstname": "Jannes",
+                "position": "Feld"
+            },
+            {
+                "player_id": 16728,
+                "player_name": "Große",
+                "trikot_number": 35,
+                "player_firstname": "Elias",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17517,
+                "player_name": "Haas",
+                "trikot_number": 34,
+                "player_firstname": "Felix",
+                "position": "Feld"
+            },
+            {
+                "player_id": 16735,
+                "player_name": "Haas",
+                "trikot_number": 40,
+                "player_firstname": "Lukas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 16738,
+                "player_name": "Haas",
+                "trikot_number": 36,
+                "player_firstname": "Mikka",
+                "position": "Feld"
+            },
+            {
+                "player_id": 16727,
+                "player_name": "Maul",
+                "trikot_number": 37,
+                "player_firstname": "Dominik",
+                "position": "Feld"
+            },
+            {
+                "player_id": 16732,
+                "player_name": "Pfalz",
+                "trikot_number": 27,
+                "player_firstname": "Leon",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17516,
+                "player_name": "Schmidt",
+                "trikot_number": 39,
+                "player_firstname": "Marlon",
+                "position": "Feld"
+            },
+            {
+                "player_id": 18788,
+                "player_name": "Wüstenbecker",
+                "trikot_number": 31,
+                "player_firstname": "Jakob",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "12:6",
+    "result": {
+        "home_goals": 12,
+        "guest_goals": 6,
+        "home_goals_period": [
+            7,
+            5,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            2,
+            4,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 685,
+    "league_name": "Regionalliga Nordwest U11 Junioren (KF) - Vorrunde",
+    "league_short_name": "U11 KF (VR)",
+    "game_operation_id": 2,
+    "game_operation_name": "Floorball Niedersachsen",
+    "game_operation_short_name": "FVNB",
+    "game_operation_slug": "FVNB",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 468,
+    "arena_name": "Leibnizschule",
+    "arena_address": "Röntgenstraße 8, 30163 Hannover",
+    "arena_short": "Hannover, Leibnizschule",
+    "nominated_referees": "MTV Mittelnkirchen",
+    "deletable": false,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": [
+        {
+            "license_id": "3127",
+            "first_name": "Tim",
+            "last_name": "Streckwaldt"
+        },
+        {
+            "license_id": "1162",
+            "first_name": "Carsten",
+            "last_name": "Feindt"
+        }
+    ]
+}

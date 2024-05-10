@@ -1,0 +1,111 @@
+{
+    "id": 17197,
+    "game_number": "Fi",
+    "start_time": "14:45",
+    "actual_start_time": null,
+    "date": "2019-05-19",
+    "game_day": {
+        "game_day_number": 2,
+        "title": "2. Spieltag"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": null,
+    "home_team_name": "Gewinner HF1",
+    "guest_team_name": "Gewinner HF2",
+    "home_team_id": 3004,
+    "guest_team_id": 3005,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFFCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1bed3411bddf62175b3c9b636ebd21d7d2a09502/21-floorballbbunited.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFFCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1bed3411bddf62175b3c9b636ebd21d7d2a09502/21-floorballbbunited.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFFCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1bed3411bddf62175b3c9b636ebd21d7d2a09502/21-floorballbbunited.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFFCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1bed3411bddf62175b3c9b636ebd21d7d2a09502/21-floorballbbunited.png",
+    "live_stream_link": null,
+    "events": [],
+    "players": {},
+    "started": false,
+    "ended": false,
+    "result_string": null,
+    "result": null,
+    "league_id": 735,
+    "league_name": "U15 Kleinfeld DM Quali",
+    "league_short_name": "U15KFDMQ",
+    "game_operation_id": 3,
+    "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+    "game_operation_short_name": "FVBB",
+    "game_operation_slug": "FVBB",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 471,
+    "arena_name": "Sporthalle Monumentenstraße",
+    "arena_address": "Monumentenstraße 13C, 10829  Berlin",
+    "arena_short": "Berlin, Sporthalle Monumentenstraße",
+    "nominated_referees": "",
+    "deletable": true,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": []
+}

@@ -1,0 +1,562 @@
+[
+    {
+        "game_id": 15141,
+        "game_number": 1,
+        "game_day": 1,
+        "arena": 315,
+        "arena_name": "Sporthalle des Berufschulzentrums",
+        "arena_address": "Oberriedterstr. 10, 75365  Calw",
+        "arena_short": "Calw, Sporthalle des Berufschulzentrums",
+        "hosting_club": "TSV Calw",
+        "game_day_id": 5059,
+        "date": "2018-10-13",
+        "time": "11:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TSV Calw Lions",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca80d9c70e88e3dafdeeed6710f6ce3b2f57b58f/104-calw.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca80d9c70e88e3dafdeeed6710f6ce3b2f57b58f/104-calw.png",
+        "guest_team_name": "TV Schriesheim",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "nominated_referee_string": "Feuerbach",
+        "referees": [
+            {
+                "license_id": "1438",
+                "first_name": "Marco",
+                "last_name": "Trick"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "5:0",
+        "result": {
+            "home_goals": 5,
+            "guest_goals": 0,
+            "home_goals_period": [
+                3,
+                2,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 15142,
+        "game_number": 2,
+        "game_day": 1,
+        "arena": 315,
+        "arena_name": "Sporthalle des Berufschulzentrums",
+        "arena_address": "Oberriedterstr. 10, 75365  Calw",
+        "arena_short": "Calw, Sporthalle des Berufschulzentrums",
+        "hosting_club": "TSV Calw",
+        "game_day_id": 5059,
+        "date": "2018-10-13",
+        "time": "12:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Sportvg Feuerbach",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4904114b09e2d499d9f57ee3ae89d000ce2880ec/56-feuerbach.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4904114b09e2d499d9f57ee3ae89d000ce2880ec/56-feuerbach.png",
+        "guest_team_name": "TSV Calw Lions",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca80d9c70e88e3dafdeeed6710f6ce3b2f57b58f/104-calw.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca80d9c70e88e3dafdeeed6710f6ce3b2f57b58f/104-calw.png",
+        "nominated_referee_string": "Schriesheim",
+        "referees": [
+            {
+                "license_id": "4340",
+                "first_name": "Joel",
+                "last_name": "Batt"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "6:7",
+        "result": {
+            "home_goals": 6,
+            "guest_goals": 7,
+            "home_goals_period": [
+                3,
+                3,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                5,
+                2,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 15143,
+        "game_number": 3,
+        "game_day": 1,
+        "arena": 315,
+        "arena_name": "Sporthalle des Berufschulzentrums",
+        "arena_address": "Oberriedterstr. 10, 75365  Calw",
+        "arena_short": "Calw, Sporthalle des Berufschulzentrums",
+        "hosting_club": "TSV Calw",
+        "game_day_id": 5059,
+        "date": "2018-10-13",
+        "time": "14:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TV Schriesheim",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "guest_team_name": "Sportvg Feuerbach",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4904114b09e2d499d9f57ee3ae89d000ce2880ec/56-feuerbach.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4904114b09e2d499d9f57ee3ae89d000ce2880ec/56-feuerbach.png",
+        "nominated_referee_string": "Calw",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "9:10",
+        "result": {
+            "home_goals": 9,
+            "guest_goals": 10,
+            "home_goals_period": [
+                7,
+                2,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                6,
+                4,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 15144,
+        "game_number": 4,
+        "game_day": 2,
+        "arena": 151,
+        "arena_name": "Mehrzweckhalle",
+        "arena_address": "Sportzentrum 2, 69198 Schriesheim",
+        "arena_short": "Schriesheim, Mehrzweckhalle",
+        "hosting_club": "TV Schriesheim",
+        "game_day_id": 5060,
+        "date": "2018-12-16",
+        "time": "11:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TSV Calw Lions",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca80d9c70e88e3dafdeeed6710f6ce3b2f57b58f/104-calw.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca80d9c70e88e3dafdeeed6710f6ce3b2f57b58f/104-calw.png",
+        "guest_team_name": "Sportvg Feuerbach",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4904114b09e2d499d9f57ee3ae89d000ce2880ec/56-feuerbach.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4904114b09e2d499d9f57ee3ae89d000ce2880ec/56-feuerbach.png",
+        "nominated_referee_string": "Schriesheim",
+        "referees": [
+            {
+                "license_id": "2464",
+                "first_name": "Robert",
+                "last_name": "Eidenmüller"
+            },
+            {
+                "license_id": "2833",
+                "first_name": "Leander",
+                "last_name": "Sauerbrey"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "8:2",
+        "result": {
+            "home_goals": 8,
+            "guest_goals": 2,
+            "home_goals_period": [
+                6,
+                2,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                0,
+                2,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 15145,
+        "game_number": 5,
+        "game_day": 2,
+        "arena": 151,
+        "arena_name": "Mehrzweckhalle",
+        "arena_address": "Sportzentrum 2, 69198 Schriesheim",
+        "arena_short": "Schriesheim, Mehrzweckhalle",
+        "hosting_club": "TV Schriesheim",
+        "game_day_id": 5060,
+        "date": "2018-12-16",
+        "time": "12:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Sportvg Feuerbach",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4904114b09e2d499d9f57ee3ae89d000ce2880ec/56-feuerbach.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4904114b09e2d499d9f57ee3ae89d000ce2880ec/56-feuerbach.png",
+        "guest_team_name": "TV Schriesheim",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "nominated_referee_string": "Calw",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "3:6",
+        "result": {
+            "home_goals": 3,
+            "guest_goals": 6,
+            "home_goals_period": [
+                1,
+                2,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                4,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 15146,
+        "game_number": 6,
+        "game_day": 2,
+        "arena": 151,
+        "arena_name": "Mehrzweckhalle",
+        "arena_address": "Sportzentrum 2, 69198 Schriesheim",
+        "arena_short": "Schriesheim, Mehrzweckhalle",
+        "hosting_club": "TV Schriesheim",
+        "game_day_id": 5060,
+        "date": "2018-12-16",
+        "time": "14:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TV Schriesheim",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "guest_team_name": "TSV Calw Lions",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca80d9c70e88e3dafdeeed6710f6ce3b2f57b58f/104-calw.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca80d9c70e88e3dafdeeed6710f6ce3b2f57b58f/104-calw.png",
+        "nominated_referee_string": "Feuerbach",
+        "referees": [
+            {
+                "license_id": "1438",
+                "first_name": "Marco",
+                "last_name": "Trick"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "1:6",
+        "result": {
+            "home_goals": 1,
+            "guest_goals": 6,
+            "home_goals_period": [
+                0,
+                1,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                0,
+                6,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 15147,
+        "game_number": 7,
+        "game_day": 3,
+        "arena": 360,
+        "arena_name": "Hugo-Kunzi-Halle",
+        "arena_address": "Am Sportpark 4, 70469 Stuttgart",
+        "arena_short": "Stuttgart, Hugo-Kunzi-Halle",
+        "hosting_club": "Sportvg Feuerbach",
+        "game_day_id": 5061,
+        "date": "2019-03-09",
+        "time": "13:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TV Schriesheim",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "guest_team_name": "Sportvg Feuerbach",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4904114b09e2d499d9f57ee3ae89d000ce2880ec/56-feuerbach.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4904114b09e2d499d9f57ee3ae89d000ce2880ec/56-feuerbach.png",
+        "nominated_referee_string": "Calw",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "7:11",
+        "result": {
+            "home_goals": 7,
+            "guest_goals": 11,
+            "home_goals_period": [
+                5,
+                2,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                6,
+                5,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 15148,
+        "game_number": 8,
+        "game_day": 3,
+        "arena": 360,
+        "arena_name": "Hugo-Kunzi-Halle",
+        "arena_address": "Am Sportpark 4, 70469 Stuttgart",
+        "arena_short": "Stuttgart, Hugo-Kunzi-Halle",
+        "hosting_club": "Sportvg Feuerbach",
+        "game_day_id": 5061,
+        "date": "2019-03-09",
+        "time": "15:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TSV Calw Lions",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca80d9c70e88e3dafdeeed6710f6ce3b2f57b58f/104-calw.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca80d9c70e88e3dafdeeed6710f6ce3b2f57b58f/104-calw.png",
+        "guest_team_name": "TV Schriesheim",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "nominated_referee_string": "Feuerbach",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "6:2",
+        "result": {
+            "home_goals": 6,
+            "guest_goals": 2,
+            "home_goals_period": [
+                4,
+                2,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                1,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 15149,
+        "game_number": 9,
+        "game_day": 3,
+        "arena": 360,
+        "arena_name": "Hugo-Kunzi-Halle",
+        "arena_address": "Am Sportpark 4, 70469 Stuttgart",
+        "arena_short": "Stuttgart, Hugo-Kunzi-Halle",
+        "hosting_club": "Sportvg Feuerbach",
+        "game_day_id": 5061,
+        "date": "2019-03-09",
+        "time": "16:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Sportvg Feuerbach",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4904114b09e2d499d9f57ee3ae89d000ce2880ec/56-feuerbach.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4904114b09e2d499d9f57ee3ae89d000ce2880ec/56-feuerbach.png",
+        "guest_team_name": "TSV Calw Lions",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca80d9c70e88e3dafdeeed6710f6ce3b2f57b58f/104-calw.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca80d9c70e88e3dafdeeed6710f6ce3b2f57b58f/104-calw.png",
+        "nominated_referee_string": "Schriesheim",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "3:9",
+        "result": {
+            "home_goals": 3,
+            "guest_goals": 9,
+            "home_goals_period": [
+                2,
+                1,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                7,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    }
+]

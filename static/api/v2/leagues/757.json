@@ -1,0 +1,103 @@
+{
+    "id": 757,
+    "game_operation_id": 6,
+    "game_operation_name": "SBK Ost",
+    "game_operation_short_name": "SBK Ost",
+    "game_operation_slug": "ost",
+    "league_category_id": "3",
+    "league_class_id": "280",
+    "league_system_id": "4",
+    "league_type": "cup",
+    "name": "Playdowns Regionalliga Ost U15 Junioren Kleinfeld",
+    "female": false,
+    "enable_scorer": true,
+    "short_name": "PDRLOU15KF",
+    "season_id": "10",
+    "order_key": "14",
+    "game_day_numbers": [],
+    "game_day_titles": [],
+    "deadline": "",
+    "before_deadline": true,
+    "legacy_league": true,
+    "field_size": null,
+    "league_modus": null,
+    "has_preround": false,
+    "table_modus": "classic",
+    "periods": null,
+    "period_length": null,
+    "overtime_length": null,
+    "similar_leagues": [
+        {
+            "id": 753,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "4",
+            "league_class_id": "280",
+            "league_system_id": "4",
+            "league_type": "cup",
+            "name": "Playoffs Regionalliga Ost U15 Junioren",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "PORLOU15GF",
+            "season_id": "10",
+            "order_key": "12",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "Runde 1"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": true,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 754,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "3",
+            "league_class_id": "280",
+            "league_system_id": "4",
+            "league_type": "cup",
+            "name": "Playoffs Regionalliga Ost U15 Junioren Kleinfeld",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "PORLOU15KF",
+            "season_id": "10",
+            "order_key": "13",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "Runde 1"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": true,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        }
+    ]
+}

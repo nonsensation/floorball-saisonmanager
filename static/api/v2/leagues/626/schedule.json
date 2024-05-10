@@ -1,0 +1,1986 @@
+[
+    {
+        "game_id": 16211,
+        "game_number": 1,
+        "game_day": 1,
+        "arena": 336,
+        "arena_name": "Schulzentrum Achter de Weiden",
+        "arena_address": "Achter de Weiden 32, 22869 Schenefeld",
+        "arena_short": "Schenefeld, Schulzentrum Achter de Weiden",
+        "hosting_club": "BW96 Schenefeld",
+        "game_day_id": 5406,
+        "date": "2018-11-18",
+        "time": "10:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Gettorfer TV",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "guest_team_name": "TG Lauenburg",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c1f8263b564283ad675193a2597c330546b2023f/218-lauenburg.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c1f8263b564283ad675193a2597c330546b2023f/218-lauenburg.png",
+        "nominated_referee_string": "BW96",
+        "referees": [
+            {
+                "license_id": "2308",
+                "first_name": "Janek",
+                "last_name": "Wöbke"
+            },
+            {
+                "license_id": "4184",
+                "first_name": "Tim",
+                "last_name": "Glindemann"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "7:6",
+        "result": {
+            "home_goals": 7,
+            "guest_goals": 6,
+            "home_goals_period": [
+                3,
+                4,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                3,
+                3,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16212,
+        "game_number": 2,
+        "game_day": 1,
+        "arena": 336,
+        "arena_name": "Schulzentrum Achter de Weiden",
+        "arena_address": "Achter de Weiden 32, 22869 Schenefeld",
+        "arena_short": "Schenefeld, Schulzentrum Achter de Weiden",
+        "hosting_club": "BW96 Schenefeld",
+        "game_day_id": 5406,
+        "date": "2018-11-18",
+        "time": "11:10",
+        "started": true,
+        "ended": true,
+        "home_team_name": "SG BW96Schenefeld/SVE Hamburg",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_name": "BW96 Schenefeld 1",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "nominated_referee_string": "GTV",
+        "referees": [
+            {
+                "license_id": "810",
+                "first_name": "Steffen",
+                "last_name": "Fuchs"
+            },
+            {
+                "license_id": "4153",
+                "first_name": "Bjarne Mathi",
+                "last_name": "Scholz"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "11:8",
+        "result": {
+            "home_goals": 11,
+            "guest_goals": 8,
+            "home_goals_period": [
+                4,
+                7,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                6,
+                2,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16213,
+        "game_number": 3,
+        "game_day": 1,
+        "arena": 336,
+        "arena_name": "Schulzentrum Achter de Weiden",
+        "arena_address": "Achter de Weiden 32, 22869 Schenefeld",
+        "arena_short": "Schenefeld, Schulzentrum Achter de Weiden",
+        "hosting_club": "BW96 Schenefeld",
+        "game_day_id": 5406,
+        "date": "2018-11-18",
+        "time": "12:20",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Wyker TB",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a86f2c808edaf6bc2051d3b79c7060f92d28519f/52-wyker.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a86f2c808edaf6bc2051d3b79c7060f92d28519f/52-wyker.png",
+        "guest_team_name": "Gettorfer TV",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "nominated_referee_string": "BW96",
+        "referees": [
+            {
+                "license_id": "2308",
+                "first_name": "Janek",
+                "last_name": "Wöbke"
+            },
+            {
+                "license_id": "4179",
+                "first_name": "Jakob",
+                "last_name": "Heins"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "18:5",
+        "result": {
+            "home_goals": 18,
+            "guest_goals": 5,
+            "home_goals_period": [
+                10,
+                8,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                3,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16214,
+        "game_number": 4,
+        "game_day": 1,
+        "arena": 336,
+        "arena_name": "Schulzentrum Achter de Weiden",
+        "arena_address": "Achter de Weiden 32, 22869 Schenefeld",
+        "arena_short": "Schenefeld, Schulzentrum Achter de Weiden",
+        "hosting_club": "BW96 Schenefeld",
+        "game_day_id": 5406,
+        "date": "2018-11-18",
+        "time": "13:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TG Lauenburg",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c1f8263b564283ad675193a2597c330546b2023f/218-lauenburg.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c1f8263b564283ad675193a2597c330546b2023f/218-lauenburg.png",
+        "guest_team_name": "TSC Wellingsbüttel",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a88a757171987186290119386efc234da918947/170-tscwellingsbuettel.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a88a757171987186290119386efc234da918947/170-tscwellingsbuettel.png",
+        "nominated_referee_string": "BW96",
+        "referees": [
+            {
+                "license_id": "2308",
+                "first_name": "Janek",
+                "last_name": "Wöbke"
+            },
+            {
+                "license_id": "3973",
+                "first_name": "Janik",
+                "last_name": "Böttcher"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "8:10",
+        "result": {
+            "home_goals": 8,
+            "guest_goals": 10,
+            "home_goals_period": [
+                3,
+                5,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                3,
+                7,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16215,
+        "game_number": 5,
+        "game_day": 1,
+        "arena": 336,
+        "arena_name": "Schulzentrum Achter de Weiden",
+        "arena_address": "Achter de Weiden 32, 22869 Schenefeld",
+        "arena_short": "Schenefeld, Schulzentrum Achter de Weiden",
+        "hosting_club": "BW96 Schenefeld",
+        "game_day_id": 5406,
+        "date": "2018-11-18",
+        "time": "14:40",
+        "started": true,
+        "ended": true,
+        "home_team_name": "BW96 Schenefeld 1",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_name": "Wyker TB",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a86f2c808edaf6bc2051d3b79c7060f92d28519f/52-wyker.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a86f2c808edaf6bc2051d3b79c7060f92d28519f/52-wyker.png",
+        "nominated_referee_string": "WEL",
+        "referees": [
+            {
+                "license_id": "800",
+                "first_name": "Maximilian",
+                "last_name": "Holtgraefe"
+            },
+            {
+                "license_id": "3477",
+                "first_name": "Christoph",
+                "last_name": "Goers"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "9:10",
+        "result": {
+            "home_goals": 9,
+            "guest_goals": 10,
+            "home_goals_period": [
+                4,
+                5,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                5,
+                4,
+                1,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16216,
+        "game_number": 6,
+        "game_day": 1,
+        "arena": 336,
+        "arena_name": "Schulzentrum Achter de Weiden",
+        "arena_address": "Achter de Weiden 32, 22869 Schenefeld",
+        "arena_short": "Schenefeld, Schulzentrum Achter de Weiden",
+        "hosting_club": "BW96 Schenefeld",
+        "game_day_id": 5406,
+        "date": "2018-11-18",
+        "time": "15:50",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TSC Wellingsbüttel",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a88a757171987186290119386efc234da918947/170-tscwellingsbuettel.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a88a757171987186290119386efc234da918947/170-tscwellingsbuettel.png",
+        "guest_team_name": "SG BW96Schenefeld/SVE Hamburg",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "nominated_referee_string": "BW96",
+        "referees": [
+            {
+                "license_id": "2308",
+                "first_name": "Janek",
+                "last_name": "Wöbke"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "9:11",
+        "result": {
+            "home_goals": 9,
+            "guest_goals": 11,
+            "home_goals_period": [
+                1,
+                8,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                7,
+                4,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16217,
+        "game_number": 7,
+        "game_day": 2,
+        "arena": 576,
+        "arena_name": "Albinus-Gemeinschaftsschule",
+        "arena_address": "Schulstr. 1, 21481 Lauenburg",
+        "arena_short": "Lauenburg, Albinus-Gemeinschaftsschule",
+        "hosting_club": "TG Lauenburg",
+        "game_day_id": 5407,
+        "date": "2018-12-02",
+        "time": "11:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TSC Wellingsbüttel",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a88a757171987186290119386efc234da918947/170-tscwellingsbuettel.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a88a757171987186290119386efc234da918947/170-tscwellingsbuettel.png",
+        "guest_team_name": "BW96 Schenefeld 1",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "nominated_referee_string": "SVE",
+        "referees": [
+            {
+                "license_id": "2308",
+                "first_name": "Janek",
+                "last_name": "Wöbke"
+            },
+            {
+                "license_id": "4184",
+                "first_name": "Tim",
+                "last_name": "Glindemann"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "7:5",
+        "result": {
+            "home_goals": 7,
+            "guest_goals": 5,
+            "home_goals_period": [
+                5,
+                2,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                3,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16218,
+        "game_number": 8,
+        "game_day": 2,
+        "arena": 576,
+        "arena_name": "Albinus-Gemeinschaftsschule",
+        "arena_address": "Schulstr. 1, 21481 Lauenburg",
+        "arena_short": "Lauenburg, Albinus-Gemeinschaftsschule",
+        "hosting_club": "TG Lauenburg",
+        "game_day_id": 5407,
+        "date": "2018-12-02",
+        "time": "12:10",
+        "started": true,
+        "ended": true,
+        "home_team_name": "SG BW96Schenefeld/SVE Hamburg",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_name": "TG Lauenburg",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c1f8263b564283ad675193a2597c330546b2023f/218-lauenburg.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c1f8263b564283ad675193a2597c330546b2023f/218-lauenburg.png",
+        "nominated_referee_string": "WEL",
+        "referees": [
+            {
+                "license_id": "800",
+                "first_name": "Maximilian",
+                "last_name": "Holtgraefe"
+            },
+            {
+                "license_id": "3477",
+                "first_name": "Christoph",
+                "last_name": "Goers"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "9:11",
+        "result": {
+            "home_goals": 9,
+            "guest_goals": 11,
+            "home_goals_period": [
+                6,
+                3,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                8,
+                3,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16219,
+        "game_number": 9,
+        "game_day": 2,
+        "arena": 576,
+        "arena_name": "Albinus-Gemeinschaftsschule",
+        "arena_address": "Schulstr. 1, 21481 Lauenburg",
+        "arena_short": "Lauenburg, Albinus-Gemeinschaftsschule",
+        "hosting_club": "TG Lauenburg",
+        "game_day_id": 5407,
+        "date": "2018-12-02",
+        "time": "13:20",
+        "started": true,
+        "ended": true,
+        "home_team_name": "BW96 Schenefeld 1",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_name": "Gettorfer TV",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "nominated_referee_string": "SVE",
+        "referees": [
+            {
+                "license_id": "2308",
+                "first_name": "Janek",
+                "last_name": "Wöbke"
+            },
+            {
+                "license_id": "3973",
+                "first_name": "Janik",
+                "last_name": "Böttcher"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "8:4",
+        "result": {
+            "home_goals": 8,
+            "guest_goals": 4,
+            "home_goals_period": [
+                4,
+                4,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                3,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16220,
+        "game_number": 10,
+        "game_day": 2,
+        "arena": 576,
+        "arena_name": "Albinus-Gemeinschaftsschule",
+        "arena_address": "Schulstr. 1, 21481 Lauenburg",
+        "arena_short": "Lauenburg, Albinus-Gemeinschaftsschule",
+        "hosting_club": "TG Lauenburg",
+        "game_day_id": 5407,
+        "date": "2018-12-02",
+        "time": "14:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TSC Wellingsbüttel",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a88a757171987186290119386efc234da918947/170-tscwellingsbuettel.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a88a757171987186290119386efc234da918947/170-tscwellingsbuettel.png",
+        "guest_team_name": "TG Lauenburg",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c1f8263b564283ad675193a2597c330546b2023f/218-lauenburg.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c1f8263b564283ad675193a2597c330546b2023f/218-lauenburg.png",
+        "nominated_referee_string": "GTV/BW96",
+        "referees": [
+            {
+                "license_id": "2308",
+                "first_name": "Janek",
+                "last_name": "Wöbke"
+            },
+            {
+                "license_id": "3044",
+                "first_name": "Ole",
+                "last_name": "Schröder"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "10:6",
+        "result": {
+            "home_goals": 10,
+            "guest_goals": 6,
+            "home_goals_period": [
+                4,
+                6,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                5,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16221,
+        "game_number": 11,
+        "game_day": 2,
+        "arena": 576,
+        "arena_name": "Albinus-Gemeinschaftsschule",
+        "arena_address": "Schulstr. 1, 21481 Lauenburg",
+        "arena_short": "Lauenburg, Albinus-Gemeinschaftsschule",
+        "hosting_club": "TG Lauenburg",
+        "game_day_id": 5407,
+        "date": "2018-12-02",
+        "time": "15:40",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Gettorfer TV",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "guest_team_name": "SG BW96Schenefeld/SVE Hamburg",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "nominated_referee_string": "WEL",
+        "referees": [
+            {
+                "license_id": "800",
+                "first_name": "Maximilian",
+                "last_name": "Holtgraefe"
+            },
+            {
+                "license_id": "3477",
+                "first_name": "Christoph",
+                "last_name": "Goers"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "7:10",
+        "result": {
+            "home_goals": 7,
+            "guest_goals": 10,
+            "home_goals_period": [
+                5,
+                2,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                6,
+                4,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16224,
+        "game_number": 12,
+        "game_day": 3,
+        "arena": 318,
+        "arena_name": "Schulzentrum",
+        "arena_address": "Süderstraße 72-74, 24214 Gettorf",
+        "arena_short": "Gettorf, Schulzentrum",
+        "hosting_club": "Gettorfer TV",
+        "game_day_id": 5408,
+        "date": "2019-01-13",
+        "time": "10:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Gettorfer TV",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "guest_team_name": "BW96 Schenefeld 1",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "nominated_referee_string": "SVE",
+        "referees": [
+            {
+                "license_id": "2308",
+                "first_name": "Janek",
+                "last_name": "Wöbke"
+            },
+            {
+                "license_id": "4184",
+                "first_name": "Tim",
+                "last_name": "Glindemann"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "2:15",
+        "result": {
+            "home_goals": 2,
+            "guest_goals": 15,
+            "home_goals_period": [
+                0,
+                2,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                5,
+                10,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16225,
+        "game_number": 13,
+        "game_day": 3,
+        "arena": 318,
+        "arena_name": "Schulzentrum",
+        "arena_address": "Süderstraße 72-74, 24214 Gettorf",
+        "arena_short": "Gettorf, Schulzentrum",
+        "hosting_club": "Gettorfer TV",
+        "game_day_id": 5408,
+        "date": "2019-01-13",
+        "time": "11:40",
+        "started": true,
+        "ended": true,
+        "home_team_name": "SG BW96Schenefeld/SVE Hamburg",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_name": "Wyker TB",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a86f2c808edaf6bc2051d3b79c7060f92d28519f/52-wyker.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a86f2c808edaf6bc2051d3b79c7060f92d28519f/52-wyker.png",
+        "nominated_referee_string": "GTV",
+        "referees": [
+            {
+                "license_id": "810",
+                "first_name": "Steffen",
+                "last_name": "Fuchs"
+            },
+            {
+                "license_id": "3044",
+                "first_name": "Ole",
+                "last_name": "Schröder"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "3:20",
+        "result": {
+            "home_goals": 3,
+            "guest_goals": 20,
+            "home_goals_period": [
+                3,
+                0,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                9,
+                11,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16226,
+        "game_number": 14,
+        "game_day": 3,
+        "arena": 318,
+        "arena_name": "Schulzentrum",
+        "arena_address": "Süderstraße 72-74, 24214 Gettorf",
+        "arena_short": "Gettorf, Schulzentrum",
+        "hosting_club": "Gettorfer TV",
+        "game_day_id": 5408,
+        "date": "2019-01-13",
+        "time": "12:50",
+        "started": true,
+        "ended": true,
+        "home_team_name": "BW96 Schenefeld 1",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_name": "TG Lauenburg",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c1f8263b564283ad675193a2597c330546b2023f/218-lauenburg.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c1f8263b564283ad675193a2597c330546b2023f/218-lauenburg.png",
+        "nominated_referee_string": "GTV",
+        "referees": [
+            {
+                "license_id": "2280",
+                "first_name": "Volker",
+                "last_name": "Justen"
+            },
+            {
+                "license_id": "4162",
+                "first_name": "Cathrin",
+                "last_name": "Schröder"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "23:1",
+        "result": {
+            "home_goals": 23,
+            "guest_goals": 1,
+            "home_goals_period": [
+                11,
+                12,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                0,
+                1,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16227,
+        "game_number": 15,
+        "game_day": 3,
+        "arena": 318,
+        "arena_name": "Schulzentrum",
+        "arena_address": "Süderstraße 72-74, 24214 Gettorf",
+        "arena_short": "Gettorf, Schulzentrum",
+        "hosting_club": "Gettorfer TV",
+        "game_day_id": 5408,
+        "date": "2019-01-13",
+        "time": "14:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Wyker TB",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a86f2c808edaf6bc2051d3b79c7060f92d28519f/52-wyker.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a86f2c808edaf6bc2051d3b79c7060f92d28519f/52-wyker.png",
+        "guest_team_name": "Gettorfer TV",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "nominated_referee_string": "BW96",
+        "referees": [
+            {
+                "license_id": "2308",
+                "first_name": "Janek",
+                "last_name": "Wöbke"
+            },
+            {
+                "license_id": "4184",
+                "first_name": "Tim",
+                "last_name": "Glindemann"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "24:2",
+        "result": {
+            "home_goals": 24,
+            "guest_goals": 2,
+            "home_goals_period": [
+                14,
+                10,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                1,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16228,
+        "game_number": 16,
+        "game_day": 3,
+        "arena": 318,
+        "arena_name": "Schulzentrum",
+        "arena_address": "Süderstraße 72-74, 24214 Gettorf",
+        "arena_short": "Gettorf, Schulzentrum",
+        "hosting_club": "Gettorfer TV",
+        "game_day_id": 5408,
+        "date": "2019-01-13",
+        "time": "15:10",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TG Lauenburg",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c1f8263b564283ad675193a2597c330546b2023f/218-lauenburg.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c1f8263b564283ad675193a2597c330546b2023f/218-lauenburg.png",
+        "guest_team_name": "SG BW96Schenefeld/SVE Hamburg",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "nominated_referee_string": "GTV",
+        "referees": [
+            {
+                "license_id": "2280",
+                "first_name": "Volker",
+                "last_name": "Justen"
+            },
+            {
+                "license_id": "4154",
+                "first_name": "Annika",
+                "last_name": "Pahlke"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "7:11",
+        "result": {
+            "home_goals": 7,
+            "guest_goals": 11,
+            "home_goals_period": [
+                2,
+                5,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                9,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16231,
+        "game_number": 17,
+        "game_day": 4,
+        "arena": 291,
+        "arena_name": "Halle am Pfeilshof",
+        "arena_address": "Am Pfeilshof 20, 22393 Hamburg",
+        "arena_short": "Hamburg, Halle am Pfeilshof",
+        "hosting_club": "TSC Wellingsbüttel",
+        "game_day_id": 5409,
+        "date": "2019-02-09",
+        "time": "11:20",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Gettorfer TV",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "guest_team_name": "SG BW96Schenefeld/SVE Hamburg",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "nominated_referee_string": "WEL",
+        "referees": [
+            {
+                "license_id": "2787",
+                "first_name": "Lara",
+                "last_name": "Nethe"
+            },
+            {
+                "license_id": "2286",
+                "first_name": "Frederic",
+                "last_name": "Thiele"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "1:17",
+        "result": {
+            "home_goals": 1,
+            "guest_goals": 17,
+            "home_goals_period": [
+                0,
+                1,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                6,
+                11,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16232,
+        "game_number": 18,
+        "game_day": 4,
+        "arena": 291,
+        "arena_name": "Halle am Pfeilshof",
+        "arena_address": "Am Pfeilshof 20, 22393 Hamburg",
+        "arena_short": "Hamburg, Halle am Pfeilshof",
+        "hosting_club": "TSC Wellingsbüttel",
+        "game_day_id": 5409,
+        "date": "2019-02-09",
+        "time": "12:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Wyker TB",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a86f2c808edaf6bc2051d3b79c7060f92d28519f/52-wyker.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a86f2c808edaf6bc2051d3b79c7060f92d28519f/52-wyker.png",
+        "guest_team_name": "TSC Wellingsbüttel",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a88a757171987186290119386efc234da918947/170-tscwellingsbuettel.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a88a757171987186290119386efc234da918947/170-tscwellingsbuettel.png",
+        "nominated_referee_string": "GTV",
+        "referees": [
+            {
+                "license_id": "2280",
+                "first_name": "Volker",
+                "last_name": "Justen"
+            },
+            {
+                "license_id": "4153",
+                "first_name": "Bjarne Mathi",
+                "last_name": "Scholz"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "12:10",
+        "result": {
+            "home_goals": 12,
+            "guest_goals": 10,
+            "home_goals_period": [
+                5,
+                7,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                4,
+                6,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16233,
+        "game_number": 19,
+        "game_day": 4,
+        "arena": 291,
+        "arena_name": "Halle am Pfeilshof",
+        "arena_address": "Am Pfeilshof 20, 22393 Hamburg",
+        "arena_short": "Hamburg, Halle am Pfeilshof",
+        "hosting_club": "TSC Wellingsbüttel",
+        "game_day_id": 5409,
+        "date": "2019-02-09",
+        "time": "14:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Wyker TB",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a86f2c808edaf6bc2051d3b79c7060f92d28519f/52-wyker.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a86f2c808edaf6bc2051d3b79c7060f92d28519f/52-wyker.png",
+        "guest_team_name": "SG BW96Schenefeld/SVE Hamburg",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "nominated_referee_string": "WEL",
+        "referees": [
+            {
+                "license_id": "2787",
+                "first_name": "Lara",
+                "last_name": "Nethe"
+            },
+            {
+                "license_id": "3477",
+                "first_name": "Christoph",
+                "last_name": "Goers"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "12:10",
+        "result": {
+            "home_goals": 12,
+            "guest_goals": 10,
+            "home_goals_period": [
+                4,
+                8,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                7,
+                3,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16234,
+        "game_number": 20,
+        "game_day": 4,
+        "arena": 291,
+        "arena_name": "Halle am Pfeilshof",
+        "arena_address": "Am Pfeilshof 20, 22393 Hamburg",
+        "arena_short": "Hamburg, Halle am Pfeilshof",
+        "hosting_club": "TSC Wellingsbüttel",
+        "game_day_id": 5409,
+        "date": "2019-02-09",
+        "time": "15:10",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TSC Wellingsbüttel",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a88a757171987186290119386efc234da918947/170-tscwellingsbuettel.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a88a757171987186290119386efc234da918947/170-tscwellingsbuettel.png",
+        "guest_team_name": "Gettorfer TV",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "nominated_referee_string": "SVE",
+        "referees": [
+            {
+                "license_id": "2633",
+                "first_name": "Jordi",
+                "last_name": "Carstens"
+            },
+            {
+                "license_id": "3973",
+                "first_name": "Janik",
+                "last_name": "Böttcher"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "15:6",
+        "result": {
+            "home_goals": 15,
+            "guest_goals": 6,
+            "home_goals_period": [
+                6,
+                9,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                3,
+                3,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16237,
+        "game_number": 21,
+        "game_day": 5,
+        "arena": 336,
+        "arena_name": "Schulzentrum Achter de Weiden",
+        "arena_address": "Achter de Weiden 32, 22869 Schenefeld",
+        "arena_short": "Schenefeld, Schulzentrum Achter de Weiden",
+        "hosting_club": "BW96 Schenefeld",
+        "game_day_id": 5410,
+        "date": "2019-02-24",
+        "time": "10:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "SG BW96Schenefeld/SVE Hamburg",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_name": "TSC Wellingsbüttel",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a88a757171987186290119386efc234da918947/170-tscwellingsbuettel.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a88a757171987186290119386efc234da918947/170-tscwellingsbuettel.png",
+        "nominated_referee_string": "BW96 1",
+        "referees": [
+            {
+                "license_id": "2308",
+                "first_name": "Janek",
+                "last_name": "Wöbke"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "8:11",
+        "result": {
+            "home_goals": 8,
+            "guest_goals": 11,
+            "home_goals_period": [
+                3,
+                5,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                6,
+                5,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16238,
+        "game_number": 22,
+        "game_day": 5,
+        "arena": 336,
+        "arena_name": "Schulzentrum Achter de Weiden",
+        "arena_address": "Achter de Weiden 32, 22869 Schenefeld",
+        "arena_short": "Schenefeld, Schulzentrum Achter de Weiden",
+        "hosting_club": "BW96 Schenefeld",
+        "game_day_id": 5410,
+        "date": "2019-02-24",
+        "time": "11:10",
+        "started": true,
+        "ended": true,
+        "home_team_name": "BW96 Schenefeld 1",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_name": "TG Lauenburg",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c1f8263b564283ad675193a2597c330546b2023f/218-lauenburg.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c1f8263b564283ad675193a2597c330546b2023f/218-lauenburg.png",
+        "nominated_referee_string": "SVE",
+        "referees": [
+            {
+                "license_id": "2308",
+                "first_name": "Janek",
+                "last_name": "Wöbke"
+            },
+            {
+                "license_id": "3973",
+                "first_name": "Janik",
+                "last_name": "Böttcher"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "4:6",
+        "result": {
+            "home_goals": 4,
+            "guest_goals": 6,
+            "home_goals_period": [
+                2,
+                2,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                4,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16239,
+        "game_number": 23,
+        "game_day": 5,
+        "arena": 336,
+        "arena_name": "Schulzentrum Achter de Weiden",
+        "arena_address": "Achter de Weiden 32, 22869 Schenefeld",
+        "arena_short": "Schenefeld, Schulzentrum Achter de Weiden",
+        "hosting_club": "BW96 Schenefeld",
+        "game_day_id": 5410,
+        "date": "2019-02-24",
+        "time": "12:20",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Wyker TB",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a86f2c808edaf6bc2051d3b79c7060f92d28519f/52-wyker.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a86f2c808edaf6bc2051d3b79c7060f92d28519f/52-wyker.png",
+        "guest_team_name": "TSC Wellingsbüttel",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a88a757171987186290119386efc234da918947/170-tscwellingsbuettel.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a88a757171987186290119386efc234da918947/170-tscwellingsbuettel.png",
+        "nominated_referee_string": "BW96",
+        "referees": [
+            {
+                "license_id": "2308",
+                "first_name": "Janek",
+                "last_name": "Wöbke"
+            },
+            {
+                "license_id": "4184",
+                "first_name": "Tim",
+                "last_name": "Glindemann"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "11:10",
+        "result": {
+            "home_goals": 11,
+            "guest_goals": 10,
+            "home_goals_period": [
+                5,
+                6,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                6,
+                4,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16240,
+        "game_number": 24,
+        "game_day": 5,
+        "arena": 336,
+        "arena_name": "Schulzentrum Achter de Weiden",
+        "arena_address": "Achter de Weiden 32, 22869 Schenefeld",
+        "arena_short": "Schenefeld, Schulzentrum Achter de Weiden",
+        "hosting_club": "BW96 Schenefeld",
+        "game_day_id": 5410,
+        "date": "2019-02-24",
+        "time": "13:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TG Lauenburg",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c1f8263b564283ad675193a2597c330546b2023f/218-lauenburg.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c1f8263b564283ad675193a2597c330546b2023f/218-lauenburg.png",
+        "guest_team_name": "Wyker TB",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a86f2c808edaf6bc2051d3b79c7060f92d28519f/52-wyker.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a86f2c808edaf6bc2051d3b79c7060f92d28519f/52-wyker.png",
+        "nominated_referee_string": "SVE",
+        "referees": [
+            {
+                "license_id": "2308",
+                "first_name": "Janek",
+                "last_name": "Wöbke"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "8:9",
+        "result": {
+            "home_goals": 8,
+            "guest_goals": 9,
+            "home_goals_period": [
+                2,
+                6,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                4,
+                5,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16241,
+        "game_number": 25,
+        "game_day": 5,
+        "arena": 336,
+        "arena_name": "Schulzentrum Achter de Weiden",
+        "arena_address": "Achter de Weiden 32, 22869 Schenefeld",
+        "arena_short": "Schenefeld, Schulzentrum Achter de Weiden",
+        "hosting_club": "BW96 Schenefeld",
+        "game_day_id": 5410,
+        "date": "2019-02-24",
+        "time": "15:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "SG BW96Schenefeld/SVE Hamburg",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_name": "BW96 Schenefeld 1",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "nominated_referee_string": "WEL",
+        "referees": [
+            {
+                "license_id": "800",
+                "first_name": "Maximilian",
+                "last_name": "Holtgraefe"
+            },
+            {
+                "license_id": "3477",
+                "first_name": "Christoph",
+                "last_name": "Goers"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "8:8 n.V.",
+        "result": {
+            "home_goals": 8,
+            "guest_goals": 8,
+            "home_goals_period": [
+                4,
+                4,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                6,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "n.V.",
+                "long": "nach Verlängerung"
+            },
+            "forfait": false,
+            "overtime": true
+        }
+    },
+    {
+        "game_id": 16252,
+        "game_number": 28,
+        "game_day": 7,
+        "arena": 291,
+        "arena_name": "Halle am Pfeilshof",
+        "arena_address": "Am Pfeilshof 20, 22393 Hamburg",
+        "arena_short": "Hamburg, Halle am Pfeilshof",
+        "hosting_club": "TSC Wellingsbüttel",
+        "game_day_id": 5412,
+        "date": "2019-05-04",
+        "time": "",
+        "started": false,
+        "ended": false,
+        "home_team_name": "BW96 Schenefeld 1",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_name": "Wyker TB",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a86f2c808edaf6bc2051d3b79c7060f92d28519f/52-wyker.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a86f2c808edaf6bc2051d3b79c7060f92d28519f/52-wyker.png",
+        "nominated_referee_string": "WEL",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "no_record",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null
+    },
+    {
+        "game_id": 16253,
+        "game_number": 29,
+        "game_day": 7,
+        "arena": 291,
+        "arena_name": "Halle am Pfeilshof",
+        "arena_address": "Am Pfeilshof 20, 22393 Hamburg",
+        "arena_short": "Hamburg, Halle am Pfeilshof",
+        "hosting_club": "TSC Wellingsbüttel",
+        "game_day_id": 5412,
+        "date": "2019-05-04",
+        "time": "",
+        "started": false,
+        "ended": false,
+        "home_team_name": "TG Lauenburg",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c1f8263b564283ad675193a2597c330546b2023f/218-lauenburg.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c1f8263b564283ad675193a2597c330546b2023f/218-lauenburg.png",
+        "guest_team_name": "Wyker TB",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a86f2c808edaf6bc2051d3b79c7060f92d28519f/52-wyker.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a86f2c808edaf6bc2051d3b79c7060f92d28519f/52-wyker.png",
+        "nominated_referee_string": "WEL",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "no_record",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null
+    },
+    {
+        "game_id": 16250,
+        "game_number": 26,
+        "game_day": 7,
+        "arena": 291,
+        "arena_name": "Halle am Pfeilshof",
+        "arena_address": "Am Pfeilshof 20, 22393 Hamburg",
+        "arena_short": "Hamburg, Halle am Pfeilshof",
+        "hosting_club": "TSC Wellingsbüttel",
+        "game_day_id": 5412,
+        "date": "2019-05-04",
+        "time": "10:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TSC Wellingsbüttel",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a88a757171987186290119386efc234da918947/170-tscwellingsbuettel.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a88a757171987186290119386efc234da918947/170-tscwellingsbuettel.png",
+        "guest_team_name": "BW96 Schenefeld 1",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "nominated_referee_string": "GTV",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "10:17",
+        "result": {
+            "home_goals": 10,
+            "guest_goals": 17,
+            "home_goals_period": [
+                6,
+                4,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                10,
+                7,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16251,
+        "game_number": 27,
+        "game_day": 7,
+        "arena": 291,
+        "arena_name": "Halle am Pfeilshof",
+        "arena_address": "Am Pfeilshof 20, 22393 Hamburg",
+        "arena_short": "Hamburg, Halle am Pfeilshof",
+        "hosting_club": "TSC Wellingsbüttel",
+        "game_day_id": 5412,
+        "date": "2019-05-04",
+        "time": "11:40",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TG Lauenburg",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c1f8263b564283ad675193a2597c330546b2023f/218-lauenburg.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c1f8263b564283ad675193a2597c330546b2023f/218-lauenburg.png",
+        "guest_team_name": "Gettorfer TV",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "nominated_referee_string": "BW96",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "7:2",
+        "result": {
+            "home_goals": 7,
+            "guest_goals": 2,
+            "home_goals_period": [
+                3,
+                4,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16254,
+        "game_number": 30,
+        "game_day": 7,
+        "arena": 291,
+        "arena_name": "Halle am Pfeilshof",
+        "arena_address": "Am Pfeilshof 20, 22393 Hamburg",
+        "arena_short": "Hamburg, Halle am Pfeilshof",
+        "hosting_club": "TSC Wellingsbüttel",
+        "game_day_id": 5412,
+        "date": "2019-05-04",
+        "time": "13:20",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Gettorfer TV",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "guest_team_name": "TSC Wellingsbüttel",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a88a757171987186290119386efc234da918947/170-tscwellingsbuettel.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a88a757171987186290119386efc234da918947/170-tscwellingsbuettel.png",
+        "nominated_referee_string": "BW96",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "7:19",
+        "result": {
+            "home_goals": 7,
+            "guest_goals": 19,
+            "home_goals_period": [
+                1,
+                6,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                8,
+                11,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    }
+]

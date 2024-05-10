@@ -1,0 +1,72 @@
+[
+    {
+        "game_id": 17423,
+        "game_number": 1,
+        "game_day": 1,
+        "arena": 134,
+        "arena_name": "Tallinhalle",
+        "arena_address": "Elendsredder 24, 24106 Kiel",
+        "arena_short": "Kiel, Tallinhalle",
+        "hosting_club": "Kieler Floorball Klub",
+        "game_day_id": 5751,
+        "date": "2019-05-12",
+        "time": "14:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Baltic Storms",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZHc9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--de3eaa272a7165c525881337989ff9fa92e17e01/baltic_storms.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZHc9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--de3eaa272a7165c525881337989ff9fa92e17e01/baltic_storms.png",
+        "guest_team_name": "Hannover Mustangs",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBZUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6ac629bd1deebdc47edad620f318bcd483ac3016/123-hannovermustangs.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBZUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6ac629bd1deebdc47edad620f318bcd483ac3016/123-hannovermustangs.png",
+        "nominated_referee_string": "Richter/Schwulst",
+        "referees": [
+            {
+                "license_id": "3173",
+                "first_name": "Jan",
+                "last_name": "Schwulst"
+            },
+            {
+                "license_id": "798",
+                "first_name": "Bruno",
+                "last_name": "Richter"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "5:4",
+        "result": {
+            "home_goals": 5,
+            "guest_goals": 4,
+            "home_goals_period": [
+                1,
+                1,
+                2,
+                1
+            ],
+            "guest_goals_period": [
+                1,
+                2,
+                1,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    }
+]

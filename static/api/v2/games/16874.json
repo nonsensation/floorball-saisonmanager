@@ -1,0 +1,327 @@
+{
+    "id": 16874,
+    "game_number": "12",
+    "start_time": "17:15",
+    "actual_start_time": null,
+    "date": "2019-02-17",
+    "game_day": {
+        "game_day_number": 2,
+        "title": "2. Spieltag"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": 0,
+    "home_team_name": "TV Dinklage II",
+    "guest_team_name": "Osnabrücker SC",
+    "home_team_id": 2978,
+    "guest_team_id": 2974,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--58525cb11a2239cef5c9282e61bea17ba282c615/118-dinklage.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--58525cb11a2239cef5c9282e61bea17ba282c615/118-dinklage.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBLUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dd2cf303bf0f236f86ed3fcdcff8d7d5fa44cf01/54-osnabrueck.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBLUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dd2cf303bf0f236f86ed3fcdcff8d7d5fa44cf01/54-osnabrueck.png",
+    "live_stream_link": null,
+    "events": [
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 0,
+            "time": "5:20",
+            "sortkey": "1-05:20",
+            "number": 70,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 2,
+            "guest_goals": 0,
+            "time": "10:05",
+            "sortkey": "1-10:05",
+            "number": 33,
+            "assist": 81,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 3,
+            "guest_goals": 0,
+            "time": "12:12",
+            "sortkey": "1-12:12",
+            "number": 46,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 3,
+            "guest_goals": 1,
+            "time": "17:14",
+            "sortkey": "1-17:14",
+            "number": 9,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 4,
+            "guest_goals": 1,
+            "time": "15:53",
+            "sortkey": "2-15:53",
+            "number": 81,
+            "assist": 33,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 4,
+            "guest_goals": 2,
+            "time": "16:08",
+            "sortkey": "2-16:08",
+            "number": 9,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 17147,
+                "goalkeeper": true,
+                "player_name": "Fangmann",
+                "trikot_number": 58,
+                "player_firstname": "Jonas",
+                "position": "Tor"
+            },
+            {
+                "captain": true,
+                "player_id": 15468,
+                "player_name": "Roger",
+                "trikot_number": 81,
+                "player_firstname": "Jens",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17148,
+                "player_name": "Lampe",
+                "trikot_number": 70,
+                "player_firstname": "Henning",
+                "position": "Feld"
+            },
+            {
+                "player_id": 18174,
+                "player_name": "Voet",
+                "trikot_number": 37,
+                "player_firstname": "Maximilian ",
+                "position": "Feld"
+            },
+            {
+                "player_id": 6851,
+                "player_name": "Stolzenbach",
+                "trikot_number": 42,
+                "player_firstname": "Alex",
+                "position": "Feld"
+            },
+            {
+                "player_id": 10573,
+                "player_name": "Berkensträter",
+                "trikot_number": 21,
+                "player_firstname": "Ina",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17782,
+                "player_name": "Dalinghaus ",
+                "trikot_number": 18,
+                "player_firstname": "Constantin",
+                "position": "Feld"
+            },
+            {
+                "player_id": 18930,
+                "player_name": "Hülsmann",
+                "trikot_number": 46,
+                "player_firstname": "Luis",
+                "position": "Feld"
+            },
+            {
+                "player_id": 14851,
+                "player_name": "Arns-Bünnemeyer",
+                "trikot_number": 12,
+                "player_firstname": "Michael",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17523,
+                "player_name": "Diekmann",
+                "trikot_number": 33,
+                "player_firstname": "Hannes",
+                "position": "Feld"
+            },
+            {
+                "player_id": 1261,
+                "player_name": "Schumacher",
+                "trikot_number": 7,
+                "player_firstname": "Mark",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 2843,
+                "player_name": "Knuth",
+                "trikot_number": 9,
+                "player_firstname": "Carsten",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17056,
+                "player_name": "Muhmann",
+                "trikot_number": 29,
+                "player_firstname": "Ralf",
+                "position": "Feld"
+            },
+            {
+                "player_id": 2169,
+                "player_name": "Schauwinhold",
+                "trikot_number": 36,
+                "player_firstname": "Berenike",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 10907,
+                "goalkeeper": true,
+                "player_name": "Riedlsperger",
+                "trikot_number": 22,
+                "player_firstname": "Thomas",
+                "position": "Tor"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "4:2",
+    "result": {
+        "home_goals": 4,
+        "guest_goals": 2,
+        "home_goals_period": [
+            3,
+            1,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            1,
+            1,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 711,
+    "league_name": "Verbandsliga Nordwest Herren (KF) - Platzierungsrunde",
+    "league_short_name": "VL H (KF) - PR",
+    "game_operation_id": 2,
+    "game_operation_name": "Floorball Niedersachsen",
+    "game_operation_short_name": "FVNB",
+    "game_operation_slug": "FVNB",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 86,
+    "arena_name": "Sporthalle Rudgarstraße",
+    "arena_address": "Rudgardstr. 7, 26954 Nordenham",
+    "arena_short": "Nordenham, Sporthalle Rudgarstraße",
+    "nominated_referees": "SV Nordenham",
+    "deletable": false,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": []
+}
