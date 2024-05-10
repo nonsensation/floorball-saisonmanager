@@ -58,12 +58,6 @@ const urlLogoHome = SM.UrlBuilder.getLogoUrl( game[0].home_team_small_logo );
 
 ## Static Cache
 
-To not query the SM-API for every page visit, I have mirrored the JSON files in `static` - the routes remain the same.
-This can be used for content, that is not currently live updated or ongoing like previous match reports or the league structure itself.
+You can use staic cahed JSON files, that mirror the API from [floorball-saisonmanager-data](https://github.com/nonsensation/floorball-saisonmanager-data)
 
-The `download.py` script iterates over all leages and matches and downloads not yet existing JSON files.
-This should ***NOT*** be run by a user, instead clone the `static` folder into your project.
-
-There will be updated instructions on how to switch between live API calls and the static version in the future.
-
-_If you do not know what this does, do not execute the python file, as it downloads tens of thousands files from Saisonmanager, that might get you either blocked, throttled or you DDOS the server._
+Clone/Copy the data over in your public/static folder.
