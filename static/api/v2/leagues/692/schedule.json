@@ -1,0 +1,1340 @@
+[
+    {
+        "game_id": 14294,
+        "game_number": 1,
+        "game_day": 1,
+        "arena": 435,
+        "arena_name": "Sportzentrum Bördestraße",
+        "arena_address": "Bördestraße 10, 28717 Bremen",
+        "arena_short": "Bremen, Sportzentrum Bördestraße",
+        "hosting_club": "TSV Lesum",
+        "game_day_id": 4653,
+        "date": "2018-09-23",
+        "time": "11:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TV Lilienthal",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_name": "SG Bramstedt/Ritterhude",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9256d0e29b5775611409bc76d8f34cf86e7043b3/160-tsvbramstedt.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9256d0e29b5775611409bc76d8f34cf86e7043b3/160-tsvbramstedt.png",
+        "nominated_referee_string": "TSV Lesum-Burgdamm",
+        "referees": [
+            {
+                "license_id": "3118",
+                "first_name": "Max",
+                "last_name": "Hübner"
+            },
+            {
+                "license_id": "2375",
+                "first_name": "Thorsten",
+                "last_name": "Steiert"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "12:3",
+        "result": {
+            "home_goals": 12,
+            "guest_goals": 3,
+            "home_goals_period": [
+                5,
+                7,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                2,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 14295,
+        "game_number": 2,
+        "game_day": 1,
+        "arena": 435,
+        "arena_name": "Sportzentrum Bördestraße",
+        "arena_address": "Bördestraße 10, 28717 Bremen",
+        "arena_short": "Bremen, Sportzentrum Bördestraße",
+        "hosting_club": "TSV Lesum",
+        "game_day_id": 4653,
+        "date": "2018-09-23",
+        "time": "12:15",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TSV Lesum-Burgdamm",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea67cf61fe9b40d7af76fff2a2eaa4c168fe13a6/47-lesumburgdamm.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea67cf61fe9b40d7af76fff2a2eaa4c168fe13a6/47-lesumburgdamm.png",
+        "guest_team_name": "ATS Buntentor Knights",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a04582552e9f557792967558b753a70f12637dee/128-buntentor.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a04582552e9f557792967558b753a70f12637dee/128-buntentor.png",
+        "nominated_referee_string": "TSV Bramstedt",
+        "referees": [
+            {
+                "license_id": "1595",
+                "first_name": "Sören",
+                "last_name": "Westphal"
+            },
+            {
+                "license_id": "3694",
+                "first_name": "Bartlomiej",
+                "last_name": "Buller"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "11:1",
+        "result": {
+            "home_goals": 11,
+            "guest_goals": 1,
+            "home_goals_period": [
+                3,
+                8,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                0,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 14296,
+        "game_number": 3,
+        "game_day": 1,
+        "arena": 435,
+        "arena_name": "Sportzentrum Bördestraße",
+        "arena_address": "Bördestraße 10, 28717 Bremen",
+        "arena_short": "Bremen, Sportzentrum Bördestraße",
+        "hosting_club": "TSV Lesum",
+        "game_day_id": 4653,
+        "date": "2018-09-23",
+        "time": "13:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "SG Bramstedt/Ritterhude",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9256d0e29b5775611409bc76d8f34cf86e7043b3/160-tsvbramstedt.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9256d0e29b5775611409bc76d8f34cf86e7043b3/160-tsvbramstedt.png",
+        "guest_team_name": "TV Eiche Horn Bremen",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+        "nominated_referee_string": "ATS Buntentor",
+        "referees": [
+            {
+                "license_id": "1640",
+                "first_name": "Joshua",
+                "last_name": "Haake"
+            },
+            {
+                "license_id": "2348",
+                "first_name": "Jan",
+                "last_name": "Sandermann"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "1:9",
+        "result": {
+            "home_goals": 1,
+            "guest_goals": 9,
+            "home_goals_period": [
+                1,
+                0,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                5,
+                4,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 14297,
+        "game_number": 4,
+        "game_day": 1,
+        "arena": 435,
+        "arena_name": "Sportzentrum Bördestraße",
+        "arena_address": "Bördestraße 10, 28717 Bremen",
+        "arena_short": "Bremen, Sportzentrum Bördestraße",
+        "hosting_club": "TSV Lesum",
+        "game_day_id": 4653,
+        "date": "2018-09-23",
+        "time": "14:45",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TSV Lesum-Burgdamm",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea67cf61fe9b40d7af76fff2a2eaa4c168fe13a6/47-lesumburgdamm.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea67cf61fe9b40d7af76fff2a2eaa4c168fe13a6/47-lesumburgdamm.png",
+        "guest_team_name": "TV Lilienthal",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "nominated_referee_string": "TV Eiche Horn Bremen",
+        "referees": [
+            {
+                "license_id": "149",
+                "first_name": "Noah",
+                "last_name": "Ehrenfried"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "11:1",
+        "result": {
+            "home_goals": 11,
+            "guest_goals": 1,
+            "home_goals_period": [
+                4,
+                7,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                0,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 14298,
+        "game_number": 5,
+        "game_day": 1,
+        "arena": 435,
+        "arena_name": "Sportzentrum Bördestraße",
+        "arena_address": "Bördestraße 10, 28717 Bremen",
+        "arena_short": "Bremen, Sportzentrum Bördestraße",
+        "hosting_club": "TSV Lesum",
+        "game_day_id": 4653,
+        "date": "2018-09-23",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TV Eiche Horn Bremen",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+        "guest_team_name": "ATS Buntentor Knights",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a04582552e9f557792967558b753a70f12637dee/128-buntentor.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a04582552e9f557792967558b753a70f12637dee/128-buntentor.png",
+        "nominated_referee_string": "TSV Lesum-Burgdamm",
+        "referees": [
+            {
+                "license_id": "3118",
+                "first_name": "Max",
+                "last_name": "Hübner"
+            },
+            {
+                "license_id": "2803",
+                "first_name": "Sjörn",
+                "last_name": "Axmann"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "5:4",
+        "result": {
+            "home_goals": 5,
+            "guest_goals": 4,
+            "home_goals_period": [
+                1,
+                4,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                3,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 14299,
+        "game_number": 6,
+        "game_day": 2,
+        "arena": 246,
+        "arena_name": "Sporthalle Moormannskamp",
+        "arena_address": "Moormannskamp 8, 27721 Ritterhude",
+        "arena_short": "Ritterhude, Sporthalle Moormannskamp",
+        "hosting_club": "TSV Bramstedt",
+        "game_day_id": 4654,
+        "date": "2018-10-06",
+        "time": "11:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TV Eiche Horn Bremen",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+        "guest_team_name": "TSV Lesum-Burgdamm",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea67cf61fe9b40d7af76fff2a2eaa4c168fe13a6/47-lesumburgdamm.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea67cf61fe9b40d7af76fff2a2eaa4c168fe13a6/47-lesumburgdamm.png",
+        "nominated_referee_string": "TSV Bramstedt",
+        "referees": [
+            {
+                "license_id": "2382",
+                "first_name": "Michael",
+                "last_name": "Volling"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "5:12",
+        "result": {
+            "home_goals": 5,
+            "guest_goals": 12,
+            "home_goals_period": [
+                3,
+                2,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                7,
+                5,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 14300,
+        "game_number": 7,
+        "game_day": 2,
+        "arena": 246,
+        "arena_name": "Sporthalle Moormannskamp",
+        "arena_address": "Moormannskamp 8, 27721 Ritterhude",
+        "arena_short": "Ritterhude, Sporthalle Moormannskamp",
+        "hosting_club": "TSV Bramstedt",
+        "game_day_id": 4654,
+        "date": "2018-10-06",
+        "time": "12:15",
+        "started": true,
+        "ended": true,
+        "home_team_name": "SG Bramstedt/Ritterhude",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9256d0e29b5775611409bc76d8f34cf86e7043b3/160-tsvbramstedt.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9256d0e29b5775611409bc76d8f34cf86e7043b3/160-tsvbramstedt.png",
+        "guest_team_name": "ATS Buntentor Knights",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a04582552e9f557792967558b753a70f12637dee/128-buntentor.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a04582552e9f557792967558b753a70f12637dee/128-buntentor.png",
+        "nominated_referee_string": "TV Eiche Horn Bremen",
+        "referees": [
+            {
+                "license_id": "3600",
+                "first_name": "Katharina",
+                "last_name": "Meyer"
+            },
+            {
+                "license_id": "844",
+                "first_name": "Marcel",
+                "last_name": "Westermann"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "3:13",
+        "result": {
+            "home_goals": 3,
+            "guest_goals": 13,
+            "home_goals_period": [
+                2,
+                1,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                4,
+                9,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 14301,
+        "game_number": 8,
+        "game_day": 2,
+        "arena": 246,
+        "arena_name": "Sporthalle Moormannskamp",
+        "arena_address": "Moormannskamp 8, 27721 Ritterhude",
+        "arena_short": "Ritterhude, Sporthalle Moormannskamp",
+        "hosting_club": "TSV Bramstedt",
+        "game_day_id": 4654,
+        "date": "2018-10-06",
+        "time": "13:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TV Eiche Horn Bremen",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+        "guest_team_name": "TV Lilienthal",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "nominated_referee_string": "ATS Buntentor",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "17:1",
+        "result": {
+            "home_goals": 17,
+            "guest_goals": 1,
+            "home_goals_period": [
+                10,
+                7,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                0,
+                1,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 14302,
+        "game_number": 9,
+        "game_day": 2,
+        "arena": 246,
+        "arena_name": "Sporthalle Moormannskamp",
+        "arena_address": "Moormannskamp 8, 27721 Ritterhude",
+        "arena_short": "Ritterhude, Sporthalle Moormannskamp",
+        "hosting_club": "TSV Bramstedt",
+        "game_day_id": 4654,
+        "date": "2018-10-06",
+        "time": "14:45",
+        "started": true,
+        "ended": true,
+        "home_team_name": "SG Bramstedt/Ritterhude",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9256d0e29b5775611409bc76d8f34cf86e7043b3/160-tsvbramstedt.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9256d0e29b5775611409bc76d8f34cf86e7043b3/160-tsvbramstedt.png",
+        "guest_team_name": "TSV Lesum-Burgdamm",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea67cf61fe9b40d7af76fff2a2eaa4c168fe13a6/47-lesumburgdamm.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea67cf61fe9b40d7af76fff2a2eaa4c168fe13a6/47-lesumburgdamm.png",
+        "nominated_referee_string": "TV Lilienthal",
+        "referees": [
+            {
+                "license_id": "3102",
+                "first_name": "Joshua",
+                "last_name": "Dantz"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "3:19",
+        "result": {
+            "home_goals": 3,
+            "guest_goals": 19,
+            "home_goals_period": [
+                1,
+                2,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                12,
+                7,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 14303,
+        "game_number": 10,
+        "game_day": 2,
+        "arena": 246,
+        "arena_name": "Sporthalle Moormannskamp",
+        "arena_address": "Moormannskamp 8, 27721 Ritterhude",
+        "arena_short": "Ritterhude, Sporthalle Moormannskamp",
+        "hosting_club": "TSV Bramstedt",
+        "game_day_id": 4654,
+        "date": "2018-10-06",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "ATS Buntentor Knights",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a04582552e9f557792967558b753a70f12637dee/128-buntentor.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a04582552e9f557792967558b753a70f12637dee/128-buntentor.png",
+        "guest_team_name": "TV Lilienthal",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "nominated_referee_string": "TSV Bramstedt",
+        "referees": [
+            {
+                "license_id": "2375",
+                "first_name": "Thorsten",
+                "last_name": "Steiert"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "18:4",
+        "result": {
+            "home_goals": 18,
+            "guest_goals": 4,
+            "home_goals_period": [
+                11,
+                7,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                2,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 14304,
+        "game_number": 11,
+        "game_day": 3,
+        "arena": 230,
+        "arena_name": "Sporthalle Stadtwerder",
+        "arena_address": "Weg zum Krähenberg 33, 28201 Bremen",
+        "arena_short": "Bremen, Sporthalle Stadtwerder",
+        "hosting_club": "ATS Buntentor",
+        "game_day_id": 4655,
+        "date": "2018-11-03",
+        "time": "11:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TV Eiche Horn Bremen",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+        "guest_team_name": "SG Bramstedt/Ritterhude",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9256d0e29b5775611409bc76d8f34cf86e7043b3/160-tsvbramstedt.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9256d0e29b5775611409bc76d8f34cf86e7043b3/160-tsvbramstedt.png",
+        "nominated_referee_string": "ATS Buntentor",
+        "referees": [
+            {
+                "license_id": "1640",
+                "first_name": "Joshua",
+                "last_name": "Haake"
+            },
+            {
+                "license_id": "1176",
+                "first_name": "Vincent",
+                "last_name": "Bojarra"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "10:6",
+        "result": {
+            "home_goals": 10,
+            "guest_goals": 6,
+            "home_goals_period": [
+                6,
+                4,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                3,
+                3,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 14305,
+        "game_number": 12,
+        "game_day": 3,
+        "arena": 230,
+        "arena_name": "Sporthalle Stadtwerder",
+        "arena_address": "Weg zum Krähenberg 33, 28201 Bremen",
+        "arena_short": "Bremen, Sporthalle Stadtwerder",
+        "hosting_club": "ATS Buntentor",
+        "game_day_id": 4655,
+        "date": "2018-11-03",
+        "time": "12:15",
+        "started": true,
+        "ended": true,
+        "home_team_name": "ATS Buntentor Knights",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a04582552e9f557792967558b753a70f12637dee/128-buntentor.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a04582552e9f557792967558b753a70f12637dee/128-buntentor.png",
+        "guest_team_name": "TSV Lesum-Burgdamm",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea67cf61fe9b40d7af76fff2a2eaa4c168fe13a6/47-lesumburgdamm.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea67cf61fe9b40d7af76fff2a2eaa4c168fe13a6/47-lesumburgdamm.png",
+        "nominated_referee_string": "TV Eiche Horn Bremen",
+        "referees": [
+            {
+                "license_id": "844",
+                "first_name": "Marcel",
+                "last_name": "Westermann"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "5:10",
+        "result": {
+            "home_goals": 5,
+            "guest_goals": 10,
+            "home_goals_period": [
+                2,
+                3,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                6,
+                4,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 14306,
+        "game_number": 13,
+        "game_day": 3,
+        "arena": 230,
+        "arena_name": "Sporthalle Stadtwerder",
+        "arena_address": "Weg zum Krähenberg 33, 28201 Bremen",
+        "arena_short": "Bremen, Sporthalle Stadtwerder",
+        "hosting_club": "ATS Buntentor",
+        "game_day_id": 4655,
+        "date": "2018-11-03",
+        "time": "13:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "SG Bramstedt/Ritterhude",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9256d0e29b5775611409bc76d8f34cf86e7043b3/160-tsvbramstedt.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9256d0e29b5775611409bc76d8f34cf86e7043b3/160-tsvbramstedt.png",
+        "guest_team_name": "TV Lilienthal",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "nominated_referee_string": "TSV Lesum-Burgdamm",
+        "referees": [
+            {
+                "license_id": "2375",
+                "first_name": "Thorsten",
+                "last_name": "Steiert"
+            },
+            {
+                "license_id": "3118",
+                "first_name": "Max",
+                "last_name": "Hübner"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "1:8",
+        "result": {
+            "home_goals": 1,
+            "guest_goals": 8,
+            "home_goals_period": [
+                1,
+                0,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                4,
+                4,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 14307,
+        "game_number": 14,
+        "game_day": 3,
+        "arena": 230,
+        "arena_name": "Sporthalle Stadtwerder",
+        "arena_address": "Weg zum Krähenberg 33, 28201 Bremen",
+        "arena_short": "Bremen, Sporthalle Stadtwerder",
+        "hosting_club": "ATS Buntentor",
+        "game_day_id": 4655,
+        "date": "2018-11-03",
+        "time": "14:45",
+        "started": true,
+        "ended": true,
+        "home_team_name": "ATS Buntentor Knights",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a04582552e9f557792967558b753a70f12637dee/128-buntentor.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a04582552e9f557792967558b753a70f12637dee/128-buntentor.png",
+        "guest_team_name": "TV Eiche Horn Bremen",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+        "nominated_referee_string": "TV Lilienthal",
+        "referees": [
+            {
+                "license_id": "24",
+                "first_name": "Günter",
+                "last_name": "Frese"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "6:10",
+        "result": {
+            "home_goals": 6,
+            "guest_goals": 10,
+            "home_goals_period": [
+                5,
+                1,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                7,
+                3,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 14308,
+        "game_number": 15,
+        "game_day": 3,
+        "arena": 230,
+        "arena_name": "Sporthalle Stadtwerder",
+        "arena_address": "Weg zum Krähenberg 33, 28201 Bremen",
+        "arena_short": "Bremen, Sporthalle Stadtwerder",
+        "hosting_club": "ATS Buntentor",
+        "game_day_id": 4655,
+        "date": "2018-11-03",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TV Lilienthal",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_name": "TSV Lesum-Burgdamm",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea67cf61fe9b40d7af76fff2a2eaa4c168fe13a6/47-lesumburgdamm.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea67cf61fe9b40d7af76fff2a2eaa4c168fe13a6/47-lesumburgdamm.png",
+        "nominated_referee_string": "ATS Buntentor",
+        "referees": [
+            {
+                "license_id": "1640",
+                "first_name": "Joshua",
+                "last_name": "Haake"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "4:12",
+        "result": {
+            "home_goals": 4,
+            "guest_goals": 12,
+            "home_goals_period": [
+                1,
+                3,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                4,
+                8,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 14309,
+        "game_number": 16,
+        "game_day": 4,
+        "arena": 268,
+        "arena_name": "Sportzentrum Schoofmoor",
+        "arena_address": "Zum Schoofmoor , 28865 Lilienthal",
+        "arena_short": "Lilienthal, Sportzentrum Schoofmoor",
+        "hosting_club": "TV Lilienthal",
+        "game_day_id": 4656,
+        "date": "2018-12-02",
+        "time": "11:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "ATS Buntentor Knights",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a04582552e9f557792967558b753a70f12637dee/128-buntentor.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a04582552e9f557792967558b753a70f12637dee/128-buntentor.png",
+        "guest_team_name": "SG Bramstedt/Ritterhude",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9256d0e29b5775611409bc76d8f34cf86e7043b3/160-tsvbramstedt.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9256d0e29b5775611409bc76d8f34cf86e7043b3/160-tsvbramstedt.png",
+        "nominated_referee_string": "TV Lilienthal",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "13:4",
+        "result": {
+            "home_goals": 13,
+            "guest_goals": 4,
+            "home_goals_period": [
+                5,
+                8,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                2,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 14310,
+        "game_number": 17,
+        "game_day": 4,
+        "arena": 268,
+        "arena_name": "Sportzentrum Schoofmoor",
+        "arena_address": "Zum Schoofmoor , 28865 Lilienthal",
+        "arena_short": "Lilienthal, Sportzentrum Schoofmoor",
+        "hosting_club": "TV Lilienthal",
+        "game_day_id": 4656,
+        "date": "2018-12-02",
+        "time": "12:15",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TV Lilienthal",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_name": "TV Eiche Horn Bremen",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+        "nominated_referee_string": "TSV Bramstedt",
+        "referees": [
+            {
+                "license_id": "1931",
+                "first_name": "Timm",
+                "last_name": "Münchhoff"
+            },
+            {
+                "license_id": "3694",
+                "first_name": "Bartlomiej",
+                "last_name": "Buller"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "3:17",
+        "result": {
+            "home_goals": 3,
+            "guest_goals": 17,
+            "home_goals_period": [
+                1,
+                2,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                5,
+                12,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 14311,
+        "game_number": 18,
+        "game_day": 4,
+        "arena": 268,
+        "arena_name": "Sportzentrum Schoofmoor",
+        "arena_address": "Zum Schoofmoor , 28865 Lilienthal",
+        "arena_short": "Lilienthal, Sportzentrum Schoofmoor",
+        "hosting_club": "TV Lilienthal",
+        "game_day_id": 4656,
+        "date": "2018-12-02",
+        "time": "13:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TSV Lesum-Burgdamm",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea67cf61fe9b40d7af76fff2a2eaa4c168fe13a6/47-lesumburgdamm.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea67cf61fe9b40d7af76fff2a2eaa4c168fe13a6/47-lesumburgdamm.png",
+        "guest_team_name": "SG Bramstedt/Ritterhude",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9256d0e29b5775611409bc76d8f34cf86e7043b3/160-tsvbramstedt.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9256d0e29b5775611409bc76d8f34cf86e7043b3/160-tsvbramstedt.png",
+        "nominated_referee_string": "TV Eiche Horn Bremen",
+        "referees": [
+            {
+                "license_id": "844",
+                "first_name": "Marcel",
+                "last_name": "Westermann"
+            },
+            {
+                "license_id": "864",
+                "first_name": "Till",
+                "last_name": "Geiler"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "27:6",
+        "result": {
+            "home_goals": 27,
+            "guest_goals": 6,
+            "home_goals_period": [
+                10,
+                17,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                4,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 14312,
+        "game_number": 19,
+        "game_day": 4,
+        "arena": 268,
+        "arena_name": "Sportzentrum Schoofmoor",
+        "arena_address": "Zum Schoofmoor , 28865 Lilienthal",
+        "arena_short": "Lilienthal, Sportzentrum Schoofmoor",
+        "hosting_club": "TV Lilienthal",
+        "game_day_id": 4656,
+        "date": "2018-12-02",
+        "time": "14:45",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TV Lilienthal",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_name": "ATS Buntentor Knights",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a04582552e9f557792967558b753a70f12637dee/128-buntentor.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a04582552e9f557792967558b753a70f12637dee/128-buntentor.png",
+        "nominated_referee_string": "TSV Lesum-Burgdamm",
+        "referees": [
+            {
+                "license_id": "3118",
+                "first_name": "Max",
+                "last_name": "Hübner"
+            },
+            {
+                "license_id": "2802",
+                "first_name": "Jonas",
+                "last_name": "Axmann"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "9:3",
+        "result": {
+            "home_goals": 9,
+            "guest_goals": 3,
+            "home_goals_period": [
+                2,
+                7,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                2,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 14313,
+        "game_number": 20,
+        "game_day": 4,
+        "arena": 268,
+        "arena_name": "Sportzentrum Schoofmoor",
+        "arena_address": "Zum Schoofmoor , 28865 Lilienthal",
+        "arena_short": "Lilienthal, Sportzentrum Schoofmoor",
+        "hosting_club": "TV Lilienthal",
+        "game_day_id": 4656,
+        "date": "2018-12-02",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TSV Lesum-Burgdamm",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea67cf61fe9b40d7af76fff2a2eaa4c168fe13a6/47-lesumburgdamm.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea67cf61fe9b40d7af76fff2a2eaa4c168fe13a6/47-lesumburgdamm.png",
+        "guest_team_name": "TV Eiche Horn Bremen",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+        "nominated_referee_string": "TV Lilienthal",
+        "referees": [
+            {
+                "license_id": "24",
+                "first_name": "Günter",
+                "last_name": "Frese"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "4:5",
+        "result": {
+            "home_goals": 4,
+            "guest_goals": 5,
+            "home_goals_period": [
+                1,
+                3,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                3,
+                1,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    }
+]

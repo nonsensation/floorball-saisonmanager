@@ -1,0 +1,4664 @@
+[
+    {
+        "game_id": 15084,
+        "game_number": 104,
+        "game_day": 1,
+        "arena": 468,
+        "arena_name": "Leibnizschule",
+        "arena_address": "Röntgenstraße 8, 30163 Hannover",
+        "arena_short": "Hannover, Leibnizschule",
+        "hosting_club": "Hannover 96",
+        "game_day_id": 5050,
+        "date": "2018-09-08",
+        "time": "13:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Hannover 96 II",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY2s9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--13ef12558154a7adf5db130c76020ca31fa4cd3b/32-hannover96.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY2s9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--13ef12558154a7adf5db130c76020ca31fa4cd3b/32-hannover96.png",
+        "guest_team_name": "TV Eiche Horn Bremen",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+        "nominated_referee_string": "S. Ehebrecht / C. Hoffmann",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "0:28",
+        "result": {
+            "home_goals": 0,
+            "guest_goals": 28,
+            "home_goals_period": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                10,
+                -10,
+                28,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 15079,
+        "game_number": 105,
+        "game_day": 1,
+        "arena": 327,
+        "arena_name": "Bielefeld, GeSti",
+        "arena_address": "Am Wortkamp 3, 33605 Bielefeld",
+        "arena_short": "Bielefeld, Bielefeld, GeSti",
+        "hosting_club": "Bielefelder TG v. 1848 e.V.",
+        "game_day_id": 5047,
+        "date": "2018-09-08",
+        "time": "15:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "BTG Teutonia Bielefeld",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYlU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--993dbaec6b3e7d67207b9eb2459d21d179dcbba0/89-bielefeldertg.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYlU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--993dbaec6b3e7d67207b9eb2459d21d179dcbba0/89-bielefeldertg.png",
+        "guest_team_name": "SG Mellensee/Rangsdorf",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBLdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--508c521509d85441cbb8fdbd03aaf9a96cb88a50/36-mellensee.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBLdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--508c521509d85441cbb8fdbd03aaf9a96cb88a50/36-mellensee.png",
+        "nominated_referee_string": "B. Subbe / P. Hupe",
+        "referees": [
+            {
+                "license_id": "768",
+                "first_name": "Benedikt",
+                "last_name": "Stubbe"
+            },
+            {
+                "license_id": "3603",
+                "first_name": "Patrick",
+                "last_name": "Hupe"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "2:1 n.V.",
+        "result": {
+            "home_goals": 2,
+            "guest_goals": 1,
+            "home_goals_period": [
+                0,
+                0,
+                1,
+                1
+            ],
+            "guest_goals_period": [
+                0,
+                0,
+                1,
+                0
+            ],
+            "postfix": {
+                "short": "n.V.",
+                "long": "nach Verlängerung"
+            },
+            "forfait": false,
+            "overtime": true
+        }
+    },
+    {
+        "game_id": 15074,
+        "game_number": 101,
+        "game_day": 1,
+        "arena": 232,
+        "arena_name": "Hochdahl, Rankestraße",
+        "arena_address": "Rankestraße 4-6, 40699 Erkrath",
+        "arena_short": "Erkrath, Hochdahl, Rankestraße",
+        "hosting_club": "TSV Hochdahl",
+        "game_day_id": 5044,
+        "date": "2018-09-08",
+        "time": "18:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TSV Hochdahl",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBKZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--62c87a86c0a807a007006f0d7dd2c6a3d24d6b1c/31-hochdahl.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBKZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--62c87a86c0a807a007006f0d7dd2c6a3d24d6b1c/31-hochdahl.png",
+        "guest_team_name": "TV Schriesheim",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "nominated_referee_string": "M. Diehl / L. Grünewald",
+        "referees": [
+            {
+                "license_id": "2541",
+                "first_name": "Max",
+                "last_name": "Diehl"
+            },
+            {
+                "license_id": "958",
+                "first_name": "Lucas",
+                "last_name": "Grünewald"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "1:13",
+        "result": {
+            "home_goals": 1,
+            "guest_goals": 13,
+            "home_goals_period": [
+                0,
+                0,
+                1,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                5,
+                6,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 15085,
+        "game_number": 103,
+        "game_day": 1,
+        "arena": 569,
+        "arena_name": "Sporthalle Schlossgymnasium",
+        "arena_address": "Greiffenklaustraße 2, 55116 Mainz",
+        "arena_short": "Mainz, Sporthalle Schlossgymnasium",
+        "hosting_club": "Black Pitballs St. Wendel",
+        "game_day_id": 5051,
+        "date": "2018-09-09",
+        "time": "12:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Black Pitballs Sankt. Wendel",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY3c9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--470e5082974f22e66df8d12d715422ab8e79b17b/217-pitballsstwendel.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY3c9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--470e5082974f22e66df8d12d715422ab8e79b17b/217-pitballsstwendel.png",
+        "guest_team_name": "FC Stern München",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--29f3d38a80d59da81ab8d80a543743962cd1f5a8/184-fbcmuenchen.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--29f3d38a80d59da81ab8d80a543743962cd1f5a8/184-fbcmuenchen.png",
+        "nominated_referee_string": "P. Arras / J. Wetteroth",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "1:29",
+        "result": {
+            "home_goals": 1,
+            "guest_goals": 29,
+            "home_goals_period": [
+                1,
+                0,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                8,
+                7,
+                14,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 15078,
+        "game_number": 102,
+        "game_day": 1,
+        "arena": 569,
+        "arena_name": "Sporthalle Schlossgymnasium",
+        "arena_address": "Greiffenklaustraße 2, 55116 Mainz",
+        "arena_short": "Mainz, Sporthalle Schlossgymnasium",
+        "hosting_club": "Floorball Mainz",
+        "game_day_id": 5046,
+        "date": "2018-09-09",
+        "time": "15:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Floorball Mainz",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY3M9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--77025b91f0293483669f33713ff7c9758b622781/92-mainz.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY3M9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--77025b91f0293483669f33713ff7c9758b622781/92-mainz.png",
+        "guest_team_name": "Floorball Bautzen",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d4cbccc211c13582628524568a45516c742a33fc/80-bautzen.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d4cbccc211c13582628524568a45516c742a33fc/80-bautzen.png",
+        "nominated_referee_string": "P. Arras / J. Wetteroth",
+        "referees": [
+            {
+                "license_id": "426",
+                "first_name": "Jürgen",
+                "last_name": "Wetteroth"
+            },
+            {
+                "license_id": "1042",
+                "first_name": "Patrick",
+                "last_name": "Arras"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "1:6",
+        "result": {
+            "home_goals": 1,
+            "guest_goals": 6,
+            "home_goals_period": [
+                1,
+                0,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                2,
+                2,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16180,
+        "game_number": 201,
+        "game_day": 2,
+        "arena": 160,
+        "arena_name": "Sportpark Nord",
+        "arena_address": "Kölnstraße 250, 53117 Bonn",
+        "arena_short": "Bonn, Sportpark Nord",
+        "hosting_club": "SSF Dragons Bonn",
+        "game_day_id": 5362,
+        "date": "2018-10-06",
+        "time": "11:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "SSF Dragons Bonn 2",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
+        "guest_team_name": "TSG Erlensee 1874",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWjg9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8dff3e1d6eeecccfec70f7a78eff8f08cb785591/135-erlensee.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWjg9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8dff3e1d6eeecccfec70f7a78eff8f08cb785591/135-erlensee.png",
+        "nominated_referee_string": "D. Wahlström / I. Suuronen",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "4:9",
+        "result": {
+            "home_goals": 4,
+            "guest_goals": 9,
+            "home_goals_period": [
+                0,
+                2,
+                2,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                4,
+                3,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16181,
+        "game_number": 202,
+        "game_day": 2,
+        "arena": 215,
+        "arena_name": "Dreifeld Schulsporthalle",
+        "arena_address": "Lessingstraße 8a, 04435 Schkeuditz",
+        "arena_short": "Schkeuditz, Dreifeld Schulsporthalle",
+        "hosting_club": "Schakale Schkeuditz",
+        "game_day_id": 5363,
+        "date": "2018-10-06",
+        "time": "13:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "MFBC Schkeuditz/Leipzig",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--451260beb4df9477070145f867fc120233ffed95/51-schkeuditzschakale.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--451260beb4df9477070145f867fc120233ffed95/51-schkeuditzschakale.png",
+        "guest_team_name": "Tollwut Ebersgöns",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbE1CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ddf291f199bfa8a31b7c391a53e4acf81317b1cc/103-ebersgoens.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbE1CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ddf291f199bfa8a31b7c391a53e4acf81317b1cc/103-ebersgoens.png",
+        "nominated_referee_string": "P. Reichert / G. Sauer",
+        "referees": [
+            {
+                "license_id": "1253",
+                "first_name": "Gunnar",
+                "last_name": "Sauer"
+            },
+            {
+                "license_id": "2428",
+                "first_name": "Pascal",
+                "last_name": "Reichert"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "5:9",
+        "result": {
+            "home_goals": 5,
+            "guest_goals": 9,
+            "home_goals_period": [
+                4,
+                1,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                4,
+                4,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16182,
+        "game_number": 203,
+        "game_day": 2,
+        "arena": 361,
+        "arena_name": "Borsigwalder Grundschule",
+        "arena_address": "Miraustraße 100, 13509 Berlin",
+        "arena_short": "Berlin, Borsigwalder Grundschule",
+        "hosting_club": "UHC Berlin",
+        "game_day_id": 5364,
+        "date": "2018-10-06",
+        "time": "13:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "SG UHC Berlin/VfL Tegel",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a381c9a0e25adbc7fc14b7ab62c72561c40a22c0/15-uhcberlin.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a381c9a0e25adbc7fc14b7ab62c72561c40a22c0/15-uhcberlin.png",
+        "guest_team_name": "BTG Teutonia Bielefeld",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYlU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--993dbaec6b3e7d67207b9eb2459d21d179dcbba0/89-bielefeldertg.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYlU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--993dbaec6b3e7d67207b9eb2459d21d179dcbba0/89-bielefeldertg.png",
+        "nominated_referee_string": "T. Hahmann / D. Matijasevic",
+        "referees": [
+            {
+                "license_id": "3700",
+                "first_name": "Davor",
+                "last_name": "Matijasevic"
+            },
+            {
+                "license_id": "54",
+                "first_name": "Tim",
+                "last_name": "Hahmann"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "7:1",
+        "result": {
+            "home_goals": 7,
+            "guest_goals": 1,
+            "home_goals_period": [
+                2,
+                1,
+                4,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                0,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16183,
+        "game_number": 204,
+        "game_day": 2,
+        "arena": 387,
+        "arena_name": "Schulzentrum Lühe",
+        "arena_address": "Striep 2, 21720 Steinkirchen",
+        "arena_short": "Steinkirchen, Schulzentrum Lühe",
+        "hosting_club": "MTV Mittelnkirchen",
+        "game_day_id": 5365,
+        "date": "2018-10-06",
+        "time": "13:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "MTV Mittelnkirchen",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5542f8428956e106be4568d3467b69f83f160856/45.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5542f8428956e106be4568d3467b69f83f160856/45.png",
+        "guest_team_name": "Hannover 96",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY2s9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--13ef12558154a7adf5db130c76020ca31fa4cd3b/32-hannover96.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY2s9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--13ef12558154a7adf5db130c76020ca31fa4cd3b/32-hannover96.png",
+        "nominated_referee_string": "J. Sommer / M. Kreutzmann ",
+        "referees": [
+            {
+                "license_id": "1168",
+                "first_name": "Jonas",
+                "last_name": "Sommer"
+            },
+            {
+                "license_id": "848",
+                "first_name": "Marc",
+                "last_name": "Kreutzmann"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "4:10",
+        "result": {
+            "home_goals": 4,
+            "guest_goals": 10,
+            "home_goals_period": [
+                0,
+                4,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                4,
+                4,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16207,
+        "game_number": 205,
+        "game_day": 2,
+        "arena": 551,
+        "arena_name": "Sportforum",
+        "arena_address": "Am Stadion 2, 07749 Jena",
+        "arena_short": "Jena, Sportforum",
+        "hosting_club": "USV Jena",
+        "game_day_id": 5395,
+        "date": "2018-10-06",
+        "time": "13:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "USV Jena",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--95089c9f6090dfa928fec6dd0c1f6b832f9fc09d/117-jena.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--95089c9f6090dfa928fec6dd0c1f6b832f9fc09d/117-jena.png",
+        "guest_team_name": "Elbfüchse Radebeul",
+        "guest_team_logo": null,
+        "guest_team_small_logo": null,
+        "nominated_referee_string": "L. Richter / R. Seilnacht",
+        "referees": [
+            {
+                "license_id": "1467",
+                "first_name": "Lukas",
+                "last_name": "Richter"
+            },
+            {
+                "license_id": "512",
+                "first_name": "Ruben",
+                "last_name": "Seilnacht"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "43:0",
+        "result": {
+            "home_goals": 43,
+            "guest_goals": 0,
+            "home_goals_period": [
+                12,
+                19,
+                12,
+                0
+            ],
+            "guest_goals_period": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16184,
+        "game_number": 206,
+        "game_day": 2,
+        "arena": 197,
+        "arena_name": "ASV-Halle",
+        "arena_address": "Olympiaweg 3, 50933 Köln",
+        "arena_short": "Köln, ASV-Halle",
+        "hosting_club": "ASV Köln e.V.",
+        "game_day_id": 5367,
+        "date": "2018-10-06",
+        "time": "14:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "ASV Köln",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBZQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c4bec542fb257c8ce173f29e882d4a9d40d9148d/126-asvkoeln.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBZQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c4bec542fb257c8ce173f29e882d4a9d40d9148d/126-asvkoeln.png",
+        "guest_team_name": "TV Schriesheim",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "nominated_referee_string": "T. Lindholm / M. Unger",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "1:18",
+        "result": {
+            "home_goals": 1,
+            "guest_goals": 18,
+            "home_goals_period": [
+                0,
+                0,
+                1,
+                0
+            ],
+            "guest_goals_period": [
+                6,
+                -6,
+                18,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16185,
+        "game_number": 207,
+        "game_day": 2,
+        "arena": 527,
+        "arena_name": "Mehrzweckhalle Gottlieb-Daimler-Oberschule",
+        "arena_address": "Daimlerstraße 6, 02625 Bautzen",
+        "arena_short": "Bautzen, Mehrzweckhalle Gottlieb-Daimler-Oberschule",
+        "hosting_club": "Floorball Bautzen",
+        "game_day_id": 5368,
+        "date": "2018-10-06",
+        "time": "14:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Floorball Bautzen",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d4cbccc211c13582628524568a45516c742a33fc/80-bautzen.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d4cbccc211c13582628524568a45516c742a33fc/80-bautzen.png",
+        "guest_team_name": "Floor Fighters Chemnitz",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+        "nominated_referee_string": "D. Slauf / U. Kentsch",
+        "referees": [
+            {
+                "license_id": "2472",
+                "first_name": "Daniel",
+                "last_name": "Slauf"
+            },
+            {
+                "license_id": "57",
+                "first_name": "Ulrich",
+                "last_name": "Kentsch"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "3:11",
+        "result": {
+            "home_goals": 3,
+            "guest_goals": 11,
+            "home_goals_period": [
+                1,
+                1,
+                1,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                5,
+                5,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16271,
+        "game_number": 208,
+        "game_day": 2,
+        "arena": 242,
+        "arena_name": "Sporthalle Hoheluft",
+        "arena_address": "Lokstedter Steindamm 52, 22529 Hamburg",
+        "arena_short": "Hamburg, Sporthalle Hoheluft",
+        "hosting_club": "ETV Hamburg",
+        "game_day_id": 5415,
+        "date": "2018-10-06",
+        "time": "14:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "ETV Piranhhas 2",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+        "guest_team_name": "Eisbären Juniors",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYVk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--26d2fd957ffe99d427c3ed6b7f4e0f960347ae4a/203-berlinjuniors.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYVk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--26d2fd957ffe99d427c3ed6b7f4e0f960347ae4a/203-berlinjuniors.png",
+        "nominated_referee_string": "T. Geiler / F. von Kroge",
+        "referees": [
+            {
+                "license_id": "874",
+                "first_name": "Finn",
+                "last_name": "von Kroge"
+            },
+            {
+                "license_id": "864",
+                "first_name": "Till",
+                "last_name": "Geiler"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "8:4",
+        "result": {
+            "home_goals": 8,
+            "guest_goals": 4,
+            "home_goals_period": [
+                2,
+                2,
+                4,
+                0
+            ],
+            "guest_goals_period": [
+                0,
+                1,
+                3,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16186,
+        "game_number": 209,
+        "game_day": 2,
+        "arena": 378,
+        "arena_name": "Sporthalle Goethestrasse Espenau",
+        "arena_address": "Goethestrasse 7-9, 34314 Espenau-Hohenkirchen",
+        "arena_short": "Espenau-Hohenkirchen, Sporthalle Goethestrasse Espenau",
+        "hosting_club": "SVE Rangers",
+        "game_day_id": 5370,
+        "date": "2018-10-06",
+        "time": "15:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "SV Espenau Rangers",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYVE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc4e38fff8aa200cf127d65f17b0b5f18145caf6/67-espenau.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYVE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc4e38fff8aa200cf127d65f17b0b5f18145caf6/67-espenau.png",
+        "guest_team_name": "FC Rennsteig Avalanche",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWnc9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--64da5b84bee110f6700e6f92874d1e06743ee2d2/191-rennsteig.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWnc9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--64da5b84bee110f6700e6f92874d1e06743ee2d2/191-rennsteig.png",
+        "nominated_referee_string": "T. Voigt / L. Kaiser",
+        "referees": [
+            {
+                "license_id": "2249",
+                "first_name": "Torsten",
+                "last_name": "Voigt"
+            },
+            {
+                "license_id": "212",
+                "first_name": "Lars",
+                "last_name": "Kaiser"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "8:21",
+        "result": {
+            "home_goals": 8,
+            "guest_goals": 21,
+            "home_goals_period": [
+                2,
+                1,
+                5,
+                0
+            ],
+            "guest_goals_period": [
+                3,
+                10,
+                8,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16210,
+        "game_number": 210,
+        "game_day": 2,
+        "arena": 471,
+        "arena_name": "Sporthalle Monumentenstraße",
+        "arena_address": "Monumentenstraße 13C, 10829  Berlin",
+        "arena_short": "Berlin, Sporthalle Monumentenstraße",
+        "hosting_club": "Berlin Rockets",
+        "game_day_id": 5399,
+        "date": "2018-10-06",
+        "time": "15:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "BAT U21 Berlin",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+        "guest_team_name": "TV Dinklage",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--58525cb11a2239cef5c9282e61bea17ba282c615/118-dinklage.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--58525cb11a2239cef5c9282e61bea17ba282c615/118-dinklage.png",
+        "nominated_referee_string": "M. Hirschberg / C. Boßdorf",
+        "referees": [
+            {
+                "license_id": "1851",
+                "first_name": "Maik",
+                "last_name": "Hirschberg"
+            },
+            {
+                "license_id": "441",
+                "first_name": "Christian",
+                "last_name": "Boßdorf"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "5:2",
+        "result": {
+            "home_goals": 5,
+            "guest_goals": 2,
+            "home_goals_period": [
+                3,
+                1,
+                1,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                0,
+                1,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16187,
+        "game_number": 211,
+        "game_day": 2,
+        "arena": 573,
+        "arena_name": "Sporthalle Ostring",
+        "arena_address": "Moritz-Fiege-Straße 2-21, 44787 Bochum",
+        "arena_short": "Bochum, Sporthalle Ostring",
+        "hosting_club": "TV Altenbochum",
+        "game_day_id": 5372,
+        "date": "2018-10-06",
+        "time": "15:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Black Panthers Altenbochum",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8f4c91c22ddf10ac4152348a3fa59a5519f586cd/111-bochum.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8f4c91c22ddf10ac4152348a3fa59a5519f586cd/111-bochum.png",
+        "guest_team_name": "UHC Elster",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGtCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--290590413b91d745599e52ba514888de2f2bfab5/139-elster.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGtCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--290590413b91d745599e52ba514888de2f2bfab5/139-elster.png",
+        "nominated_referee_string": "M. Niesing / J. Kürbis",
+        "referees": [
+            {
+                "license_id": "7",
+                "first_name": "Matthias",
+                "last_name": "Niesing"
+            },
+            {
+                "license_id": "3454",
+                "first_name": "Jens",
+                "last_name": "Kürbis"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "1:11",
+        "result": {
+            "home_goals": 1,
+            "guest_goals": 11,
+            "home_goals_period": [
+                0,
+                0,
+                1,
+                0
+            ],
+            "guest_goals_period": [
+                4,
+                4,
+                3,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16189,
+        "game_number": 212,
+        "game_day": 2,
+        "arena": 318,
+        "arena_name": "Schulzentrum",
+        "arena_address": "Süderstraße 72-74, 24214 Gettorf",
+        "arena_short": "Gettorf, Schulzentrum",
+        "hosting_club": "Gettorfer TV",
+        "game_day_id": 5374,
+        "date": "2018-10-06",
+        "time": "15:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Gettorf Seahawks",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "guest_team_name": "Dümptener Füchse",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBKQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e2cdedb01591ceeac63dc6aff55380b5162bd2e3/46-dumpten.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBKQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e2cdedb01591ceeac63dc6aff55380b5162bd2e3/46-dumpten.png",
+        "nominated_referee_string": "M. Holtgraefe / L. Schneider",
+        "referees": [
+            {
+                "license_id": "800",
+                "first_name": "Maximilian",
+                "last_name": "Holtgraefe"
+            },
+            {
+                "license_id": "1997",
+                "first_name": "Lennart",
+                "last_name": "Schneider"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "6:5",
+        "result": {
+            "home_goals": 6,
+            "guest_goals": 5,
+            "home_goals_period": [
+                4,
+                0,
+                2,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                2,
+                1,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16190,
+        "game_number": 213,
+        "game_day": 2,
+        "arena": 492,
+        "arena_name": "121. Oberschule",
+        "arena_address": "Gamigstraße 28/30, 01239 Dresden",
+        "arena_short": "Dresden, 121. Oberschule",
+        "hosting_club": "Unihockey Igels Dresden",
+        "game_day_id": 5375,
+        "date": "2018-10-06",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Unihockey Igels Dresden",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc5343e2e42e969c656757c479661623f2010243/16-dresdenigels.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc5343e2e42e969c656757c479661623f2010243/16-dresdenigels.png",
+        "guest_team_name": "SSF Dragons Bonn",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
+        "nominated_referee_string": "F. Stark / P. Kudella",
+        "referees": [
+            {
+                "license_id": "1761",
+                "first_name": "Felix",
+                "last_name": "Stark"
+            },
+            {
+                "license_id": "3637",
+                "first_name": "Patrick",
+                "last_name": "Kudella"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "3:12",
+        "result": {
+            "home_goals": 3,
+            "guest_goals": 12,
+            "home_goals_period": [
+                1,
+                0,
+                2,
+                0
+            ],
+            "guest_goals_period": [
+                3,
+                7,
+                2,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16270,
+        "game_number": 214,
+        "game_day": 2,
+        "arena": 89,
+        "arena_name": "Gymnasiumsporthalle",
+        "arena_address": "Bergstraße 19, 06188 Landsberg",
+        "arena_short": "Landsberg, Gymnasiumsporthalle",
+        "hosting_club": "Black Lions Landsberg",
+        "game_day_id": 5414,
+        "date": "2018-10-06",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Black Lions Landsberg",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBMUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cda7988ec5ddf306487c2509c75eb483068c6f0c/40-blacklionslandsberg.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBMUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cda7988ec5ddf306487c2509c75eb483068c6f0c/40-blacklionslandsberg.png",
+        "guest_team_name": "SC Potsdam",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWVE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--feaa9ef8e001720b8f97bf43e5addf9d276f706d/187-scpotsdam.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWVE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--feaa9ef8e001720b8f97bf43e5addf9d276f706d/187-scpotsdam.png",
+        "nominated_referee_string": "T. Böttcher / C. Gruhne",
+        "referees": [
+            {
+                "license_id": "755",
+                "first_name": "Tim",
+                "last_name": "Böttcher"
+            },
+            {
+                "license_id": "98",
+                "first_name": "Christopher",
+                "last_name": "Gruhne"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "7:4",
+        "result": {
+            "home_goals": 7,
+            "guest_goals": 4,
+            "home_goals_period": [
+                1,
+                2,
+                4,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                0,
+                3,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16191,
+        "game_number": 215,
+        "game_day": 2,
+        "arena": 65,
+        "arena_name": "Sporthalle Arenkamp",
+        "arena_address": "Arenkamp , 28832 Achim",
+        "arena_short": "Achim, Sporthalle Arenkamp",
+        "hosting_club": "TB Uphusen",
+        "game_day_id": 5377,
+        "date": "2018-10-06",
+        "time": "17:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TB Uphusen Vikings",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWlE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9cd6ab4f9abfacadc94369137f4cea0637d7d72b/43-uphusenvikings.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWlE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9cd6ab4f9abfacadc94369137f4cea0637d7d72b/43-uphusenvikings.png",
+        "guest_team_name": "BAT Berlin",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+        "nominated_referee_string": "J. Sommer / M. Kreutzmann",
+        "referees": [
+            {
+                "license_id": "1168",
+                "first_name": "Jonas",
+                "last_name": "Sommer"
+            },
+            {
+                "license_id": "848",
+                "first_name": "Marc",
+                "last_name": "Kreutzmann"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "3:11",
+        "result": {
+            "home_goals": 3,
+            "guest_goals": 11,
+            "home_goals_period": [
+                1,
+                1,
+                1,
+                0
+            ],
+            "guest_goals_period": [
+                3,
+                3,
+                5,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16192,
+        "game_number": 216,
+        "game_day": 2,
+        "arena": 268,
+        "arena_name": "Sportzentrum Schoofmoor",
+        "arena_address": "Zum Schoofmoor , 28865 Lilienthal",
+        "arena_short": "Lilienthal, Sportzentrum Schoofmoor",
+        "hosting_club": "VfR Seebergen",
+        "game_day_id": 5378,
+        "date": "2018-10-06",
+        "time": "17:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "SG Seebergen/Lilienthal",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWDg9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5d7e03da84cfd1c6bf19442066ef02f7a243c75e/180-vfrseebergen.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWDg9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5d7e03da84cfd1c6bf19442066ef02f7a243c75e/180-vfrseebergen.png",
+        "guest_team_name": "Floorball Grizzlys Salzwedel",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBkUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--98ae00836a4f4b9ce8e650ac94b553707b42e564/142-salzwedelgrizzlys.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBkUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--98ae00836a4f4b9ce8e650ac94b553707b42e564/142-salzwedelgrizzlys.png",
+        "nominated_referee_string": "V. Justen / J. Schwulst",
+        "referees": [
+            {
+                "license_id": "2280",
+                "first_name": "Volker",
+                "last_name": "Justen"
+            },
+            {
+                "license_id": "3173",
+                "first_name": "Jan",
+                "last_name": "Schwulst"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "16:2",
+        "result": {
+            "home_goals": 16,
+            "guest_goals": 2,
+            "home_goals_period": [
+                3,
+                6,
+                7,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                1,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16193,
+        "game_number": 217,
+        "game_day": 2,
+        "arena": 242,
+        "arena_name": "Sporthalle Hoheluft",
+        "arena_address": "Lokstedter Steindamm 52, 22529 Hamburg",
+        "arena_short": "Hamburg, Sporthalle Hoheluft",
+        "hosting_club": "ETV Hamburg",
+        "game_day_id": 5379,
+        "date": "2018-10-06",
+        "time": "18:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "ETV Piranhhas Hamburg",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+        "guest_team_name": "TV Lilienthal",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "nominated_referee_string": "T. Geiler / F. von Kroge",
+        "referees": [
+            {
+                "license_id": "874",
+                "first_name": "Finn",
+                "last_name": "von Kroge"
+            },
+            {
+                "license_id": "864",
+                "first_name": "Till",
+                "last_name": "Geiler"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "5:9",
+        "result": {
+            "home_goals": 5,
+            "guest_goals": 9,
+            "home_goals_period": [
+                2,
+                2,
+                1,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                4,
+                4,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16194,
+        "game_number": 218,
+        "game_day": 2,
+        "arena": 475,
+        "arena_name": "Stadtfeldhalle",
+        "arena_address": "Große Dammstraße 38, 38855 Wernigerode",
+        "arena_short": "Wernigerode, Stadtfeldhalle",
+        "hosting_club": "Red Devils Wernigerode",
+        "game_day_id": 5380,
+        "date": "2018-10-06",
+        "time": "18:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Red Devils Wernigerode U23",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "guest_team_name": "Baltic Storms",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZHM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c27fc2af79f74cb105ebaa10df74c269c8c7fbaa/baltic_storms.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZHM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c27fc2af79f74cb105ebaa10df74c269c8c7fbaa/baltic_storms.png",
+        "nominated_referee_string": "S. Döring / S. Liers",
+        "referees": [
+            {
+                "license_id": "446",
+                "first_name": "Sebastian",
+                "last_name": "Döring"
+            },
+            {
+                "license_id": "51",
+                "first_name": "Stefan",
+                "last_name": "Liers"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "5:11",
+        "result": {
+            "home_goals": 5,
+            "guest_goals": 11,
+            "home_goals_period": [
+                1,
+                2,
+                2,
+                0
+            ],
+            "guest_goals_period": [
+                3,
+                2,
+                6,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16195,
+        "game_number": 219,
+        "game_day": 2,
+        "arena": 486,
+        "arena_name": "Sportzentrum Kaufering",
+        "arena_address": "Bayernstraße 17, 86916 Kaufering",
+        "arena_short": "Kaufering, Sportzentrum Kaufering",
+        "hosting_club": "VfL Red Hocks Kaufering",
+        "game_day_id": 5381,
+        "date": "2018-10-06",
+        "time": "18:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "VfL Red Hocks Kaufering II",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZFk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dce22e30122e310a15c3d4c4f7980ce3cd943412/102-kaufering.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZFk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dce22e30122e310a15c3d4c4f7980ce3cd943412/102-kaufering.png",
+        "guest_team_name": "Frankfurt Falcons",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBhQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b3378e838d300275013b3d6ef46069d4ee4b1ab9/141-frankfurtberkersheim.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBhQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b3378e838d300275013b3d6ef46069d4ee4b1ab9/141-frankfurtberkersheim.png",
+        "nominated_referee_string": "J. Zurbuchen / C. Graus",
+        "referees": [
+            {
+                "license_id": "351",
+                "first_name": "Jann",
+                "last_name": "Zurbuchen"
+            },
+            {
+                "license_id": "2321",
+                "first_name": "Christian",
+                "last_name": "Graus"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "10:0",
+        "result": {
+            "home_goals": 10,
+            "guest_goals": 0,
+            "home_goals_period": [
+                2,
+                2,
+                6,
+                0
+            ],
+            "guest_goals_period": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16196,
+        "game_number": 220,
+        "game_day": 2,
+        "arena": 468,
+        "arena_name": "Leibnizschule",
+        "arena_address": "Röntgenstraße 8, 30163 Hannover",
+        "arena_short": "Hannover, Leibnizschule",
+        "hosting_club": "Hannover Mustangs",
+        "game_day_id": 5382,
+        "date": "2018-10-06",
+        "time": "18:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Hannover Mustangs",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBZUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6ac629bd1deebdc47edad620f318bcd483ac3016/123-hannovermustangs.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBZUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6ac629bd1deebdc47edad620f318bcd483ac3016/123-hannovermustangs.png",
+        "guest_team_name": "BSV Roxel",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d199e2c53a1721fed8db6048dca0ab5575bdb36/55-roxel.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d199e2c53a1721fed8db6048dca0ab5575bdb36/55-roxel.png",
+        "nominated_referee_string": "N. Hennig / N. Wangnet",
+        "referees": [
+            {
+                "license_id": "3914",
+                "first_name": "Nick",
+                "last_name": "Hennig"
+            },
+            {
+                "license_id": "2593",
+                "first_name": "Niklas",
+                "last_name": "Wangnet"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "16:10",
+        "result": {
+            "home_goals": 16,
+            "guest_goals": 10,
+            "home_goals_period": [
+                6,
+                7,
+                3,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                3,
+                5,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16197,
+        "game_number": 221,
+        "game_day": 2,
+        "arena": 152,
+        "arena_name": "Universitätssporthalle",
+        "arena_address": "Selkestraße 7, 06122 Halle (Saale)",
+        "arena_short": "Halle (Saale), Universitätssporthalle",
+        "hosting_club": "USV Halle",
+        "game_day_id": 5383,
+        "date": "2018-10-06",
+        "time": "18:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "USV Halle Saalebiber",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--980c3f02a3ca4d394fc549510a1a2322eadf3115/86-hallesaalebiber.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--980c3f02a3ca4d394fc549510a1a2322eadf3115/86-hallesaalebiber.png",
+        "guest_team_name": "SCS Berlin",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYW89IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--62804dc12db011adff92edb65b6446734e70a7bc/50-berlinscs.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYW89IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--62804dc12db011adff92edb65b6446734e70a7bc/50-berlinscs.png",
+        "nominated_referee_string": "T. Köstler / S. Herlt",
+        "referees": [
+            {
+                "license_id": "451",
+                "first_name": "Tobias",
+                "last_name": "Köstler"
+            },
+            {
+                "license_id": "1012",
+                "first_name": "Sascha",
+                "last_name": "Herlt"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "0:0",
+        "result": {
+            "home_goals": 0,
+            "guest_goals": 0,
+            "home_goals_period": [
+                4,
+                4,
+                -8,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                0,
+                -1,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16198,
+        "game_number": 222,
+        "game_day": 2,
+        "arena": 234,
+        "arena_name": "von-Siemens-Gymnasium",
+        "arena_address": "Stendaler Straße 10, 39106 Magdeburg",
+        "arena_short": "Magdeburg, von-Siemens-Gymnasium",
+        "hosting_club": "WSG Reform Magdeburg",
+        "game_day_id": 5384,
+        "date": "2018-10-06",
+        "time": "18:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Floorball Tigers Magdeburg",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--63497b642f1fde98b6bc660bcdeae02221648f98/25-magdeburg.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--63497b642f1fde98b6bc660bcdeae02221648f98/25-magdeburg.png",
+        "guest_team_name": "Blau-Weiß 96 Schenefeld",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "nominated_referee_string": "C. Fritsche / S. Marklowsky",
+        "referees": [
+            {
+                "license_id": "756",
+                "first_name": "Christian",
+                "last_name": "Fritsche"
+            },
+            {
+                "license_id": "1083",
+                "first_name": "Stefan",
+                "last_name": "Marklowsky"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "4:13",
+        "result": {
+            "home_goals": 4,
+            "guest_goals": 13,
+            "home_goals_period": [
+                2,
+                1,
+                1,
+                0
+            ],
+            "guest_goals_period": [
+                4,
+                3,
+                6,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16199,
+        "game_number": 223,
+        "game_day": 2,
+        "arena": 349,
+        "arena_name": "Universitätssporthalle",
+        "arena_address": "Alberstraße 27, 72074 Tübingen",
+        "arena_short": "Tübingen, Universitätssporthalle",
+        "hosting_club": "SV 03 Tübingen",
+        "game_day_id": 5385,
+        "date": "2018-10-07",
+        "time": "13:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "SV 03 Tübingen Sharks",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWjQ9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--85485697516eb810bce15e413f7a2674d573ca38/190-tuebingen.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWjQ9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--85485697516eb810bce15e413f7a2674d573ca38/190-tuebingen.png",
+        "guest_team_name": "Lumberjacks Rohrdorf",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYzA9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8ee597c03c8cb1856602d12f72872781b2f7742b/113-rohrdorfthansau.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYzA9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8ee597c03c8cb1856602d12f72872781b2f7742b/113-rohrdorfthansau.png",
+        "nominated_referee_string": "J. Wetteroth / L. Sauerbrey",
+        "referees": [
+            {
+                "license_id": "426",
+                "first_name": "Jürgen",
+                "last_name": "Wetteroth"
+            },
+            {
+                "license_id": "2833",
+                "first_name": "Leander",
+                "last_name": "Sauerbrey"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "6:5",
+        "result": {
+            "home_goals": 6,
+            "guest_goals": 5,
+            "home_goals_period": [
+                2,
+                1,
+                3,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                2,
+                2,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16200,
+        "game_number": 224,
+        "game_day": 2,
+        "arena": 158,
+        "arena_name": "Paul-Wegmann-Halle",
+        "arena_address": "Martin-Hemm-Str. 2, 85053 Ingolstadt",
+        "arena_short": "Ingolstadt, Paul-Wegmann-Halle",
+        "hosting_club": "ESV Ingolstadt",
+        "game_day_id": 5386,
+        "date": "2018-10-07",
+        "time": "13:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Donau-Floorball Ingolstadt/Nordheim",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY0E9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0aac0cf23aa1a9d10339c88f4f2e48434cf3089a/109-ingolstadt.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY0E9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0aac0cf23aa1a9d10339c88f4f2e48434cf3089a/109-ingolstadt.png",
+        "guest_team_name": "FC Stern München",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--29f3d38a80d59da81ab8d80a543743962cd1f5a8/184-fbcmuenchen.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--29f3d38a80d59da81ab8d80a543743962cd1f5a8/184-fbcmuenchen.png",
+        "nominated_referee_string": "C. Fritsche / S. Marklowsky",
+        "referees": [
+            {
+                "license_id": "756",
+                "first_name": "Christian",
+                "last_name": "Fritsche"
+            },
+            {
+                "license_id": "1083",
+                "first_name": "Stefan",
+                "last_name": "Marklowsky"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "12:8",
+        "result": {
+            "home_goals": 12,
+            "guest_goals": 8,
+            "home_goals_period": [
+                2,
+                6,
+                4,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                1,
+                5,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16201,
+        "game_number": 225,
+        "game_day": 2,
+        "arena": 513,
+        "arena_name": "Friedrich-Ebert-Mittelschule",
+        "arena_address": "Friedrich-Ebert-Straße 18, 86199 Augsburg",
+        "arena_short": "Augsburg, Friedrich-Ebert-Mittelschule",
+        "hosting_club": "TV Augsburg",
+        "game_day_id": 5387,
+        "date": "2018-10-07",
+        "time": "13:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TV Augsburg",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY1k9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10479296baaa60c5071dc18e25b58123b71907ae/37-augsburg.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY1k9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10479296baaa60c5071dc18e25b58123b71907ae/37-augsburg.png",
+        "guest_team_name": "UHC Sparkasse Weißenfels",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+        "nominated_referee_string": "R. Schorer / C. Huber",
+        "referees": [
+            {
+                "license_id": "1419",
+                "first_name": "Christoph",
+                "last_name": "Huber"
+            },
+            {
+                "license_id": "1731",
+                "first_name": "Rasso",
+                "last_name": "Schorer"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "3:31",
+        "result": {
+            "home_goals": 3,
+            "guest_goals": 31,
+            "home_goals_period": [
+                0,
+                0,
+                3,
+                0
+            ],
+            "guest_goals_period": [
+                12,
+                13,
+                6,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16202,
+        "game_number": 226,
+        "game_day": 2,
+        "arena": 168,
+        "arena_name": "August-Storch-Halle",
+        "arena_address": "August Storch Strasse , 35510 Butzbach",
+        "arena_short": "Butzbach, August-Storch-Halle",
+        "hosting_club": "Floorball Griedel",
+        "game_day_id": 5388,
+        "date": "2018-10-07",
+        "time": "15:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TSV 1899 Griedel",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBhUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ccc1685deba9337d89312048703346a9ba281b1d/144-griedel.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBhUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ccc1685deba9337d89312048703346a9ba281b1d/144-griedel.png",
+        "guest_team_name": "DJK Holzbüttgen",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
+        "nominated_referee_string": "M. Niesing / D. Wall",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "6:7",
+        "result": {
+            "home_goals": 6,
+            "guest_goals": 7,
+            "home_goals_period": [
+                4,
+                0,
+                2,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                5,
+                0,
+                1
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16203,
+        "game_number": 227,
+        "game_day": 2,
+        "arena": 486,
+        "arena_name": "Sportzentrum Kaufering",
+        "arena_address": "Bayernstraße 17, 86916 Kaufering",
+        "arena_short": "Kaufering, Sportzentrum Kaufering",
+        "hosting_club": "VfL Red Hocks Kaufering",
+        "game_day_id": 5389,
+        "date": "2018-10-07",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "VfL Red Hocks Kaufering",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZFk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dce22e30122e310a15c3d4c4f7980ce3cd943412/102-kaufering.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZFk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dce22e30122e310a15c3d4c4f7980ce3cd943412/102-kaufering.png",
+        "guest_team_name": "SC DHfK Leipzig",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e719d1a7a81419803615ceb7b119669ecffd5f83/125-dhfkleipzig.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e719d1a7a81419803615ceb7b119669ecffd5f83/125-dhfkleipzig.png",
+        "nominated_referee_string": "F. Eidenmüller / N. Burmeister",
+        "referees": [
+            {
+                "license_id": "1431",
+                "first_name": "Nicolas",
+                "last_name": "Burmeister"
+            },
+            {
+                "license_id": "2465",
+                "first_name": "Fabian",
+                "last_name": "Eidenmüller"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "6:2",
+        "result": {
+            "home_goals": 6,
+            "guest_goals": 2,
+            "home_goals_period": [
+                1,
+                3,
+                2,
+                0
+            ],
+            "guest_goals_period": [
+                0,
+                2,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16208,
+        "game_number": 228,
+        "game_day": 2,
+        "arena": 151,
+        "arena_name": "Mehrzweckhalle",
+        "arena_address": "Sportzentrum 2, 69198 Schriesheim",
+        "arena_short": "Schriesheim, Mehrzweckhalle",
+        "hosting_club": "TV Schriesheim",
+        "game_day_id": 5396,
+        "date": "2018-10-07",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "SG Schriesheim/Mannheim",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "guest_team_name": "MFBC Leipzig",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+        "nominated_referee_string": "J. A .Knoop / F. Beppler-Alt",
+        "referees": [
+            {
+                "license_id": "1825",
+                "first_name": "Florian",
+                "last_name": "Beppler-Alt"
+            },
+            {
+                "license_id": "2586",
+                "first_name": "Alexander",
+                "last_name": "Knoop"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "0:0",
+        "result": {
+            "home_goals": 0,
+            "guest_goals": 0,
+            "home_goals_period": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                7,
+                7,
+                -14,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16209,
+        "game_number": 229,
+        "game_day": 2,
+        "arena": 349,
+        "arena_name": "Universitätssporthalle",
+        "arena_address": "Alberstraße 27, 72074 Tübingen",
+        "arena_short": "Tübingen, Universitätssporthalle",
+        "hosting_club": "Sportvg Feuerbach",
+        "game_day_id": 5397,
+        "date": "2018-10-07",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Sportvg Feuerbach",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4904114b09e2d499d9f57ee3ae89d000ce2880ec/56-feuerbach.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4904114b09e2d499d9f57ee3ae89d000ce2880ec/56-feuerbach.png",
+        "guest_team_name": "TSV Calw Lions",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca80d9c70e88e3dafdeeed6710f6ce3b2f57b58f/104-calw.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca80d9c70e88e3dafdeeed6710f6ce3b2f57b58f/104-calw.png",
+        "nominated_referee_string": "J. Wetteroth / L. Sauerbrey",
+        "referees": [
+            {
+                "license_id": "426",
+                "first_name": "Jürgen",
+                "last_name": "Wetteroth"
+            },
+            {
+                "license_id": "2833",
+                "first_name": "Leander",
+                "last_name": "Sauerbrey"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "4:3",
+        "result": {
+            "home_goals": 4,
+            "guest_goals": 3,
+            "home_goals_period": [
+                0,
+                4,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                0,
+                2,
+                1,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16204,
+        "game_number": 230,
+        "game_day": 2,
+        "arena": 9,
+        "arena_name": "Sporthalle West",
+        "arena_address": "Thomas-Müntzer-Straße 17, 06667 Weißenfels",
+        "arena_short": "Weißenfels, Sporthalle West",
+        "hosting_club": "UHC Weißenfels",
+        "game_day_id": 5391,
+        "date": "2018-10-07",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "UHC Sparkasse Weißenfels II",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+        "guest_team_name": "UHC Döbeln 06",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBkZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--452a1358d946630015f61013f84dab4ad645a880/165-doebeln.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBkZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--452a1358d946630015f61013f84dab4ad645a880/165-doebeln.png",
+        "nominated_referee_string": "S. Ehebrecht / C. Hoffmann",
+        "referees": [
+            {
+                "license_id": "540",
+                "first_name": "Christian",
+                "last_name": "Hoffmann"
+            },
+            {
+                "license_id": "527",
+                "first_name": "Steven",
+                "last_name": "Ehebrecht"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "5:3",
+        "result": {
+            "home_goals": 5,
+            "guest_goals": 3,
+            "home_goals_period": [
+                1,
+                3,
+                1,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                0,
+                2,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16205,
+        "game_number": 231,
+        "game_day": 2,
+        "arena": 178,
+        "arena_name": "Sporthalle Kochstedt",
+        "arena_address": "Winklerstraße 4, 06847 Dessau",
+        "arena_short": "Dessau, Sporthalle Kochstedt",
+        "hosting_club": "PSV 90 Dessau",
+        "game_day_id": 5392,
+        "date": "2018-10-07",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "PSV 90 Dessau",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--75dd78f85cde619ae9bee16845c09cb5411eeb2a/121-psvdessau.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--75dd78f85cde619ae9bee16845c09cb5411eeb2a/121-psvdessau.png",
+        "guest_team_name": "Red Devils Wernigerode",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "nominated_referee_string": "J. Zoberbier / D. Neitzel",
+        "referees": [
+            {
+                "license_id": "27",
+                "first_name": "Jens",
+                "last_name": "Zoberbier"
+            },
+            {
+                "license_id": "728",
+                "first_name": "Dario",
+                "last_name": "Neitzel"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "6:15",
+        "result": {
+            "home_goals": 6,
+            "guest_goals": 15,
+            "home_goals_period": [
+                1,
+                2,
+                3,
+                0
+            ],
+            "guest_goals_period": [
+                3,
+                4,
+                8,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16206,
+        "game_number": 232,
+        "game_day": 2,
+        "arena": 291,
+        "arena_name": "Halle am Pfeilshof",
+        "arena_address": "Am Pfeilshof 20, 22393 Hamburg",
+        "arena_short": "Hamburg, Halle am Pfeilshof",
+        "hosting_club": "TSC Wellingsbüttel",
+        "game_day_id": 5393,
+        "date": "2018-10-07",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TSC Wellingsbüttel",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a88a757171987186290119386efc234da918947/170-tscwellingsbuettel.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a88a757171987186290119386efc234da918947/170-tscwellingsbuettel.png",
+        "guest_team_name": "TV Eiche Horn Bremen",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+        "nominated_referee_string": "L. Schneider / M. Dietz",
+        "referees": [
+            {
+                "license_id": "1997",
+                "first_name": "Lennart",
+                "last_name": "Schneider"
+            },
+            {
+                "license_id": "3969",
+                "first_name": "Mike",
+                "last_name": "Dietz"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "2:22",
+        "result": {
+            "home_goals": 2,
+            "guest_goals": 22,
+            "home_goals_period": [
+                0,
+                2,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                6,
+                11,
+                5,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16691,
+        "game_number": 301,
+        "game_day": 3,
+        "arena": 360,
+        "arena_name": "Hugo-Kunzi-Halle",
+        "arena_address": "Am Sportpark 4, 70469 Stuttgart",
+        "arena_short": "Stuttgart, Hugo-Kunzi-Halle",
+        "hosting_club": "Sportvg Feuerbach",
+        "game_day_id": 5508,
+        "date": "2018-11-03",
+        "time": "12:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Sportvg Feuerbach",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4904114b09e2d499d9f57ee3ae89d000ce2880ec/56-feuerbach.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4904114b09e2d499d9f57ee3ae89d000ce2880ec/56-feuerbach.png",
+        "guest_team_name": "DJK Holzbüttgen",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
+        "nominated_referee_string": "M. Fuß / P. Arras",
+        "referees": [
+            {
+                "license_id": "1042",
+                "first_name": "Patrick",
+                "last_name": "Arras"
+            },
+            {
+                "license_id": "3064",
+                "first_name": "Martin",
+                "last_name": "Fuß"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "3:16",
+        "result": {
+            "home_goals": 3,
+            "guest_goals": 16,
+            "home_goals_period": [
+                3,
+                -3,
+                3,
+                0
+            ],
+            "guest_goals_period": [
+                4,
+                -4,
+                16,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16692,
+        "game_number": 302,
+        "game_day": 3,
+        "arena": 297,
+        "arena_name": "Neudegger Halle",
+        "arena_address": "Neudegger Allee 3, 86609 Donauwörth",
+        "arena_short": "Donauwörth, Neudegger Halle",
+        "hosting_club": "SV 1965 Nordheim e. V",
+        "game_day_id": 5509,
+        "date": "2018-11-03",
+        "time": "13:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Donau-Floorball Ingolstadt/Nordheim",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY0E9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0aac0cf23aa1a9d10339c88f4f2e48434cf3089a/109-ingolstadt.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY0E9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0aac0cf23aa1a9d10339c88f4f2e48434cf3089a/109-ingolstadt.png",
+        "guest_team_name": "MFBC Leipzig",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+        "nominated_referee_string": "J. Zurbuchen / P. Kuhnert-Fischer",
+        "referees": [
+            {
+                "license_id": "351",
+                "first_name": "Jann",
+                "last_name": "Zurbuchen"
+            },
+            {
+                "license_id": "3777",
+                "first_name": "Philipp",
+                "last_name": "Kuhnert-Fischer"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "3:10",
+        "result": {
+            "home_goals": 3,
+            "guest_goals": 10,
+            "home_goals_period": [
+                1,
+                1,
+                1,
+                0
+            ],
+            "guest_goals_period": [
+                6,
+                0,
+                4,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16693,
+        "game_number": 303,
+        "game_day": 3,
+        "arena": 38,
+        "arena_name": "Stadthalle",
+        "arena_address": "Beuditzstraße 69A, 06667 Weißenfels",
+        "arena_short": "Weißenfels, Stadthalle",
+        "hosting_club": "UHC Weißenfels",
+        "game_day_id": 5510,
+        "date": "2018-11-03",
+        "time": "13:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "UHC Sparkasse Weißenfels II",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+        "guest_team_name": "TSG Erlensee 1874",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWjg9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8dff3e1d6eeecccfec70f7a78eff8f08cb785591/135-erlensee.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWjg9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8dff3e1d6eeecccfec70f7a78eff8f08cb785591/135-erlensee.png",
+        "nominated_referee_string": "C. Fritsche / S. Marklowsky",
+        "referees": [
+            {
+                "license_id": "756",
+                "first_name": "Christian",
+                "last_name": "Fritsche"
+            },
+            {
+                "license_id": "1083",
+                "first_name": "Stefan",
+                "last_name": "Marklowsky"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "4:11",
+        "result": {
+            "home_goals": 4,
+            "guest_goals": 11,
+            "home_goals_period": [
+                1,
+                1,
+                2,
+                0
+            ],
+            "guest_goals_period": [
+                6,
+                0,
+                5,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16694,
+        "game_number": 304,
+        "game_day": 3,
+        "arena": 38,
+        "arena_name": "Stadthalle",
+        "arena_address": "Beuditzstraße 69A, 06667 Weißenfels",
+        "arena_short": "Weißenfels, Stadthalle",
+        "hosting_club": "UHC Weißenfels",
+        "game_day_id": 5511,
+        "date": "2018-11-03",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "UHC Sparkasse Weißenfels",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+        "guest_team_name": "Floor Fighters Chemnitz",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+        "nominated_referee_string": "C. Fritsche / S. Marklowsky",
+        "referees": [
+            {
+                "license_id": "756",
+                "first_name": "Christian",
+                "last_name": "Fritsche"
+            },
+            {
+                "license_id": "1083",
+                "first_name": "Stefan",
+                "last_name": "Marklowsky"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "14:2",
+        "result": {
+            "home_goals": 14,
+            "guest_goals": 2,
+            "home_goals_period": [
+                7,
+                5,
+                2,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                1,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16695,
+        "game_number": 305,
+        "game_day": 3,
+        "arena": 486,
+        "arena_name": "Sportzentrum Kaufering",
+        "arena_address": "Bayernstraße 17, 86916 Kaufering",
+        "arena_short": "Kaufering, Sportzentrum Kaufering",
+        "hosting_club": "VfL Red Hocks Kaufering",
+        "game_day_id": 5512,
+        "date": "2018-11-03",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "VfL Red Hocks Kaufering",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZFk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dce22e30122e310a15c3d4c4f7980ce3cd943412/102-kaufering.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZFk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dce22e30122e310a15c3d4c4f7980ce3cd943412/102-kaufering.png",
+        "guest_team_name": "Tollwut Ebersgöns",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbE1CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ddf291f199bfa8a31b7c391a53e4acf81317b1cc/103-ebersgoens.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbE1CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ddf291f199bfa8a31b7c391a53e4acf81317b1cc/103-ebersgoens.png",
+        "nominated_referee_string": "F. Stark / J. Schönmeier",
+        "referees": [
+            {
+                "license_id": "1761",
+                "first_name": "Felix",
+                "last_name": "Stark"
+            },
+            {
+                "license_id": "1759",
+                "first_name": "Johannes",
+                "last_name": "Schönmeier"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "8:4",
+        "result": {
+            "home_goals": 8,
+            "guest_goals": 4,
+            "home_goals_period": [
+                2,
+                3,
+                3,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                2,
+                1,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16709,
+        "game_number": 306,
+        "game_day": 3,
+        "arena": 242,
+        "arena_name": "Sporthalle Hoheluft",
+        "arena_address": "Lokstedter Steindamm 52, 22529 Hamburg",
+        "arena_short": "Hamburg, Sporthalle Hoheluft",
+        "hosting_club": "ETV Hamburg",
+        "game_day_id": 5514,
+        "date": "2018-11-03",
+        "time": "18:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "ETV Piranhhas 2",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+        "guest_team_name": "BAT Berlin",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+        "nominated_referee_string": "M. Günther / S. Richter",
+        "referees": [
+            {
+                "license_id": "748",
+                "first_name": "Martin",
+                "last_name": "Günther"
+            },
+            {
+                "license_id": "238",
+                "first_name": "Sascha",
+                "last_name": "Richter"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "1:11",
+        "result": {
+            "home_goals": 1,
+            "guest_goals": 11,
+            "home_goals_period": [
+                0,
+                1,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                7,
+                2,
+                2,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16711,
+        "game_number": 307,
+        "game_day": 3,
+        "arena": 100,
+        "arena_name": "Sportzentrum Eiche Horn",
+        "arena_address": "Berckstraße 87, 28359 Bremen",
+        "arena_short": "Bremen, Sportzentrum Eiche Horn",
+        "hosting_club": "TV Eiche Horn Bremen",
+        "game_day_id": 5516,
+        "date": "2018-11-03",
+        "time": "18:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TV Eiche Horn Bremen",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+        "guest_team_name": "Blau-Weiß 96 Schenefeld",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "nominated_referee_string": "T. Galetzka / D. Neitzel",
+        "referees": [
+            {
+                "license_id": "237",
+                "first_name": "Tim",
+                "last_name": "Galetzka"
+            },
+            {
+                "license_id": "728",
+                "first_name": "Dario",
+                "last_name": "Neitzel"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "5:7",
+        "result": {
+            "home_goals": 5,
+            "guest_goals": 7,
+            "home_goals_period": [
+                2,
+                0,
+                3,
+                0
+            ],
+            "guest_goals_period": [
+                0,
+                4,
+                3,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16712,
+        "game_number": 308,
+        "game_day": 3,
+        "arena": 468,
+        "arena_name": "Leibnizschule",
+        "arena_address": "Röntgenstraße 8, 30163 Hannover",
+        "arena_short": "Hannover, Leibnizschule",
+        "hosting_club": "Hannover Mustangs",
+        "game_day_id": 5517,
+        "date": "2018-11-03",
+        "time": "18:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Hannover Mustangs",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBZUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6ac629bd1deebdc47edad620f318bcd483ac3016/123-hannovermustangs.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBZUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6ac629bd1deebdc47edad620f318bcd483ac3016/123-hannovermustangs.png",
+        "guest_team_name": "SG Seebergen/Lilienthal",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWDg9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5d7e03da84cfd1c6bf19442066ef02f7a243c75e/180-vfrseebergen.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWDg9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5d7e03da84cfd1c6bf19442066ef02f7a243c75e/180-vfrseebergen.png",
+        "nominated_referee_string": "S. Ehebracht / C. Hoffmann",
+        "referees": [
+            {
+                "license_id": "540",
+                "first_name": "Christian",
+                "last_name": "Hoffmann"
+            },
+            {
+                "license_id": "527",
+                "first_name": "Steven",
+                "last_name": "Ehebrecht"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "6:7",
+        "result": {
+            "home_goals": 6,
+            "guest_goals": 7,
+            "home_goals_period": [
+                2,
+                4,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                0,
+                5,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16713,
+        "game_number": 309,
+        "game_day": 3,
+        "arena": 89,
+        "arena_name": "Gymnasiumsporthalle",
+        "arena_address": "Bergstraße 19, 06188 Landsberg",
+        "arena_short": "Landsberg, Gymnasiumsporthalle",
+        "hosting_club": "Black Lions Landsberg",
+        "game_day_id": 5518,
+        "date": "2018-11-03",
+        "time": "18:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Black Lions Landsberg",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBMUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cda7988ec5ddf306487c2509c75eb483068c6f0c/40-blacklionslandsberg.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBMUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cda7988ec5ddf306487c2509c75eb483068c6f0c/40-blacklionslandsberg.png",
+        "guest_team_name": "Red Devils Wernigerode",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "nominated_referee_string": "T. Smellius / D. Weißwange",
+        "referees": [
+            {
+                "license_id": "2507",
+                "first_name": "Toni",
+                "last_name": "Smeilus"
+            },
+            {
+                "license_id": "604",
+                "first_name": "Danny",
+                "last_name": "Weisswange"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "1:31",
+        "result": {
+            "home_goals": 1,
+            "guest_goals": 31,
+            "home_goals_period": [
+                0,
+                0,
+                1,
+                0
+            ],
+            "guest_goals_period": [
+                9,
+                13,
+                9,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16714,
+        "game_number": 310,
+        "game_day": 3,
+        "arena": 152,
+        "arena_name": "Universitätssporthalle",
+        "arena_address": "Selkestraße 7, 06122 Halle (Saale)",
+        "arena_short": "Halle (Saale), Universitätssporthalle",
+        "hosting_club": "USV Halle",
+        "game_day_id": 5519,
+        "date": "2018-11-03",
+        "time": "18:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "USV Halle Saalebiber",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--980c3f02a3ca4d394fc549510a1a2322eadf3115/86-hallesaalebiber.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--980c3f02a3ca4d394fc549510a1a2322eadf3115/86-hallesaalebiber.png",
+        "guest_team_name": "Hannover 96",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY2s9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--13ef12558154a7adf5db130c76020ca31fa4cd3b/32-hannover96.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY2s9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--13ef12558154a7adf5db130c76020ca31fa4cd3b/32-hannover96.png",
+        "nominated_referee_string": "T. Köstler / S. Franke",
+        "referees": [
+            {
+                "license_id": "451",
+                "first_name": "Tobias",
+                "last_name": "Köstler"
+            },
+            {
+                "license_id": "529",
+                "first_name": "Steve",
+                "last_name": "Franke"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "3:4 n.V.",
+        "result": {
+            "home_goals": 3,
+            "guest_goals": 4,
+            "home_goals_period": [
+                0,
+                1,
+                2,
+                0
+            ],
+            "guest_goals_period": [
+                0,
+                2,
+                1,
+                1
+            ],
+            "postfix": {
+                "short": "n.V.",
+                "long": "nach Verlängerung"
+            },
+            "forfait": false,
+            "overtime": true
+        }
+    },
+    {
+        "game_id": 16715,
+        "game_number": 311,
+        "game_day": 3,
+        "arena": 471,
+        "arena_name": "Sporthalle Monumentenstraße",
+        "arena_address": "Monumentenstraße 13C, 10829  Berlin",
+        "arena_short": "Berlin, Sporthalle Monumentenstraße",
+        "hosting_club": "UHC Berlin",
+        "game_day_id": 5520,
+        "date": "2018-11-04",
+        "time": "11:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "SG UHC Berlin/VfL Tegel",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a381c9a0e25adbc7fc14b7ab62c72561c40a22c0/15-uhcberlin.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a381c9a0e25adbc7fc14b7ab62c72561c40a22c0/15-uhcberlin.png",
+        "guest_team_name": "UHC Elster",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGtCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--290590413b91d745599e52ba514888de2f2bfab5/139-elster.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGtCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--290590413b91d745599e52ba514888de2f2bfab5/139-elster.png",
+        "nominated_referee_string": "N. Wangnet / D. Matijasevic ",
+        "referees": [
+            {
+                "license_id": "3700",
+                "first_name": "Davor",
+                "last_name": "Matijasevic"
+            },
+            {
+                "license_id": "2593",
+                "first_name": "Niklas",
+                "last_name": "Wangnet"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "8:6",
+        "result": {
+            "home_goals": 8,
+            "guest_goals": 6,
+            "home_goals_period": [
+                1,
+                4,
+                3,
+                0
+            ],
+            "guest_goals_period": [
+                3,
+                2,
+                1,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16716,
+        "game_number": 312,
+        "game_day": 3,
+        "arena": 349,
+        "arena_name": "Universitätssporthalle",
+        "arena_address": "Alberstraße 27, 72074 Tübingen",
+        "arena_short": "Tübingen, Universitätssporthalle",
+        "hosting_club": "SV 03 Tübingen",
+        "game_day_id": 5521,
+        "date": "2018-11-04",
+        "time": "13:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "SV 03 Tübingen Sharks",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWjQ9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--85485697516eb810bce15e413f7a2674d573ca38/190-tuebingen.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWjQ9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--85485697516eb810bce15e413f7a2674d573ca38/190-tuebingen.png",
+        "guest_team_name": "TV Schriesheim",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "nominated_referee_string": "T. Dahme / K. Keß",
+        "referees": [
+            {
+                "license_id": "1722",
+                "first_name": "Tobias",
+                "last_name": "Dahme"
+            },
+            {
+                "license_id": "376",
+                "first_name": "Kevin",
+                "last_name": "Keß"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "2:21",
+        "result": {
+            "home_goals": 2,
+            "guest_goals": 21,
+            "home_goals_period": [
+                0,
+                1,
+                1,
+                0
+            ],
+            "guest_goals_period": [
+                5,
+                8,
+                8,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16717,
+        "game_number": 313,
+        "game_day": 3,
+        "arena": 551,
+        "arena_name": "Sportforum",
+        "arena_address": "Am Stadion 2, 07749 Jena",
+        "arena_short": "Jena, Sportforum",
+        "hosting_club": "USV Jena",
+        "game_day_id": 5522,
+        "date": "2018-11-04",
+        "time": "13:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "USV Jena",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--95089c9f6090dfa928fec6dd0c1f6b832f9fc09d/117-jena.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--95089c9f6090dfa928fec6dd0c1f6b832f9fc09d/117-jena.png",
+        "guest_team_name": "VfL Red Hocks Kaufering II",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZFk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dce22e30122e310a15c3d4c4f7980ce3cd943412/102-kaufering.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZFk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dce22e30122e310a15c3d4c4f7980ce3cd943412/102-kaufering.png",
+        "nominated_referee_string": "S. Lemme / P. Reichert",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "1:12",
+        "result": {
+            "home_goals": 1,
+            "guest_goals": 12,
+            "home_goals_period": [
+                1,
+                0,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                7,
+                3,
+                2,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16718,
+        "game_number": 314,
+        "game_day": 3,
+        "arena": 318,
+        "arena_name": "Schulzentrum",
+        "arena_address": "Süderstraße 72-74, 24214 Gettorf",
+        "arena_short": "Gettorf, Schulzentrum",
+        "hosting_club": "TSV Neuwittenbek",
+        "game_day_id": 5523,
+        "date": "2018-11-04",
+        "time": "14:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Baltic Storms",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZHM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c27fc2af79f74cb105ebaa10df74c269c8c7fbaa/baltic_storms.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZHM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c27fc2af79f74cb105ebaa10df74c269c8c7fbaa/baltic_storms.png",
+        "guest_team_name": "Gettorf Seahawks",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca9f8c4251360c18b9e15aa0b0f646b561e88375/76-gettorf.png",
+        "nominated_referee_string": "M. Dietz / M. Wittneben",
+        "referees": [
+            {
+                "license_id": "3969",
+                "first_name": "Mike",
+                "last_name": "Dietz"
+            },
+            {
+                "license_id": "284",
+                "first_name": "Mathis",
+                "last_name": "Wittneben"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "7:5",
+        "result": {
+            "home_goals": 7,
+            "guest_goals": 5,
+            "home_goals_period": [
+                1,
+                1,
+                5,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                0,
+                4,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16719,
+        "game_number": 315,
+        "game_day": 3,
+        "arena": 471,
+        "arena_name": "Sporthalle Monumentenstraße",
+        "arena_address": "Monumentenstraße 13C, 10829  Berlin",
+        "arena_short": "Berlin, Sporthalle Monumentenstraße",
+        "hosting_club": "Berlin Rockets",
+        "game_day_id": 5524,
+        "date": "2018-11-04",
+        "time": "15:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "BAT U21 Berlin",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+        "guest_team_name": "TV Lilienthal",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "nominated_referee_string": "M. Brenssell / N. Hennig",
+        "referees": [
+            {
+                "license_id": "3914",
+                "first_name": "Nick",
+                "last_name": "Hennig"
+            },
+            {
+                "license_id": "3912",
+                "first_name": "Moritz",
+                "last_name": "Brenssell"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "0:22",
+        "result": {
+            "home_goals": 0,
+            "guest_goals": 22,
+            "home_goals_period": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                6,
+                11,
+                5,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16720,
+        "game_number": 316,
+        "game_day": 3,
+        "arena": 160,
+        "arena_name": "Sportpark Nord",
+        "arena_address": "Kölnstraße 250, 53117 Bonn",
+        "arena_short": "Bonn, Sportpark Nord",
+        "hosting_club": "SSF Dragons Bonn",
+        "game_day_id": 5525,
+        "date": "2018-11-04",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "SSF Dragons Bonn",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
+        "guest_team_name": "FC Rennsteig Avalanche",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWnc9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--64da5b84bee110f6700e6f92874d1e06743ee2d2/191-rennsteig.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWnc9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--64da5b84bee110f6700e6f92874d1e06743ee2d2/191-rennsteig.png",
+        "nominated_referee_string": "M. Niesing / J. Kürbis",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "17:7",
+        "result": {
+            "home_goals": 17,
+            "guest_goals": 7,
+            "home_goals_period": [
+                4,
+                7,
+                6,
+                0
+            ],
+            "guest_goals_period": [
+                0,
+                5,
+                2,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16804,
+        "game_number": 401,
+        "game_day": 4,
+        "arena": 361,
+        "arena_name": "Borsigwalder Grundschule",
+        "arena_address": "Miraustraße 100, 13509 Berlin",
+        "arena_short": "Berlin, Borsigwalder Grundschule",
+        "hosting_club": "UHC Berlin",
+        "game_day_id": 5544,
+        "date": "2018-12-15",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "SG UHC Berlin/VfL Tegel",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a381c9a0e25adbc7fc14b7ab62c72561c40a22c0/15-uhcberlin.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a381c9a0e25adbc7fc14b7ab62c72561c40a22c0/15-uhcberlin.png",
+        "guest_team_name": "TV Lilienthal",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "nominated_referee_string": "D. Matijasevic / C. Keil",
+        "referees": [
+            {
+                "license_id": "16",
+                "first_name": "Christian",
+                "last_name": "Keil"
+            },
+            {
+                "license_id": "3700",
+                "first_name": "Davor",
+                "last_name": "Matijasevic"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "3:22",
+        "result": {
+            "home_goals": 3,
+            "guest_goals": 22,
+            "home_goals_period": [
+                1,
+                1,
+                1,
+                0
+            ],
+            "guest_goals_period": [
+                9,
+                6,
+                7,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16805,
+        "game_number": 402,
+        "game_day": 4,
+        "arena": 268,
+        "arena_name": "Sportzentrum Schoofmoor",
+        "arena_address": "Zum Schoofmoor , 28865 Lilienthal",
+        "arena_short": "Lilienthal, Sportzentrum Schoofmoor",
+        "hosting_club": "VfR Seebergen",
+        "game_day_id": 5545,
+        "date": "2018-12-15",
+        "time": "17:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "SG Seebergen/Lilienthal",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWDg9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5d7e03da84cfd1c6bf19442066ef02f7a243c75e/180-vfrseebergen.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWDg9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5d7e03da84cfd1c6bf19442066ef02f7a243c75e/180-vfrseebergen.png",
+        "guest_team_name": "DJK Holzbüttgen",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
+        "nominated_referee_string": "M. Zädler / N. Jöhnk",
+        "referees": [
+            {
+                "license_id": "1377",
+                "first_name": "Nils",
+                "last_name": "Jöhnk"
+            },
+            {
+                "license_id": "2023",
+                "first_name": "Marten",
+                "last_name": "Zädler"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "3:13",
+        "result": {
+            "home_goals": 3,
+            "guest_goals": 13,
+            "home_goals_period": [
+                1,
+                2,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                8,
+                3,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16806,
+        "game_number": 403,
+        "game_day": 4,
+        "arena": 336,
+        "arena_name": "Schulzentrum Achter de Weiden",
+        "arena_address": "Achter de Weiden 32, 22869 Schenefeld",
+        "arena_short": "Schenefeld, Schulzentrum Achter de Weiden",
+        "hosting_club": "BW96 Schenefeld",
+        "game_day_id": 5546,
+        "date": "2018-12-15",
+        "time": "17:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Blau-Weiß 96 Schenefeld",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+        "guest_team_name": "TV Schriesheim",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "nominated_referee_string": "D. Wahlström / R. Potthoff",
+        "referees": [
+            {
+                "license_id": "326",
+                "first_name": "René",
+                "last_name": "Potthoff"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "3:5",
+        "result": {
+            "home_goals": 3,
+            "guest_goals": 5,
+            "home_goals_period": [
+                0,
+                2,
+                1,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                1,
+                2,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16807,
+        "game_number": 404,
+        "game_day": 4,
+        "arena": 486,
+        "arena_name": "Sportzentrum Kaufering",
+        "arena_address": "Bayernstraße 17, 86916 Kaufering",
+        "arena_short": "Kaufering, Sportzentrum Kaufering",
+        "hosting_club": "VfL Red Hocks Kaufering",
+        "game_day_id": 5547,
+        "date": "2018-12-15",
+        "time": "18:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "VfL Red Hocks Kaufering II",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZFk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dce22e30122e310a15c3d4c4f7980ce3cd943412/102-kaufering.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZFk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dce22e30122e310a15c3d4c4f7980ce3cd943412/102-kaufering.png",
+        "guest_team_name": "UHC Sparkasse Weißenfels",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+        "nominated_referee_string": "M. Fuß / U. Meyerdirks",
+        "referees": [
+            {
+                "license_id": "3064",
+                "first_name": "Martin",
+                "last_name": "Fuß"
+            },
+            {
+                "license_id": "2462",
+                "first_name": "Uwe",
+                "last_name": "Meyerdirks"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "4:16",
+        "result": {
+            "home_goals": 4,
+            "guest_goals": 16,
+            "home_goals_period": [
+                3,
+                1,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                8,
+                3,
+                5,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16808,
+        "game_number": 405,
+        "game_day": 4,
+        "arena": 160,
+        "arena_name": "Sportpark Nord",
+        "arena_address": "Kölnstraße 250, 53117 Bonn",
+        "arena_short": "Bonn, Sportpark Nord",
+        "hosting_club": "SSF Dragons Bonn",
+        "game_day_id": 5548,
+        "date": "2018-12-15",
+        "time": "19:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "SSF Dragons Bonn",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
+        "guest_team_name": "VfL Red Hocks Kaufering",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZFk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dce22e30122e310a15c3d4c4f7980ce3cd943412/102-kaufering.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZFk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dce22e30122e310a15c3d4c4f7980ce3cd943412/102-kaufering.png",
+        "nominated_referee_string": "J. Jung / J. Kürbis",
+        "referees": [
+            {
+                "license_id": "3454",
+                "first_name": "Jens",
+                "last_name": "Kürbis"
+            },
+            {
+                "license_id": "679",
+                "first_name": "Julian",
+                "last_name": "Jung"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "7:6 n.V.",
+        "result": {
+            "home_goals": 7,
+            "guest_goals": 6,
+            "home_goals_period": [
+                3,
+                1,
+                2,
+                1
+            ],
+            "guest_goals_period": [
+                3,
+                2,
+                1,
+                0
+            ],
+            "postfix": {
+                "short": "n.V.",
+                "long": "nach Verlängerung"
+            },
+            "forfait": false,
+            "overtime": true
+        }
+    },
+    {
+        "game_id": 16809,
+        "game_number": 406,
+        "game_day": 4,
+        "arena": 583,
+        "arena_name": "GS An der Feldbuschwende",
+        "arena_address": "Oheriedentrift 11, 30539 Hannover",
+        "arena_short": "Hannover, GS An der Feldbuschwende",
+        "hosting_club": "Hannover 96",
+        "game_day_id": 5549,
+        "date": "2018-12-16",
+        "time": "14:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Hannover 96",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY2s9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--13ef12558154a7adf5db130c76020ca31fa4cd3b/32-hannover96.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY2s9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--13ef12558154a7adf5db130c76020ca31fa4cd3b/32-hannover96.png",
+        "guest_team_name": "MFBC Leipzig",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+        "nominated_referee_string": "T. Geiler / J.-P. Gersdorf",
+        "referees": [
+            {
+                "license_id": "161",
+                "first_name": "Jan-Paul",
+                "last_name": "Gersdorf"
+            },
+            {
+                "license_id": "864",
+                "first_name": "Till",
+                "last_name": "Geiler"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "2:19",
+        "result": {
+            "home_goals": 2,
+            "guest_goals": 19,
+            "home_goals_period": [
+                1,
+                1,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                6,
+                7,
+                6,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16810,
+        "game_number": 407,
+        "game_day": 4,
+        "arena": 582,
+        "arena_name": "Willibald Gebhardt Sportzentrum Schöneberg",
+        "arena_address": "Sachsendamm 12, 10829 Berlin",
+        "arena_short": "Berlin, Willibald Gebhardt Sportzentrum Schöneberg",
+        "hosting_club": "Berlin Rockets",
+        "game_day_id": 5550,
+        "date": "2018-12-16",
+        "time": "15:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "BAT Berlin",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+        "guest_team_name": "Baltic Storms",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZHM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c27fc2af79f74cb105ebaa10df74c269c8c7fbaa/baltic_storms.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZHM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c27fc2af79f74cb105ebaa10df74c269c8c7fbaa/baltic_storms.png",
+        "nominated_referee_string": "J. Brandt / M. Hirschberg",
+        "referees": [
+            {
+                "license_id": "1848",
+                "first_name": "Jan",
+                "last_name": "Brandt"
+            },
+            {
+                "license_id": "1851",
+                "first_name": "Maik",
+                "last_name": "Hirschberg"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "7:2",
+        "result": {
+            "home_goals": 7,
+            "guest_goals": 2,
+            "home_goals_period": [
+                2,
+                2,
+                3,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16811,
+        "game_number": 408,
+        "game_day": 4,
+        "arena": 60,
+        "arena_name": "Grossporthalle Erlensee",
+        "arena_address": "Konrad Adenauer Strasse  35, 63526 Erlensee",
+        "arena_short": "Erlensee, Grossporthalle Erlensee",
+        "hosting_club": "TSG Erlensee",
+        "game_day_id": 5551,
+        "date": "2018-12-16",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TSG Erlensee 1874",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWjg9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8dff3e1d6eeecccfec70f7a78eff8f08cb785591/135-erlensee.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWjg9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8dff3e1d6eeecccfec70f7a78eff8f08cb785591/135-erlensee.png",
+        "guest_team_name": "Red Devils Wernigerode",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "nominated_referee_string": "J.A.Knoop / M.Herrmann.",
+        "referees": [
+            {
+                "license_id": "2586",
+                "first_name": "Alexander",
+                "last_name": "Knoop"
+            },
+            {
+                "license_id": "2585",
+                "first_name": "Marius",
+                "last_name": "Herrmann"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "1:19",
+        "result": {
+            "home_goals": 1,
+            "guest_goals": 19,
+            "home_goals_period": [
+                0,
+                0,
+                1,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                9,
+                8,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16821,
+        "game_number": 501,
+        "game_day": 5,
+        "arena": 377,
+        "arena_name": "Stadtparkhalle",
+        "arena_address": "Pestalozzistraße 1, 41564 Kaarst",
+        "arena_short": "Kaarst, Stadtparkhalle",
+        "hosting_club": "DJK Holzbüttgen",
+        "game_day_id": 5561,
+        "date": "2019-01-12",
+        "time": "19:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "DJK Holzbüttgen",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
+        "guest_team_name": "Red Devils Wernigerode",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "nominated_referee_string": "D. Wahlström / R. Potthoff",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "2:12",
+        "result": {
+            "home_goals": 2,
+            "guest_goals": 12,
+            "home_goals_period": [
+                0,
+                1,
+                1,
+                0
+            ],
+            "guest_goals_period": [
+                3,
+                2,
+                7,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16822,
+        "game_number": 502,
+        "game_day": 5,
+        "arena": 151,
+        "arena_name": "Mehrzweckhalle",
+        "arena_address": "Sportzentrum 2, 69198 Schriesheim",
+        "arena_short": "Schriesheim, Mehrzweckhalle",
+        "hosting_club": "TV Schriesheim",
+        "game_day_id": 5562,
+        "date": "2019-01-13",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TV Schriesheim",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+        "guest_team_name": "MFBC Leipzig",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+        "nominated_referee_string": "P. Aho / S. Piorun",
+        "referees": [
+            {
+                "license_id": "4",
+                "first_name": "Pasi",
+                "last_name": "Aho"
+            },
+            {
+                "license_id": "79",
+                "first_name": "Steven",
+                "last_name": "Piorun"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "6:11",
+        "result": {
+            "home_goals": 6,
+            "guest_goals": 11,
+            "home_goals_period": [
+                0,
+                5,
+                1,
+                0
+            ],
+            "guest_goals_period": [
+                0,
+                4,
+                7,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16823,
+        "game_number": 503,
+        "game_day": 5,
+        "arena": 160,
+        "arena_name": "Sportpark Nord",
+        "arena_address": "Kölnstraße 250, 53117 Bonn",
+        "arena_short": "Bonn, Sportpark Nord",
+        "hosting_club": "SSF Dragons Bonn",
+        "game_day_id": 5563,
+        "date": "2019-01-13",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "SSF Dragons Bonn",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
+        "guest_team_name": "UHC Sparkasse Weißenfels",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+        "nominated_referee_string": "J. Kürbis / J. Jung",
+        "referees": [
+            {
+                "license_id": "3454",
+                "first_name": "Jens",
+                "last_name": "Kürbis"
+            },
+            {
+                "license_id": "679",
+                "first_name": "Julian",
+                "last_name": "Jung"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "5:12",
+        "result": {
+            "home_goals": 5,
+            "guest_goals": 12,
+            "home_goals_period": [
+                3,
+                2,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                2,
+                8,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 16824,
+        "game_number": 504,
+        "game_day": 5,
+        "arena": 561,
+        "arena_name": "Lilli-Henoch-Sporthalle",
+        "arena_address": "Pallasstraße 15, 10781 Berlin",
+        "arena_short": "Berlin, Lilli-Henoch-Sporthalle",
+        "hosting_club": "Berlin Rockets",
+        "game_day_id": 5564,
+        "date": "2019-02-17",
+        "time": "15:30",
+        "started": true,
+        "ended": true,
+        "home_team_name": "BAT Berlin",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+        "guest_team_name": "TV Lilienthal",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "nominated_referee_string": "S. Ehebrecht / B. Ehrhardt",
+        "referees": [
+            {
+                "license_id": "1792",
+                "first_name": "Benjamin",
+                "last_name": "Ehrhardt"
+            },
+            {
+                "license_id": "527",
+                "first_name": "Steven",
+                "last_name": "Ehebrecht"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "3:6",
+        "result": {
+            "home_goals": 3,
+            "guest_goals": 6,
+            "home_goals_period": [
+                1,
+                2,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                0,
+                3,
+                3,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 17097,
+        "game_number": 601,
+        "game_day": 6,
+        "arena": 310,
+        "arena_name": "Brüderstraße",
+        "arena_address": "Brüderstraße 15, 04103 Leipzig",
+        "arena_short": "Leipzig, Brüderstraße",
+        "hosting_club": "SSC Leipzig",
+        "game_day_id": 5633,
+        "date": "2019-03-09",
+        "time": "17:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TV Lilienthal",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_name": "UHC Sparkasse Weißenfels",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+        "nominated_referee_string": "D. Wahlström / R. Potthoff",
+        "referees": [
+            {
+                "license_id": "326",
+                "first_name": "René",
+                "last_name": "Potthoff"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "5:4 n.V.",
+        "result": {
+            "home_goals": 5,
+            "guest_goals": 4,
+            "home_goals_period": [
+                0,
+                2,
+                2,
+                1
+            ],
+            "guest_goals_period": [
+                1,
+                2,
+                1,
+                0
+            ],
+            "postfix": {
+                "short": "n.V.",
+                "long": "nach Verlängerung"
+            },
+            "forfait": false,
+            "overtime": true
+        }
+    },
+    {
+        "game_id": 17098,
+        "game_number": 602,
+        "game_day": 6,
+        "arena": 310,
+        "arena_name": "Brüderstraße",
+        "arena_address": "Brüderstraße 15, 04103 Leipzig",
+        "arena_short": "Leipzig, Brüderstraße",
+        "hosting_club": "SSC Leipzig",
+        "game_day_id": 5633,
+        "date": "2019-03-09",
+        "time": "20:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Red Devils Wernigerode",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "guest_team_name": "MFBC Leipzig",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+        "nominated_referee_string": "T. Schnelle / O. Hofmann",
+        "referees": [
+            {
+                "license_id": "453",
+                "first_name": "Oliver",
+                "last_name": "Hofmann"
+            },
+            {
+                "license_id": "879",
+                "first_name": "Toni",
+                "last_name": "Schnelle"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "6:5 n.V.",
+        "result": {
+            "home_goals": 6,
+            "guest_goals": 5,
+            "home_goals_period": [
+                0,
+                4,
+                1,
+                1
+            ],
+            "guest_goals_period": [
+                3,
+                2,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "n.V.",
+                "long": "nach Verlängerung"
+            },
+            "forfait": false,
+            "overtime": true
+        }
+    },
+    {
+        "game_id": 17142,
+        "game_number": 701,
+        "game_day": 7,
+        "arena": 310,
+        "arena_name": "Brüderstraße",
+        "arena_address": "Brüderstraße 15, 04103 Leipzig",
+        "arena_short": "Leipzig, Brüderstraße",
+        "hosting_club": "SSC Leipzig",
+        "game_day_id": 5663,
+        "date": "2019-03-10",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TV Lilienthal",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_name": "Red Devils Wernigerode",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "nominated_referee_string": "T. Schnelle / O. Hofmann",
+        "referees": [
+            {
+                "license_id": "879",
+                "first_name": "Toni",
+                "last_name": "Schnelle"
+            },
+            {
+                "license_id": "453",
+                "first_name": "Oliver",
+                "last_name": "Hofmann"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "8:5",
+        "result": {
+            "home_goals": 8,
+            "guest_goals": 5,
+            "home_goals_period": [
+                4,
+                0,
+                4,
+                0
+            ],
+            "guest_goals_period": [
+                0,
+                1,
+                4,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    }
+]

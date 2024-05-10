@@ -1,0 +1,970 @@
+[
+    {
+        "game_id": 17124,
+        "game_number": 1,
+        "game_day": 1,
+        "arena": 377,
+        "arena_name": "Stadtparkhalle",
+        "arena_address": "Pestalozzistraße 1, 41564 Kaarst",
+        "arena_short": "Kaarst, Stadtparkhalle",
+        "hosting_club": "DJK Holzbüttgen",
+        "game_day_id": 5647,
+        "date": "2019-03-17",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "DJK Holzbüttgen",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
+        "guest_team_name": "Red Devils Wernigerode",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "nominated_referee_string": "M. Niesing / J. Jung",
+        "referees": [
+            {
+                "license_id": "7",
+                "first_name": "Matthias",
+                "last_name": "Niesing"
+            },
+            {
+                "license_id": "679",
+                "first_name": "Julian",
+                "last_name": "Jung"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "2:7",
+        "result": {
+            "home_goals": 2,
+            "guest_goals": 7,
+            "home_goals_period": [
+                1,
+                0,
+                1,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                2,
+                3,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 17125,
+        "game_number": 3,
+        "game_day": 1,
+        "arena": 475,
+        "arena_name": "Stadtfeldhalle",
+        "arena_address": "Große Dammstraße 38, 38855 Wernigerode",
+        "arena_short": "Wernigerode, Stadtfeldhalle",
+        "hosting_club": "Red Devils Wernigerode",
+        "game_day_id": 5648,
+        "date": "2019-03-23",
+        "time": "18:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Red Devils Wernigerode",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "guest_team_name": "DJK Holzbüttgen",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
+        "nominated_referee_string": "T. Köstler / S. Franke",
+        "referees": [
+            {
+                "license_id": "451",
+                "first_name": "Tobias",
+                "last_name": "Köstler"
+            },
+            {
+                "license_id": "529",
+                "first_name": "Steve",
+                "last_name": "Franke"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "5:4",
+        "result": {
+            "home_goals": 5,
+            "guest_goals": 4,
+            "home_goals_period": [
+                5,
+                0,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                1,
+                2,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 17126,
+        "game_number": 5,
+        "game_day": 1,
+        "arena": 475,
+        "arena_name": "Stadtfeldhalle",
+        "arena_address": "Große Dammstraße 38, 38855 Wernigerode",
+        "arena_short": "Wernigerode, Stadtfeldhalle",
+        "hosting_club": "Red Devils Wernigerode",
+        "game_day_id": 5649,
+        "date": "2019-03-24",
+        "time": "16:00",
+        "started": false,
+        "ended": false,
+        "home_team_name": "Red Devils Wernigerode",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "guest_team_name": "DJK Holzbüttgen",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
+        "nominated_referee_string": "T. Köstler / S. Franke",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "no_record",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null
+    },
+    {
+        "game_id": 17127,
+        "game_number": 2,
+        "game_day": 2,
+        "arena": 268,
+        "arena_name": "Sportzentrum Schoofmoor",
+        "arena_address": "Zum Schoofmoor , 28865 Lilienthal",
+        "arena_short": "Lilienthal, Sportzentrum Schoofmoor",
+        "hosting_club": "TV Lilienthal",
+        "game_day_id": 5656,
+        "date": "2019-03-16",
+        "time": "18:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TV Lilienthal",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_name": "ETV Piranhhas Hamburg",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+        "nominated_referee_string": "M. Niesing / J. Jung",
+        "referees": [
+            {
+                "license_id": "7",
+                "first_name": "Matthias",
+                "last_name": "Niesing"
+            },
+            {
+                "license_id": "679",
+                "first_name": "Julian",
+                "last_name": "Jung"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "2:4",
+        "result": {
+            "home_goals": 2,
+            "guest_goals": 4,
+            "home_goals_period": [
+                1,
+                0,
+                1,
+                0
+            ],
+            "guest_goals_period": [
+                3,
+                0,
+                1,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 17128,
+        "game_number": 4,
+        "game_day": 2,
+        "arena": 242,
+        "arena_name": "Sporthalle Hoheluft",
+        "arena_address": "Lokstedter Steindamm 52, 22529 Hamburg",
+        "arena_short": "Hamburg, Sporthalle Hoheluft",
+        "hosting_club": "ETV Hamburg",
+        "game_day_id": 5657,
+        "date": "2019-03-23",
+        "time": "18:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "ETV Piranhhas Hamburg",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+        "guest_team_name": "TV Lilienthal",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "nominated_referee_string": "S. Ehebrecht / B. Ehrhardt",
+        "referees": [
+            {
+                "license_id": "527",
+                "first_name": "Steven",
+                "last_name": "Ehebrecht"
+            },
+            {
+                "license_id": "1792",
+                "first_name": "Benjamin",
+                "last_name": "Ehrhardt"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "6:11",
+        "result": {
+            "home_goals": 6,
+            "guest_goals": 11,
+            "home_goals_period": [
+                3,
+                1,
+                2,
+                0
+            ],
+            "guest_goals_period": [
+                3,
+                7,
+                1,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 17129,
+        "game_number": 6,
+        "game_day": 2,
+        "arena": 268,
+        "arena_name": "Sportzentrum Schoofmoor",
+        "arena_address": "Zum Schoofmoor , 28865 Lilienthal",
+        "arena_short": "Lilienthal, Sportzentrum Schoofmoor",
+        "hosting_club": "TV Lilienthal",
+        "game_day_id": 5658,
+        "date": "2019-03-24",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TV Lilienthal",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_name": "ETV Piranhhas Hamburg",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+        "nominated_referee_string": "M. Günther / S. Richter",
+        "referees": [
+            {
+                "license_id": "748",
+                "first_name": "Martin",
+                "last_name": "Günther"
+            },
+            {
+                "license_id": "238",
+                "first_name": "Sascha",
+                "last_name": "Richter"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "7:6 n.V.",
+        "result": {
+            "home_goals": 7,
+            "guest_goals": 6,
+            "home_goals_period": [
+                0,
+                3,
+                3,
+                1
+            ],
+            "guest_goals_period": [
+                1,
+                5,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "n.V.",
+                "long": "nach Verlängerung"
+            },
+            "forfait": false,
+            "overtime": true
+        }
+    },
+    {
+        "game_id": 17186,
+        "game_number": 7,
+        "game_day": 3,
+        "arena": 268,
+        "arena_name": "Sportzentrum Schoofmoor",
+        "arena_address": "Zum Schoofmoor , 28865 Lilienthal",
+        "arena_short": "Lilienthal, Sportzentrum Schoofmoor",
+        "hosting_club": "TV Lilienthal",
+        "game_day_id": 5678,
+        "date": "2019-03-30",
+        "time": "18:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TV Lilienthal",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_name": "UHC Sparkasse Weißenfels",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+        "nominated_referee_string": "T. Galetzka / S. Ehebrecht",
+        "referees": [
+            {
+                "license_id": "237",
+                "first_name": "Tim",
+                "last_name": "Galetzka"
+            },
+            {
+                "license_id": "527",
+                "first_name": "Steven",
+                "last_name": "Ehebrecht"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "9:3",
+        "result": {
+            "home_goals": 9,
+            "guest_goals": 3,
+            "home_goals_period": [
+                2,
+                5,
+                2,
+                0
+            ],
+            "guest_goals_period": [
+                0,
+                2,
+                1,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 17191,
+        "game_number": 9,
+        "game_day": 3,
+        "arena": 9,
+        "arena_name": "Sporthalle West",
+        "arena_address": "Thomas-Müntzer-Straße 17, 06667 Weißenfels",
+        "arena_short": "Weißenfels, Sporthalle West",
+        "hosting_club": "UHC Weißenfels",
+        "game_day_id": 5679,
+        "date": "2019-04-06",
+        "time": "18:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "UHC Sparkasse Weißenfels",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+        "guest_team_name": "TV Lilienthal",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "nominated_referee_string": "C. Fritsche / S. Marklowsky",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "5:8",
+        "result": {
+            "home_goals": 5,
+            "guest_goals": 8,
+            "home_goals_period": [
+                2,
+                2,
+                1,
+                0
+            ],
+            "guest_goals_period": [
+                3,
+                2,
+                3,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 17190,
+        "game_number": 11,
+        "game_day": 3,
+        "arena": 38,
+        "arena_name": "Stadthalle",
+        "arena_address": "Beuditzstraße 69A, 06667 Weißenfels",
+        "arena_short": "Weißenfels, Stadthalle",
+        "hosting_club": "UHC Weißenfels",
+        "game_day_id": 5680,
+        "date": "2019-04-07",
+        "time": "15:00",
+        "started": false,
+        "ended": false,
+        "home_team_name": "UHC Sparkasse Weißenfels",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+        "guest_team_name": "TV Lilienthal",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "nominated_referee_string": "D. Wahlström / R. Potthoff",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "no_record",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null
+    },
+    {
+        "game_id": 17187,
+        "game_number": 8,
+        "game_day": 4,
+        "arena": 475,
+        "arena_name": "Stadtfeldhalle",
+        "arena_address": "Große Dammstraße 38, 38855 Wernigerode",
+        "arena_short": "Wernigerode, Stadtfeldhalle",
+        "hosting_club": "Red Devils Wernigerode",
+        "game_day_id": 5675,
+        "date": "2019-03-30",
+        "time": "18:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "Red Devils Wernigerode",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "guest_team_name": "MFBC Leipzig",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+        "nominated_referee_string": "D. Matijasevic / C. Keil",
+        "referees": [
+            {
+                "license_id": "16",
+                "first_name": "Christian",
+                "last_name": "Keil"
+            },
+            {
+                "license_id": "3700",
+                "first_name": "Davor",
+                "last_name": "Matijasevic"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "2:8",
+        "result": {
+            "home_goals": 2,
+            "guest_goals": 8,
+            "home_goals_period": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "guest_goals_period": [
+                4,
+                1,
+                3,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 17188,
+        "game_number": 10,
+        "game_day": 4,
+        "arena": 51,
+        "arena_name": "Jahn-Sporthalle Liebertwolkwitz",
+        "arena_address": "Jahnstraße 3, 04288 Leipzig",
+        "arena_short": "Leipzig, Jahn-Sporthalle Liebertwolkwitz",
+        "hosting_club": "SSC Leipzig",
+        "game_day_id": 5676,
+        "date": "2019-04-06",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "MFBC Leipzig",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+        "guest_team_name": "Red Devils Wernigerode",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "nominated_referee_string": "D. Wahlström / R. Potthoff",
+        "referees": [
+            {
+                "license_id": "326",
+                "first_name": "René",
+                "last_name": "Potthoff"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "9:6",
+        "result": {
+            "home_goals": 9,
+            "guest_goals": 6,
+            "home_goals_period": [
+                2,
+                1,
+                6,
+                0
+            ],
+            "guest_goals_period": [
+                1,
+                5,
+                0,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 17189,
+        "game_number": 12,
+        "game_day": 4,
+        "arena": 51,
+        "arena_name": "Jahn-Sporthalle Liebertwolkwitz",
+        "arena_address": "Jahnstraße 3, 04288 Leipzig",
+        "arena_short": "Leipzig, Jahn-Sporthalle Liebertwolkwitz",
+        "hosting_club": "SSC Leipzig",
+        "game_day_id": 5677,
+        "date": "2019-04-07",
+        "time": "16:00",
+        "started": false,
+        "ended": false,
+        "home_team_name": "MFBC Leipzig",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+        "guest_team_name": "Red Devils Wernigerode",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "nominated_referee_string": "S. Liers / O. Hofmann",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "no_record",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null
+    },
+    {
+        "game_id": 17262,
+        "game_number": 13,
+        "game_day": 5,
+        "arena": 38,
+        "arena_name": "Stadthalle",
+        "arena_address": "Beuditzstraße 69A, 06667 Weißenfels",
+        "arena_short": "Weißenfels, Stadthalle",
+        "hosting_club": "UHC Weißenfels",
+        "game_day_id": 5708,
+        "date": "2019-04-13",
+        "time": "14:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "UHC Sparkasse Weißenfels",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+        "guest_team_name": "Red Devils Wernigerode",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBGQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10a63b588be241f7b34ec6490e7bf7e735fc4bab/2-wernigerode.png",
+        "nominated_referee_string": "S. Marklowsky / C. Fritsche",
+        "referees": [
+            {
+                "license_id": "756",
+                "first_name": "Christian",
+                "last_name": "Fritsche"
+            },
+            {
+                "license_id": "1083",
+                "first_name": "Stefan",
+                "last_name": "Marklowsky"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "5:4",
+        "result": {
+            "home_goals": 5,
+            "guest_goals": 4,
+            "home_goals_period": [
+                3,
+                0,
+                1,
+                1
+            ],
+            "guest_goals_period": [
+                1,
+                0,
+                3,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 17254,
+        "game_number": 14,
+        "game_day": 6,
+        "arena": 268,
+        "arena_name": "Sportzentrum Schoofmoor",
+        "arena_address": "Zum Schoofmoor , 28865 Lilienthal",
+        "arena_short": "Lilienthal, Sportzentrum Schoofmoor",
+        "hosting_club": "TV Lilienthal",
+        "game_day_id": 5709,
+        "date": "2019-04-13",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "TV Lilienthal",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_name": "MFBC Leipzig",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+        "nominated_referee_string": "M. Niesing / J. Jung",
+        "referees": [
+            {
+                "license_id": "7",
+                "first_name": "Matthias",
+                "last_name": "Niesing"
+            },
+            {
+                "license_id": "679",
+                "first_name": "Julian",
+                "last_name": "Jung"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "9:10 n.V.",
+        "result": {
+            "home_goals": 9,
+            "guest_goals": 10,
+            "home_goals_period": [
+                5,
+                3,
+                1,
+                0
+            ],
+            "guest_goals_period": [
+                2,
+                2,
+                5,
+                1
+            ],
+            "postfix": {
+                "short": "n.V.",
+                "long": "nach Verlängerung"
+            },
+            "forfait": false,
+            "overtime": true
+        }
+    },
+    {
+        "game_id": 17255,
+        "game_number": 15,
+        "game_day": 6,
+        "arena": 310,
+        "arena_name": "Brüderstraße",
+        "arena_address": "Brüderstraße 15, 04103 Leipzig",
+        "arena_short": "Leipzig, Brüderstraße",
+        "hosting_club": "SSC Leipzig",
+        "game_day_id": 5710,
+        "date": "2019-04-20",
+        "time": "16:00",
+        "started": true,
+        "ended": true,
+        "home_team_name": "MFBC Leipzig",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+        "guest_team_name": "TV Lilienthal",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "nominated_referee_string": "S. Ehebrecht / B. Ehrhardt",
+        "referees": [
+            {
+                "license_id": "1792",
+                "first_name": "Benjamin",
+                "last_name": "Ehrhardt"
+            },
+            {
+                "license_id": "527",
+                "first_name": "Steven",
+                "last_name": "Ehebrecht"
+            }
+        ],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "ended",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null,
+        "result_string": "10:5",
+        "result": {
+            "home_goals": 10,
+            "guest_goals": 5,
+            "home_goals_period": [
+                3,
+                2,
+                5,
+                0
+            ],
+            "guest_goals_period": [
+                0,
+                3,
+                2,
+                0
+            ],
+            "postfix": {
+                "short": "",
+                "long": ""
+            },
+            "forfait": false,
+            "overtime": false
+        }
+    },
+    {
+        "game_id": 17256,
+        "game_number": 16,
+        "game_day": 6,
+        "arena": 310,
+        "arena_name": "Brüderstraße",
+        "arena_address": "Brüderstraße 15, 04103 Leipzig",
+        "arena_short": "Leipzig, Brüderstraße",
+        "hosting_club": "SSC Leipzig",
+        "game_day_id": 5711,
+        "date": "2019-04-21",
+        "time": "16:00",
+        "started": false,
+        "ended": false,
+        "home_team_name": "MFBC Leipzig",
+        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+        "guest_team_name": "TV Lilienthal",
+        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+        "nominated_referee_string": "S. Ehebrecht / B. Ehrhardt",
+        "referees": [],
+        "notice_type": null,
+        "notice_string": null,
+        "state": "no_record",
+        "current_period_title": null,
+        "group_identifier": null,
+        "series_title": null,
+        "series_number": null,
+        "home_team_filling_rule": null,
+        "home_team_filling_title": null,
+        "home_team_filling_parameter": null,
+        "guest_team_filling_rule": null,
+        "guest_team_filling_title": null,
+        "guest_team_filling_parameter": null
+    }
+]

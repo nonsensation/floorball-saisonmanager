@@ -1,0 +1,643 @@
+{
+    "id": 766,
+    "game_operation_id": 1,
+    "game_operation_name": "Floorball Deutschland",
+    "game_operation_short_name": "FVD",
+    "game_operation_slug": "fvd",
+    "league_category_id": "100",
+    "league_class_id": "10",
+    "league_system_id": "1",
+    "league_type": "champ",
+    "name": "Damen Kleinfeld Deutsche Meisterschaft",
+    "female": true,
+    "enable_scorer": true,
+    "short_name": "DM (Damen KF)",
+    "season_id": "10",
+    "order_key": "70",
+    "game_day_numbers": [
+        1,
+        2
+    ],
+    "game_day_titles": [
+        {
+            "game_day_number": 1,
+            "title": "1. Spieltag"
+        },
+        {
+            "game_day_number": 2,
+            "title": "2. Spieltag"
+        }
+    ],
+    "deadline": "",
+    "before_deadline": false,
+    "legacy_league": true,
+    "field_size": null,
+    "league_modus": null,
+    "has_preround": false,
+    "table_modus": "classic",
+    "periods": null,
+    "period_length": null,
+    "overtime_length": null,
+    "similar_leagues": [
+        {
+            "id": 601,
+            "game_operation_id": 1,
+            "game_operation_name": "Floorball Deutschland",
+            "game_operation_short_name": "FVD",
+            "game_operation_slug": "fvd",
+            "league_category_id": "1",
+            "league_class_id": "10",
+            "league_system_id": "1",
+            "league_type": "league",
+            "name": "1. FBL",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "1. FBL",
+            "season_id": "10",
+            "order_key": "20",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                },
+                {
+                    "game_day_number": 7,
+                    "title": "7. Spieltag"
+                },
+                {
+                    "game_day_number": 8,
+                    "title": "8. Spieltag"
+                },
+                {
+                    "game_day_number": 9,
+                    "title": "9. Spieltag"
+                },
+                {
+                    "game_day_number": 10,
+                    "title": "10. Spieltag"
+                },
+                {
+                    "game_day_number": 11,
+                    "title": "11. Spieltag"
+                },
+                {
+                    "game_day_number": 12,
+                    "title": "12. Spieltag"
+                },
+                {
+                    "game_day_number": 13,
+                    "title": "13. Spieltag"
+                },
+                {
+                    "game_day_number": 14,
+                    "title": "14. Spieltag"
+                },
+                {
+                    "game_day_number": 15,
+                    "title": "15. Spieltag"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": true,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 602,
+            "game_operation_id": 1,
+            "game_operation_name": "Floorball Deutschland",
+            "game_operation_short_name": "FVD",
+            "game_operation_slug": "fvd",
+            "league_category_id": "1",
+            "league_class_id": "10",
+            "league_system_id": "1",
+            "league_type": "league",
+            "name": "1. FBL Damen",
+            "female": true,
+            "enable_scorer": true,
+            "short_name": "1. FBL (D)",
+            "season_id": "10",
+            "order_key": "30",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                },
+                {
+                    "game_day_number": 7,
+                    "title": "7. Spieltag"
+                },
+                {
+                    "game_day_number": 8,
+                    "title": "8. Spieltag"
+                },
+                {
+                    "game_day_number": 10,
+                    "title": "10. Spieltag"
+                },
+                {
+                    "game_day_number": 11,
+                    "title": "11. Spieltag"
+                },
+                {
+                    "game_day_number": 12,
+                    "title": "12. Spieltag"
+                },
+                {
+                    "game_day_number": 13,
+                    "title": "13. Spieltag"
+                },
+                {
+                    "game_day_number": 14,
+                    "title": "14. Spieltag"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": true,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 767,
+            "game_operation_id": 1,
+            "game_operation_name": "Floorball Deutschland",
+            "game_operation_short_name": "FVD",
+            "game_operation_slug": "fvd",
+            "league_category_id": "100",
+            "league_class_id": "10",
+            "league_system_id": "1",
+            "league_type": "champ",
+            "name": "U17 Juniorinnen Kleinfeld Deutsche Meisterschaft",
+            "female": true,
+            "enable_scorer": true,
+            "short_name": "DM (U17 Juniorinnen KF)",
+            "season_id": "10",
+            "order_key": "71",
+            "game_day_numbers": [
+                1,
+                2
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": false,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 771,
+            "game_operation_id": 1,
+            "game_operation_name": "Floorball Deutschland",
+            "game_operation_short_name": "FVD",
+            "game_operation_slug": "fvd",
+            "league_category_id": "102",
+            "league_class_id": "10",
+            "league_system_id": "1",
+            "league_type": "champ",
+            "name": "U17 Junioren Qualifikation Nord/West",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "U17 Quali N/W",
+            "season_id": "10",
+            "order_key": "72",
+            "game_day_numbers": [
+                1,
+                2
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": false,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 772,
+            "game_operation_id": 1,
+            "game_operation_name": "Floorball Deutschland",
+            "game_operation_short_name": "FVD",
+            "game_operation_slug": "fvd",
+            "league_category_id": "102",
+            "league_class_id": "10",
+            "league_system_id": "1",
+            "league_type": "champ",
+            "name": "U17 Junioren Qualifikation Süd/Ost",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "U17 Quali S/O",
+            "season_id": "10",
+            "order_key": "73",
+            "game_day_numbers": [
+                1,
+                2
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": false,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 776,
+            "game_operation_id": 1,
+            "game_operation_name": "Floorball Deutschland",
+            "game_operation_short_name": "FVD",
+            "game_operation_slug": "fvd",
+            "league_category_id": "102",
+            "league_class_id": "10",
+            "league_system_id": "1",
+            "league_type": "champ",
+            "name": "U17 Junioren Deutsche Meisterschaft",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "DM (U17 Junioren)",
+            "season_id": "10",
+            "order_key": "74",
+            "game_day_numbers": [
+                1,
+                2
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": false,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 774,
+            "game_operation_id": 1,
+            "game_operation_name": "Floorball Deutschland",
+            "game_operation_short_name": "FVD",
+            "game_operation_slug": "fvd",
+            "league_category_id": "100",
+            "league_class_id": "10",
+            "league_system_id": "1",
+            "league_type": "champ",
+            "name": "U13 Junioren Kleinfeld Deutsche Meisterschaft",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "DM (U13 Junioren KF)",
+            "season_id": "10",
+            "order_key": "75",
+            "game_day_numbers": [
+                1,
+                2
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": false,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 773,
+            "game_operation_id": 1,
+            "game_operation_name": "Floorball Deutschland",
+            "game_operation_short_name": "FVD",
+            "game_operation_slug": "fvd",
+            "league_category_id": "100",
+            "league_class_id": "10",
+            "league_system_id": "1",
+            "league_type": "champ",
+            "name": "U17 Junioren Kleinfeld Deutsche Meisterschaft",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "DM (U17 Junioren KF)",
+            "season_id": "10",
+            "order_key": "76",
+            "game_day_numbers": [
+                1,
+                2
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": false,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 775,
+            "game_operation_id": 1,
+            "game_operation_name": "Floorball Deutschland",
+            "game_operation_short_name": "FVD",
+            "game_operation_slug": "fvd",
+            "league_category_id": "101",
+            "league_class_id": "10",
+            "league_system_id": "1",
+            "league_type": "champ",
+            "name": "U15 Juniorinnen Kleinfeld Deutsche Meisterschaft",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "DM (U15 Juniorinnen KF)",
+            "season_id": "10",
+            "order_key": "77",
+            "game_day_numbers": [
+                1,
+                2
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": false,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 777,
+            "game_operation_id": 1,
+            "game_operation_name": "Floorball Deutschland",
+            "game_operation_short_name": "FVD",
+            "game_operation_slug": "fvd",
+            "league_category_id": "100",
+            "league_class_id": "10",
+            "league_system_id": "1",
+            "league_type": "champ",
+            "name": "U15 Junioren Kleinfeld Deutsche Meisterschaft",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "DM (U15 Junioren KF)",
+            "season_id": "10",
+            "order_key": "78",
+            "game_day_numbers": [
+                1,
+                2
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": false,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 778,
+            "game_operation_id": 1,
+            "game_operation_name": "Floorball Deutschland",
+            "game_operation_short_name": "FVD",
+            "game_operation_slug": "fvd",
+            "league_category_id": "100",
+            "league_class_id": "10",
+            "league_system_id": "1",
+            "league_type": "champ",
+            "name": "Herren Kleinfeld Deutsche Meisterschaft",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "DM (Herren KF)",
+            "season_id": "10",
+            "order_key": "79",
+            "game_day_numbers": [
+                1,
+                2
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": false,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 612,
+            "game_operation_id": 3,
+            "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+            "game_operation_short_name": "FVBB",
+            "game_operation_slug": "fvbb",
+            "league_category_id": "1",
+            "league_class_id": "10",
+            "league_system_id": "1",
+            "league_type": "league",
+            "name": "",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "",
+            "season_id": "10",
+            "order_key": "6",
+            "game_day_numbers": [],
+            "game_day_titles": [],
+            "deadline": "",
+            "before_deadline": true,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        }
+    ]
+}
