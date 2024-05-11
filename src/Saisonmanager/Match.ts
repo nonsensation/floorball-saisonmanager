@@ -14,7 +14,7 @@ export interface MatchResult extends Game
 export interface MatchReport extends Game
 {
     events: Event[]
-    players: Players[]
+    players: Players
     period_titles?: PeriodTitle[]
     audience: number
     game_status: GameState
