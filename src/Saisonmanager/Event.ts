@@ -49,6 +49,7 @@ export enum GoalType
 {
     Regular = 'regular',
     Owngoal = 'owngoal',
+    PenaltyShot = 'penalty_shot',
 }
 
 export enum PenaltyReason
