@@ -10,26 +10,23 @@ export interface Event
     guest_goals: number
     time: string
     sortkey: string
-}
 
-export interface PlayerEvent extends Event
-{
-    number: number // 1000 == GoalType.Owngoal
-}
+    // Playerevent
+    // event_type == EventType.Goal
+    // event_type == EventType.Penalty
+    number?: number // 1000 == GoalType.Owngoal
 
-export interface GoalEvent extends PlayerEvent
-{
-    assist: number
-    goal_type: GoalType
-    goal_type_string: string
-}
+    // GoalEvent (event_type == EventType.Goal)
+    assist?: number
+    goal_type?: GoalType
+    goal_type_string?: string
 
-export interface PenaltyEvent extends PlayerEvent
-{
-    penalty_type: PenaltyType
-    penalty_type_string: string
-    penalty_reason: number // PenaltyReason
-    penalty_reason_string: string
+    // PenaltyEvent
+    // event_type == EventType.Penalty
+    penalty_type?: PenaltyType
+    penalty_type_string?: string
+    penalty_reason?: number // PenaltyReason
+    penalty_reason_string?: string
 }
 
 export enum EventType
