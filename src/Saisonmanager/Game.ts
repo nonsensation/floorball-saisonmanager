@@ -1,3 +1,4 @@
+import type { Event } from "./Event"
 
 export interface Game
 {
