@@ -138,6 +138,7 @@ export enum GameState
     Ingame = 'ingame',
     Ended = 'ended',
     NoRecord = 'no_record',
+    AfterGame = 'aftergame',
 }
 
 export enum IngameState
