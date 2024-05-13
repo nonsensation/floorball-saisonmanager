@@ -27,7 +27,7 @@ export interface Game
     guest_team_logo: string
     guest_team_small_logo: string
 
-    nominated_referee_string: string // "M. Mustermann / J. Doe"
+    nominated_referees: string // "M. Mustermann / J. Doe"
     referees: Referee[]
 
     notice_type: string
@@ -105,8 +105,8 @@ export interface Result
 
 export interface ResultPostfix
 {
-    short: string // "" ?
-    long: string // "" ?
+    short: string // "n.V."
+    long: string // "nach Verlängerung"
 }
 
 export interface Referee
@@ -139,6 +139,7 @@ export enum GameState
     Ended = 'ended',
     NoRecord = 'no_record',
     AfterGame = 'aftergame',
+    MatchRecordClosed = 'match_record_closed',
 }
 
 export enum IngameState
