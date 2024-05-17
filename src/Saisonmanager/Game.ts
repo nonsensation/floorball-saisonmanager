@@ -169,6 +169,90 @@ export interface PeriodTitle
 export type PeriodNumber = 1 | 1.5 | 2 | 2.5 | 3 | 3.5 | 4 | 4.5 | 5
 
 
+export const PeriodTitles: SM.PeriodTitle[] = [
+    {
+        period: 1,
+        short_title: "1",
+        title: "1. Drittel",
+        status_id: SM.IngameState.Period1,
+        can_end_game: false,
+        optional: false,
+        running: true,
+    },
+    {
+        period: 1.5,
+        short_title: "P1",
+        title: "1. Drittelpause",
+        status_id: SM.IngameState.Pause1,
+        can_end_game: false,
+        optional: false,
+        running: false,
+    },
+    {
+        period: 2,
+        short_title: "2",
+        title: "2. Drittel",
+        status_id: SM.IngameState.Period2,
+        can_end_game: false,
+        optional: false,
+        running: true,
+    },
+    {
+        period: 2.5,
+        short_title: "P2",
+        title: "2. Drittelpause",
+        status_id: SM.IngameState.Pause2,
+        can_end_game: false,
+        optional: false,
+        running: false,
+    },
 
+    {
+        period: 3,
+        short_title: "3",
+        title: "3. Drittel",
+        status_id: SM.IngameState.Period3,
+        can_end_game: true,
+        optional: false,
+        running: true,
+    },
+    {
+        period: 3.5,
+        short_title: "PV",
+        title: "Pause vor Verlängerung",
+        status_id: SM.IngameState.PauseET,
+        can_end_game: false,
+        optional: true,
+        running: false,
+    },
+
+    {
+        period: 4,
+        short_title: "V",
+        title: "Verlängerung",
+        status_id: SM.IngameState.Extratime,
+        can_end_game: true,
+        optional: true,
+        running: true,
+    },
+    {
+        period: 4.5,
+        short_title: "PP",
+        title: "Pause vor Penalty-Schießen",
+        status_id: SM.IngameState.PausePS,
+        can_end_game: false,
+        optional: true,
+        running: false,
+    },
+    {
+        period: 5,
+        short_title: "P",
+        title: "Penalty-Schießen",
+        status_id: SM.IngameState.PenaltyShots,
+        can_end_game: true,
+        optional: true,
+        running: true,
+    },
+]
 
 
