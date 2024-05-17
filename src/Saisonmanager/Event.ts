@@ -49,6 +49,12 @@ export enum GoalType
     PenaltyShot = 'penalty_shot',
 }
 
+export enum TeamSide
+{
+    Home = 'home',
+    Guest = 'guest',
+}
+
 export enum PenaltyReason
 {
     // 907 Stoßen
