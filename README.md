@@ -61,3 +61,4 @@ const urlLogoHome = SM.UrlBuilder.getLogoUrl( game[0].home_team_small_logo );
 You can use staic cahed JSON files, that mirror the API from [floorball-saisonmanager-data](https://github.com/nonsensation/floorball-saisonmanager-data)
 
 Clone/Copy the data over in your public/static folder.
+
