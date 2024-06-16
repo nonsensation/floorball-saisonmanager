@@ -1,4 +1,4 @@
-
-import * as SM from './Saisonmanager/index'
+import * as SM from "./Saisonmanager/ApiV2"
 
 export { SM }
+

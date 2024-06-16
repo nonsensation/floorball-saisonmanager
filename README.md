@@ -62,3 +62,39 @@ You can use staic cahed JSON files, that mirror the API from [floorball-saisonma
 
 Clone/Copy the data over in your public/static folder.
 
+## Structure (public)
+
+```
+├── init.json
+├── leagues.json
+├── games.json
+├── games
+│   └── ID.json
+├── game_operations
+│   └── ID
+│       └── leagues
+│           └── ID.json
+├── leagues
+│   ├── ID.json
+│   └── ID
+│       ├── schedule.json
+│       ├── game_days
+│       │   ├── ID
+│       │   │   └── schedule.json
+│       │   └── current
+│       │       └── schedule.json
+│       ├── table.json
+│       ├── grouped_table.json
+│       └── scorer.json
+├── admin
+│   └── leagues
+│       └── ID
+│           └── additional_references.json
+└── user
+    └── leagues
+        ├── penalties.json
+        └── penalty_codes.json
+```
+
+Other routes require auth or login.  
+`ID` is the identifier (integer) of the coresponding item, like league-ID, game-ID etc.
