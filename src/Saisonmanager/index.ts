@@ -1,2 +1,2 @@
-export * from "./ApiV2"
+export { ApiV2 as SM } from "./ApiV2"
 

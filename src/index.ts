@@ -1,3 +1,3 @@
-import * as SM from "./Saisonmanager"
+import { SM } from "./Saisonmanager"
 
 export { SM }

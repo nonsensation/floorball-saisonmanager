@@ -230,24 +230,24 @@ export namespace ApiV2
 
         export enum GameState
         {
-            Ingame = "ingame",
-            Ended = "ended",
-            NoRecord = "no_record",
-            AfterGame = "aftergame",
-            MatchRecordClosed = "match_record_closed",
+            Ingame = 'ingame',
+            Ended = 'ended',
+            NoRecord = 'no_record',
+            AfterGame = 'aftergame',
+            MatchRecordClosed = 'match_record_closed',
         }
 
         export enum IngameState
         {
-            Period1 = "period1",
-            Pause1 = "pause1",
-            Period2 = "period2",
-            Pause2 = "pause2",
-            Period3 = "period3",
-            PauseET = "pause_et",
-            Extratime = "extratime",
-            PausePS = "pause_ps",
-            PenaltyShots = "penalty_shots",
+            Period1 = 'period1',
+            Pause1 = 'pause1',
+            Period2 = 'period2',
+            Pause2 = 'pause2',
+            Period3 = 'period3',
+            PauseET = 'pause_et',
+            Extratime = 'extratime',
+            PausePS = 'pause_ps',
+            PenaltyShots = 'penalty_shots',
         }
 
         export type PeriodNumber = 1 | 1.5 | 2 | 2.5 | 3 | 3.5 | 4 | 4.5 | 5
@@ -322,12 +322,28 @@ export namespace ApiV2
 
         export interface StartingPlayer extends BasePlayer
         {
-            position: string | null
+            position: StartingFieldPosition | null
+        }
+
+        export enum StartingFieldPosition
+        {
+            Goal = 'goal',
+            Field = 'goal',
+            Defender1 = 'defender1',
+            Defender2 = 'defender2',
+            Center = 'center',
+            Forward1 = 'forward1',
+            Forward2 = 'forward2',
+        }
+
+        export enum GameAward
+        {
+            Mvp = 'mvp',
         }
 
         export interface AwardPlayer extends BasePlayer
         {
-            award: string | null
+            award: GameAward | null
         }
 
         export interface Event
@@ -352,22 +368,22 @@ export namespace ApiV2
 
         export enum EventType
         {
-            Goal = "goal",
-            Timeout = "timeout",
-            Penalty = "penalty", // Strafe
+            Goal = 'goal',
+            Timeout = 'timeout',
+            Penalty = 'penalty', // Strafe
         }
 
         export enum EventTeam
         {
-            Home = "home",
-            Guest = "guest",
+            Home = 'home',
+            Guest = 'guest',
         }
 
         export enum GoalType
         {
-            Regular = "regular",
-            Owngoal = "owngoal",
-            PenaltyShot = "penalty_shot",
+            Regular = 'regular',
+            Owngoal = 'owngoal',
+            PenaltyShot = 'penalty_shot',
         }
 
         export enum PenaltyReason { }
@@ -375,15 +391,15 @@ export namespace ApiV2
 
         export enum PenaltyType
         {
-            Penalty_2 = "penalty_2",
-            Penalty_2and2 = "penalty_2and2",
-            Penalty_5 = "penalty_5",
-            Penalty_10 = "penalty_10",
-            Penalty_ms_tech = "penalty_ms_tech",
-            Penalty_ms_full = "penalty_ms_full",
-            Penalty_ms1 = "penalty_ms1",
-            Penalty_ms2 = "penalty_ms2",
-            Penalty_ms3 = "penalty_ms3",
+            Penalty_2 = 'penalty_2',
+            Penalty_2and2 = 'penalty_2and2',
+            Penalty_5 = 'penalty_5',
+            Penalty_10 = 'penalty_10',
+            Penalty_ms_tech = 'penalty_ms_tech',
+            Penalty_ms_full = 'penalty_ms_full',
+            Penalty_ms1 = 'penalty_ms1',
+            Penalty_ms2 = 'penalty_ms2',
+            Penalty_ms3 = 'penalty_ms3',
         }
     }
 
@@ -506,6 +522,19 @@ export namespace ApiV2
             point_corrections: PointCorrection | null
             sort: number | null
             position: number | null
+        }
+
+        // https://saisonmanager.de/api/v2/leagues/1564/grouped_table.json -> Leagues.GroupedTable
+        export interface GroupedTable
+        {
+            groups: { [ key: string ]: Group }
+        }
+
+        export interface Group
+        {
+            group_identifier: string | null
+            team_name: string | null
+            table: Team[] | null
         }
 
         export interface PointCorrection
