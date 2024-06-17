@@ -25,10 +25,9 @@ In _packacke.json_ the entry should appear:
 
 ```
 {
-    "dependencies":
-    {
-        "floorball-saisonmanager": "github:nonsensation/floorball-saisonmanager#v0.1.0"
-    }
+  "dependencies": {
+    "floorball-saisonmanager": "github:nonsensation/floorball-saisonmanager#v0.1.0"
+  }
 }
 ```
 
