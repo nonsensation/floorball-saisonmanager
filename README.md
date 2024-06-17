@@ -93,7 +93,8 @@ https://saisonmanager.de/api/v2/
 |Endpoint|Type|
 |--------|----|
 | [`init.json`](https://saisonmanager.de/api/v2/init.json) | `Init` |
-| [`leagues.json`](https://saisonmanager.de/api/v2/leagues.json) | `League[]` |
+| [`leagues.json`](https://saisonmanager.de/api/v2/leagues.json) | `LeaguePreview[]` |
+| [`games.json`](https://saisonmanager.de/api/v2/games.json) | `GamePreview[]` |
 | [`user/leagues/penalties.json`](https://saisonmanager.de/api/v2/user/leagues/penalties.json) | `Penalty[]` |
 | [`user/leagues/penalty_codes.json`](https://saisonmanager.de/api/v2/user/leagues/penalty_codes.json) | `PenaltyCode[]` |
 | [`game_operations/1/leagues.json`](https://saisonmanager.de/api/v2/game_operations/1/leagues.json) | `League[]` |

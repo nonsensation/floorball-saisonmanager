@@ -3,6 +3,7 @@ PUBLIC ENDPOINTS (as of June 2024)
 
 https://saisonmanager.de/api/v2/init.json -> ApiV2.Init
 https://saisonmanager.de/api/v2/leagues.json -> ApiV2.League[]
+https://saisonmanager.de/api/v2/games.json -> ApiV2.GamePreview[]
 https://saisonmanager.de/api/v2/user/leagues/penalties.json -> ApiV2.Penalty[]
 https://saisonmanager.de/api/v2/user/leagues/penalty_codes.json -> ApiV2.PenaltyCode[]
 https://saisonmanager.de/api/v2/game_operations/1/leagues.json -> ApiV2.League[]
@@ -88,6 +89,15 @@ export namespace ApiV2
         order_key: string | null
         link: string | null
         link_schedule: string | null
+    }
+
+    // https://saisonmanager.de/api/v2/games.json -> ApiV2.GamePreview[]
+    export interface GamePreview
+    {
+        id: number | null
+        game_number: string | null
+        start_time: string | null
+        audience: number | null
     }
 
     // https://saisonmanager.de/api/v2/user/leagues/penalties.json -> ApiV2.Penalty[]
