@@ -10,7 +10,7 @@ https://saisonmanager.de/api/v2/admin/leagues/1396/additional_references.json ->
 https://saisonmanager.de/api/v2/games/35497.json -> ApiV2.Game
 https://saisonmanager.de/api/v2/leagues/1375/game_days/current/schedule.json -> ApiV2.GameDay[]
 https://saisonmanager.de/api/v2/leagues/1375/game_days/1/schedule.json -> ApiV2.GameDay[]
-https://saisonmanager.de/api/v2/leagues/1564/grouped_table.json -> ApiV2.Team[]
+https://saisonmanager.de/api/v2/leagues/1375/table.json -> ApiV2.Team[]
 https://saisonmanager.de/api/v2/leagues/1396.json -> ApiV2.LeagueWithSimilarLeagues
 https://saisonmanager.de/api/v2/leagues/1396/schedule.json -> ApiV2.ScheduledGame[]
 https://saisonmanager.de/api/v2/leagues/1396/scorer.json -> ApiV2.Scorer[]
@@ -443,7 +443,7 @@ export namespace ApiV2
     // https://saisonmanager.de/api/v2/leagues/1375/game_days/1/schedule.json -> ApiV2.GameDay[]
     export interface GameDay extends Game { }
 
-    // https://saisonmanager.de/api/v2/leagues/1564/grouped_table.json -> ApiV2.Team[]
+    // https://saisonmanager.de/api/v2/leagues/1375/table.json -> ApiV2.Team[]
     export interface Team
     {
         games: number | null
