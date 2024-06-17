@@ -55,35 +55,37 @@ const leagues : SM.League[] = await leaguesResponse.json()
 ## Structure (public)
 
 ```
-├── init.json
-├── leagues.json
-├── games.json
-├── games
-│   └── ID.json
-├── game_operations
-│   └── ID
-│       └── leagues
-│           └── ID.json
-├── leagues
-│   ├── ID.json
-│   └── ID
-│       ├── schedule.json
-│       ├── game_days
-│       │   ├── ID
-│       │   │   └── schedule.json
-│       │   └── current
-│       │       └── schedule.json
-│       ├── table.json
-│       ├── grouped_table.json
-│       └── scorer.json
-├── admin
-│   └── leagues
-│       └── ID
-│           └── additional_references.json
-└── user
-    └── leagues
-        ├── penalties.json
-        └── penalty_codes.json
+https://saisonmanager.de/api/v2/
+   📁
+    ├──📄 init.json
+    ├──📄 leagues.json
+    ├──📄 games.json
+    ├──📁 games/
+    │   └──📄 {Game-ID}.json
+    ├──📁 game_operations/
+    │   └──📁 {GameOperation-ID}/
+    │       └──📁 leagues/
+    │           └──📄 {League-ID}.json
+    ├──📁 leagues/
+    │   ├──📄 {League-ID}.json
+    │   └──📁 {League-ID}/
+    │       ├──📁 game_days/
+    │       │   ├──📁 {GameDay-ID}/
+    │       │   │   └──📄 schedule.json
+    │       │   └──📁 current/
+    │       │       └──📄 schedule.json
+    │       ├──📄 schedule.json
+    │       ├──📄 table.json
+    │       ├──📄 grouped_table.json
+    │       └──📄 scorer.json
+    ├──📁 admin/
+    │   └──📁 leagues/
+    │       └──📁 {League-ID}/
+    │           └──📄 additional_references.json
+    └──📁 user/
+        └──📁 leagues/
+            ├──📄 penalties.json
+            └──📄 penalty_codes.json
 ```
 
 ## Endpoints
