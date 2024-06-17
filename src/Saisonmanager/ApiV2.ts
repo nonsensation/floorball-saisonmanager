@@ -25,8 +25,8 @@ https://saisonmanager.de/api/v2/
     ├── games/
     │   └── {Game-ID}.json
     ├── game_operations/
-    │   └── {GameOperation-ID}
-    │       └── leagues
+    │   └── {GameOperation-ID}/
+    │       └── leagues/
     │           └── {League-ID}.json
     ├── leagues/
     │   ├── {League-ID}.json
@@ -220,7 +220,7 @@ export namespace ApiV2
     }
 
     // (used also in /leagues/{leagueId}/schedule.json)
-    interface _BaseGame
+    interface BaseGame
     {
         // only exported to access in other namespaces in this file..
         arena: number | null
@@ -245,7 +245,7 @@ export namespace ApiV2
     }
 
     // https://saisonmanager.de/api/v2/games/35497.json -> ApiV2.Game
-    export interface Game extends _BaseGame
+    export interface Game extends BaseGame
     {
         id: number | null
         game_day: GameDay | null
@@ -496,7 +496,7 @@ export namespace ApiV2
     }
 
     // https://saisonmanager.de/api/v2/leagues/1396/schedule.json -> ApiV2.ScheduledGame[]
-    export interface ScheduledGame extends _BaseGame
+    export interface ScheduledGame extends BaseGame
     {
         time: string | null
         hosting_club: string | null
