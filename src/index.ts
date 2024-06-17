@@ -1,3 +1,3 @@
-import { ApiV2 as SM } from "./Saisonmanager"
+import { ApiV2 as Saisonmanager } from "./Saisonmanager"
 
-export { SM }
+export { Saisonmanager }
