@@ -99,7 +99,7 @@ const leagues : SM.League[] = await leaguesResponse.json()
 | [`games/35497.json`](https://saisonmanager.de/api/v2/games/35497.json) | `Game` |
 | [`leagues/1375/game_days/current/schedule.json`](https://saisonmanager.de/api/v2/leagues/1375/game_days/current/schedule.json) | `GameDay[]` |
 | [`leagues/1375/game_days/1/schedule.json`](https://saisonmanager.de/api/v2/leagues/1375/game_days/1/schedule.json) | `GameDay[]` |
-| [`leagues/1564/grouped_table.json`](https://saisonmanager.de/api/v2/leagues/1564/grouped_table.json) | `Team[]` |
+| [`leagues/1564/table.json`](https://saisonmanager.de/api/v2/leagues/1396/table.json) | `Team[]` |
 | [`leagues/1396.json`](https://saisonmanager.de/api/v2/leagues/1396.json) | `LeagueWithSimilarLeagues` |
 | [`leagues/1396/schedule.json`](https://saisonmanager.de/api/v2/leagues/1396/schedule.json) | `ScheduledGame[]` |
 | [`leagues/1396/scorer.json`](https://saisonmanager.de/api/v2/leagues/1396/scorer.json) | `Scorer[]` |
