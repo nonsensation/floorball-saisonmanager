@@ -31,36 +31,22 @@ In _packacke.json_ the entry should appear:
 }
 ```
 
+## Uninstall
+
+```
+pnpm remove floorball-saisonmanager
+```
+
 ## Usage
 
 Similar to this, kind of pseudocode for now:
 
 ```ts
-import { SM } from 'floorball-saisonmanager'
+import { Saisonmanager as SM } from 'floorball-saisonmanager'
 
-const leagueId = 1234
-
-const leagueUrl = SM.UrlBuilder.getLeagueUrl( leagueId )
-const leagueResponse = await fetch( leagueUrl )
-const league: SM.League = await leagueResponse.json()
-
-const gamesUrl = SM.UrlBuilder.getMatchSheduleUrl( leagueId )
-const gamesResponse = await fetch( gamesUrl )
-const games: SM.Game[] = await gamesResponse.json()
-
-const urlLogoHome = SM.UrlBuilder.getLogoUrl( game[0].home_team_small_logo );
-
-...
-
-<img src={urlLogoHome} />
+const leaguesResponse = await fetch( "https://saisonmanager.de/api/v2/leagues.json" )
+const leagues : SM.League[] = await leaguesResponse.json()
 ```
-
-
-## Static Cache
-
-You can use staic cahed JSON files, that mirror the API from [floorball-saisonmanager-data](https://github.com/nonsensation/floorball-saisonmanager-data)
-
-Clone/Copy the data over in your public/static folder.
 
 ## Structure (public)
 
@@ -96,5 +82,44 @@ Clone/Copy the data over in your public/static folder.
         └── penalty_codes.json
 ```
 
+## Endpoints
+
+|Endpoint|Type|Example|
+------------------------------
+`init.json` | ``ApiV2.Init` | https://saisonmanager.de/api/v2/init.json
+`leagues.json` | ``ApiV2.League[]` | https://saisonmanager.de/api/v2/leagues.json
+`user/leagues/penalties.json` | ``ApiV2.Penalty[]` | https://saisonmanager.de/api/v2/user/leagues/penalties.json
+`user/leagues/penalty_codes.json` | ``ApiV2.PenaltyCode[]` | https://saisonmanager.de/api/v2/user/leagues/penalty_codes.json
+`game_operations/1/leagues.json` | ``ApiV2.League[]` | https://saisonmanager.de/api/v2/game_operations/1/leagues.json
+`admin/leagues/1396/additional_references.json` | ``ApiV2.AdditionalReference` | https://saisonmanager.de/api/v2/admin/leagues/1396/additional_references.json
+`games/35497.json` | ``ApiV2.Game` | https://saisonmanager.de/api/v2/games/35497.json
+`leagues/1375/game_days/current/schedule.json` | ``ApiV2.GameDay[]` | https://saisonmanager.de/api/v2/leagues/1375/game_days/current/schedule.json
+`leagues/1375/game_days/1/schedule.json` | ``ApiV2.GameDay[]` | https://saisonmanager.de/api/v2/leagues/1375/game_days/1/schedule.json
+`leagues/1564/grouped_table.json` | ``ApiV2.Team[]` | https://saisonmanager.de/api/v2/leagues/1564/grouped_table.json
+`leagues/1396.json` | ``ApiV2.LeagueWithSimilarLeagues` | https://saisonmanager.de/api/v2/leagues/1396.json
+`leagues/1396/schedule.json` | ``ApiV2.ScheduledGame[]` | https://saisonmanager.de/api/v2/leagues/1396/schedule.json
+`leagues/1396/scorer.json` | ``ApiV2.Scorer[]` | https://saisonmanager.de/api/v2/leagues/1396/scorer.json
+`leagues/1564/grouped_table.json` | ``ApiV2.GroupedTable` | https://saisonmanager.de/api/v2/leagues/1564/grouped_table.json
+
+
 Other routes require auth or login.  
 `ID` is the identifier (integer) of the coresponding item, like league-ID, game-ID etc.
+
+## Static Cache
+
+To not flood the original Saisonmanager with too many calls,
+you can use static cached JSON files,
+that mirror the API from [floorball-saisonmanager-data](https://github.com/nonsensation/floorball-saisonmanager-data).
+
+Especially for legacy leagues with static, never changing data this might be useful.
+
+[floorball-saisonmanager-data](https://github.com/nonsensation/floorball-saisonmanager-data) is only to some dregree filled with the latest data, as it need to fetch it from saisonmanager on intervals itself.
+
+Clone/Copy the data over in your public/static folder.
+
+
+## TODO
+
+- live updates, also on static cache
+- docs
+- login?
