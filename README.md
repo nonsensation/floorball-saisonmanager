@@ -25,11 +25,16 @@ In _packacke.json_ the entry should appear:
 
 ```
 {
-	"dependencies": {
-		"floorball-saisonmanager": "github:nonsensation/floorball-saisonmanager#v0.1.0"
-	}
+    "dependencies":
+    {
+        "floorball-saisonmanager": "github:nonsensation/floorball-saisonmanager#v0.1.0"
+    }
 }
 ```
+
+You can always omit the version part to get the latest release.
+
+But this might change quite regulary, as I learn TS and SM seems to change fields every now and then, especially in the summer break.
 
 ## Uninstall
 
