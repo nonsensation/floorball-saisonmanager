@@ -84,22 +84,22 @@ const leagues : SM.League[] = await leaguesResponse.json()
 
 ## Endpoints
 
-|Endpoint|Type|Example|
-|--------|----|--------|
-|`init.json` | `ApiV2.Init` | https://saisonmanager.de/api/v2/init.json |
-|`leagues.json` | `ApiV2.League[]` | https://saisonmanager.de/api/v2/leagues.json |
-|`user/leagues/penalties.json` | `ApiV2.Penalty[]` | https://saisonmanager.de/api/v2/user/leagues/penalties.json |
-|`user/leagues/penalty_codes.json` | `ApiV2.PenaltyCode[]` | https://saisonmanager.de/api/v2/user/leagues/penalty_codes.json |
-|`game_operations/1/leagues.json` | `ApiV2.League[]` | https://saisonmanager.de/api/v2/game_operations/1/leagues.json |
-|`admin/leagues/1396/additional_references.json` | `ApiV2.AdditionalReference` | https://saisonmanager.de/api/v2/admin/leagues/1396/additional_references.json |
-|`games/35497.json` | `ApiV2.Game` | https://saisonmanager.de/api/v2/games/35497.json |
-|`leagues/1375/game_days/current/schedule.json` | `ApiV2.GameDay[]` | https://saisonmanager.de/api/v2/leagues/1375/game_days/current/schedule.json |
-|`leagues/1375/game_days/1/schedule.json` | `ApiV2.GameDay[]` | https://saisonmanager.de/api/v2/leagues/1375/game_days/1/schedule.json |
-|`leagues/1564/grouped_table.json` | `ApiV2.Team[]` | https://saisonmanager.de/api/v2/leagues/1564/grouped_table.json |
-|`leagues/1396.json` | `ApiV2.LeagueWithSimilarLeagues` | https://saisonmanager.de/api/v2/leagues/1396.json |
-|`leagues/1396/schedule.json` | `ApiV2.ScheduledGame[]` | https://saisonmanager.de/api/v2/leagues/1396/schedule.json |
-|`leagues/1396/scorer.json` | `ApiV2.Scorer[]` | https://saisonmanager.de/api/v2/leagues/1396/scorer.json |
-|`leagues/1564/grouped_table.json` | `ApiV2.GroupedTable` | https://saisonmanager.de/api/v2/leagues/1564/grouped_table.json |
+|Endpoint|Type|
+|--------|----|
+| [`init.json`](https://saisonmanager.de/api/v2/init.json) | `Init` |
+| [`leagues.json`](https://saisonmanager.de/api/v2/leagues.json) | `League[]` |
+| [`user/leagues/penalties.json`](https://saisonmanager.de/api/v2/user/leagues/penalties.json) | `Penalty[]` |
+| [`user/leagues/penalty_codes.json`](https://saisonmanager.de/api/v2/user/leagues/penalty_codes.json) | `PenaltyCode[]` |
+| [`game_operations/1/leagues.json`](https://saisonmanager.de/api/v2/game_operations/1/leagues.json) | `League[]` |
+| [`admin/leagues/1396/additional_references.json`](https://saisonmanager.de/api/v2/admin/leagues/1396/additional_references.json) | `AdditionalReference` |
+| [`games/35497.json`](https://saisonmanager.de/api/v2/games/35497.json) | `Game` |
+| [`leagues/1375/game_days/current/schedule.json`](https://saisonmanager.de/api/v2/leagues/1375/game_days/current/schedule.json) | `GameDay[]` |
+| [`leagues/1375/game_days/1/schedule.json`](https://saisonmanager.de/api/v2/leagues/1375/game_days/1/schedule.json) | `GameDay[]` |
+| [`leagues/1564/grouped_table.json`](https://saisonmanager.de/api/v2/leagues/1564/grouped_table.json) | `Team[]` |
+| [`leagues/1396.json`](https://saisonmanager.de/api/v2/leagues/1396.json) | `LeagueWithSimilarLeagues` |
+| [`leagues/1396/schedule.json`](https://saisonmanager.de/api/v2/leagues/1396/schedule.json) | `ScheduledGame[]` |
+| [`leagues/1396/scorer.json`](https://saisonmanager.de/api/v2/leagues/1396/scorer.json) | `Scorer[]` |
+| [`leagues/1564/grouped_table.json`](https://saisonmanager.de/api/v2/leagues/1564/grouped_table.json) | `GroupedTable` |
 
 
 Other routes require auth or login.  
