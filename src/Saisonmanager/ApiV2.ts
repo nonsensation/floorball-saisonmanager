@@ -51,7 +51,7 @@ https://saisonmanager.de/api/v2/
 */
 
 // https://saisonmanager.de/api/v2/init.json -> ApiV2.Init
-export interface Init
+export type Init =
 {
     seasons: Season[] | null
     current_season_id: number | null
