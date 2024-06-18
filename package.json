@@ -9,6 +9,10 @@
         "build": "tsc --build",
         "prepare": "npm run build"
     },
+    "files": [
+        "lib/**/*", 
+        "!node_modules" 
+      ],
     "keywords": [
         "floorball",
         "saisonmanager",
