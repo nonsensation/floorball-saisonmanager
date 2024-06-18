@@ -1,2 +1,2 @@
-import * as ApiV2  from "./Saisonmanager/ApiV2";
-export { ApiV2 as Saisonmanager };
+import * as Saisonmanager  from "./Saisonmanager/ApiV2";
+export { Saisonmanager };
