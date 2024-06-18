@@ -198,7 +198,7 @@ export interface League
     league_category_id: string | null
     league_class_id: string | null
     league_system_id: string | null
-    league_type: string | null
+    league_type: LeagueType | null
     name: string | null
     female: boolean | null
     enable_scorer: boolean | null
@@ -207,16 +207,34 @@ export interface League
     order_key: string | null
     game_day_numbers: number[] | null
     game_day_titles: GameDay[] | null
-    deadline: any | null
-    before_deadline: any | null
+    deadline: string | null // "2008-08-31"
+    before_deadline: boolean | null
     legacy_league: boolean | null
-    field_size: string | null
-    league_modus: string | null
+    field_size: FieldSize | null
+    league_modus: LeagueType | null
     has_preround: boolean | null
-    table_modus: string | null
+    table_modus: TableMode | null
     periods: number | null
     period_length: number | null
     overtime_length: number | null
+}
+
+export enum LeagueType
+{
+    League = "league",
+    Cup = "cup",
+    Champ = "champ",
+}
+
+export enum FieldSize
+{
+    GF = "GF",
+    KF = "KF",
+}
+
+export enum TableMode
+{
+    Classic = "classic",
 }
 
 export interface GameDay
@@ -262,7 +280,7 @@ export interface Club
     logo_url: string | null
     logo_small_url: string | null
     game_operation_id: number | null
-    additional_game_operation_ids: ( number | null )[]
+    additional_game_operation_ids: number[] | null
 }
 
 export interface Team
@@ -270,9 +288,9 @@ export interface Team
     id: number | null
     name: string | null
     short_name: string | null
-    logo: any | null
+    logo: string | null
     league_id: number | null
-    cup_leagues: ( number | null )[]
+    cup_leagues: number[] | null
     club_id: number | null
     league_name: string | null
     league_short_name: string | null
@@ -281,7 +299,7 @@ export interface Team
     game_operation_short_name: string | null
     game_operation_slug: string | null
     syndicate: boolean | null
-    syndicate_clubs: ( number | null )[]
+    syndicate_clubs: number[] | null
     logo_url: string | null
     logo_small: string | null
 }
@@ -394,8 +412,8 @@ export interface Result
 {
     home_goals: number | null
     guest_goals: number | null
-    home_goals_period: ( number | null )[] | null
-    guest_goals_period: ( number | null )[] | null
+    home_goals_period: number[] | null
+    guest_goals_period: number[] | null
     postfix: Postfix | null
     forfait: boolean | null
     overtime: boolean | null
@@ -442,7 +460,7 @@ export interface StartingPlayer extends BasePlayer
 export enum StartingFieldPosition
 {
     Goal = "goal",
-    Field = "goal",
+    Field = "field",
     Defender1 = "defender1",
     Defender2 = "defender2",
     Center = "center",
@@ -571,17 +589,31 @@ export interface ScheduledGame extends BaseGame
     game_number: number | null
     game_day: number | null
     game_day_id: number | null
-    group_identifier: any | null
-    series_title: any | null
-    series_number: any | null
-    home_team_filling_rule: any | null
-    home_team_filling_title: any | null
-    home_team_filling_parameter: any | null
-    guest_team_filling_rule: any | null
-    guest_team_filling_title: any | null
-    guest_team_filling_parameter: any | null
+    group_identifier: GroupIdentifier | null
+    series_title: string | null // "Finale", "Spiel um Platz 7"
+    series_number: string | null // "1  "
+    home_team_filling_title: string | null
+    guest_team_filling_title: string | null
+    home_team_filling_rule: FillingRule | null
+    guest_team_filling_rule: FillingRule | null
+    home_team_filling_parameter: number | null // when rule == place_a/place_b -> parameter = tableId
+    guest_team_filling_parameter: number | null // when rule == game_winner/game_loser -> parameter = gameId
     nominated_referee_string: string | null
     state: string | null
+}
+
+export enum GroupIdentifier
+{ // currently only 2 groups A/B, there might be more some day
+    GroupA = "group_a",
+    GroupB = "group_b",
+}
+
+export enum FillingRule
+{ // currently only 2 groups A/B, there might be more some day
+    PlaceA = "place_a",
+    PlaceB = "place_b",
+    GameWinner = "game_winner",
+    GameLoser = "game_loser",
 }
 
 // https://saisonmanager.de/api/v2/leagues/1396/scorer.json -> Scorer[]
@@ -604,8 +636,8 @@ export interface Scorer
     team_name: string | null
     first_name: string | null
     last_name: string | null
-    image: any | null
-    image_small: any | null
+    image: string | null
+    image_small: string | null
     sort: number | null
     position: number | null
 }
@@ -613,12 +645,12 @@ export interface Scorer
 // https://saisonmanager.de/api/v2/leagues/1564/grouped_table.json -> GroupedTable
 export interface GroupedTable
 {
-    groups: { [ key: string ]: Group } | null
+    groups: { [ key: string /*GroupIdentifier*/ ]: Group } | null
 }
 
 export interface Group
 {
-    group_identifier: string | null
+    group_identifier: GroupIdentifier | null
     team_name: string | null
     table: Team[] | null
 }
