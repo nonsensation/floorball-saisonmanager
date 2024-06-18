@@ -1,3 +1,3 @@
-import { ApiV2 as Saisonmanager } from './Saisonmanager/index'
+import { ApiV2 as Saisonmanager } from './Saisonmanager'
 
 export { Saisonmanager }
