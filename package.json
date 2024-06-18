@@ -2,15 +2,15 @@
     "name": "floorball-saisonmanager",
     "version": "0.1.2",
     "description": "(inoffiziell) Saisonmanager API v2 als Typescript Package",
-    "main": "lib/index.js",
-    "types": "lib/index.d.ts",
+    "main": "index.ts",
+    "types": "index.d.ts",
     "scripts": {
         "build": "tsc --build",
         "prepare": "npm run build"
     },
     "files": [
-        "lib/**/*",
-        "static/**/*.json"
+      "**/*.ts", 
+      "!node_modules" 
     ],
     "keywords": [
         "typescript",
@@ -32,5 +32,5 @@
         "url": "https://github.com/nonsensation/floorball-saisonmanager/issues"
     },
     "homepage": "https://github.com/nonsensation/floorball-saisonmanager#readme",
-    "typings": "./lib/index.d.ts"
+    "typings": "./index.d.ts"
 }
