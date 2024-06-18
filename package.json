@@ -10,7 +10,7 @@
         "prepare": "npm run build"
     },
     "files": [
-        "lib/**/*", 
+        "dist/**/*", 
         "!node_modules" 
       ],
     "keywords": [
