@@ -237,12 +237,6 @@ export enum TableMode
     Classic = "classic",
 }
 
-export interface GameDay
-{
-    game_day_number: number | null
-    title: string | null
-}
-
 // https://saisonmanager.de/api/v2/admin/leagues/1396/additional_references.json -> AdditionalReference
 export interface AdditionalReference
 {
@@ -333,7 +327,7 @@ interface BaseGame
 export interface Game extends BaseGame
 {
     id: number | null
-    game_day: GameDay | null
+    game_day: GameDayTitle | null
     game_number: string | null
     start_time: string | null
     actual_start_time: string | null
@@ -362,24 +356,24 @@ export interface Game extends BaseGame
 
 export enum GameState
 {
-    Ingame = "ingame",
-    Ended = "ended",
     NoRecord = "no_record",
+    Ended = "ended",
+    Ingame = "ingame",
     AfterGame = "aftergame",
     MatchRecordClosed = "match_record_closed",
 }
 
 export enum IngameState
 {
-    Period1 = "period1",
-    Pause1 = "pause1",
-    Period2 = "period2",
-    Pause2 = "pause2",
-    Period3 = "period3",
-    PauseET = "pause_et",
-    Extratime = "extratime",
-    PausePS = "pause_ps",
-    PenaltyShots = "penalty_shots",
+    Period1 = "period1",            // PeriodNumber 1
+    Pause1 = "pause1",              // PeriodNumber 1.5
+    Period2 = "period2",            // PeriodNumber 2
+    Pause2 = "pause2",              // PeriodNumber 2.5
+    Period3 = "period3",            // PeriodNumber 3
+    PauseET = "pause_et",           // PeriodNumber 3.5
+    Extratime = "extratime",        // PeriodNumber 4
+    PausePS = "pause_ps",           // PeriodNumber 4.5
+    PenaltyShots = "penalty_shots", // PeriodNumber 5
 }
 
 export type PeriodNumber = 1 | 1.5 | 2 | 2.5 | 3 | 3.5 | 4 | 4.5 | 5
