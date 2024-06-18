@@ -2,9 +2,9 @@
     "name": "floorball-saisonmanager",
     "version": "0.2.1",
     "description": "(inoffiziell) Saisonmanager API v2 als Typescript Package",
-    "main": "lib/index.js",
-    "types": "lib/index.d.ts",
-    "typings": "lib/index.d.ts",
+    "main": ".dist/index.js",
+    "types": ".dist/index.d.ts",
+    "typings": ".dist/index.d.ts",
     "scripts": {
         "build": "tsc --build",
         "prepare": "npm run build"
