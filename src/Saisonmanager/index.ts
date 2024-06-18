@@ -1,2 +1,5 @@
-export * from "./ApiV2"
+import * as ApiV2 from "./ApiV2"
+
+export { ApiV2 }
+
 
