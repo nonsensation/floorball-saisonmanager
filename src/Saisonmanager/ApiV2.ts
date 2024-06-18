@@ -1,21 +1,21 @@
 /*
 PUBLIC ENDPOINTS (as of June 2024)
 
-https://saisonmanager.de/api/v2/init.json -> ApiV2.Init
-https://saisonmanager.de/api/v2/leagues.json -> ApiV2.League[]
-https://saisonmanager.de/api/v2/games.json -> ApiV2.GamePreview[]
-https://saisonmanager.de/api/v2/user/leagues/penalties.json -> ApiV2.Penalty[]
-https://saisonmanager.de/api/v2/user/leagues/penalty_codes.json -> ApiV2.PenaltyCode[]
-https://saisonmanager.de/api/v2/game_operations/1/leagues.json -> ApiV2.League[]
-https://saisonmanager.de/api/v2/admin/leagues/1396/additional_references.json -> ApiV2.AdditionalReference
-https://saisonmanager.de/api/v2/games/35497.json -> ApiV2.Game
-https://saisonmanager.de/api/v2/leagues/1375/game_days/current/schedule.json -> ApiV2.GameDay[]
-https://saisonmanager.de/api/v2/leagues/1375/game_days/1/schedule.json -> ApiV2.GameDay[]
-https://saisonmanager.de/api/v2/leagues/1375/table.json -> ApiV2.Team[]
-https://saisonmanager.de/api/v2/leagues/1396.json -> ApiV2.LeagueWithSimilarLeagues
-https://saisonmanager.de/api/v2/leagues/1396/schedule.json -> ApiV2.ScheduledGame[]
-https://saisonmanager.de/api/v2/leagues/1396/scorer.json -> ApiV2.Scorer[]
-https://saisonmanager.de/api/v2/leagues/1564/grouped_table.json -> ApiV2.GroupedTable
+https://saisonmanager.de/api/v2/init.json -> Init
+https://saisonmanager.de/api/v2/leagues.json -> LeaguePreview[]
+https://saisonmanager.de/api/v2/games.json -> GamePreview[]
+https://saisonmanager.de/api/v2/user/leagues/penalties.json -> Penalty[]
+https://saisonmanager.de/api/v2/user/leagues/penalty_codes.json -> PenaltyCode[]
+https://saisonmanager.de/api/v2/game_operations/1/leagues.json -> League[]
+https://saisonmanager.de/api/v2/admin/leagues/1396/additional_references.json -> AdditionalReference
+https://saisonmanager.de/api/v2/games/35497.json -> Game
+https://saisonmanager.de/api/v2/leagues/1375/game_days/current/schedule.json -> GameDay[]
+https://saisonmanager.de/api/v2/leagues/1375/game_days/1/schedule.json -> GameDay[]
+https://saisonmanager.de/api/v2/leagues/1375/table.json -> Team[]
+https://saisonmanager.de/api/v2/leagues/1396.json -> LeagueWithSimilarLeagues
+https://saisonmanager.de/api/v2/leagues/1396/schedule.json -> ScheduledGame[]
+https://saisonmanager.de/api/v2/leagues/1396/scorer.json -> Scorer[]
+https://saisonmanager.de/api/v2/leagues/1564/grouped_table.json -> GroupedTable
 
 https://saisonmanager.de/api/v2/
     │
@@ -50,7 +50,76 @@ https://saisonmanager.de/api/v2/
             └── penalty_codes.json
 */
 
-// https://saisonmanager.de/api/v2/init.json -> ApiV2.Init
+const api = "https://saisonmanager.de/api/v2/"
+
+export const getInitUrl = ( apiUrl: string = api ) => `${ apiUrl }/init.json`
+
+export const getGamesUrl = ( gameI: number, apiUrl: string = api ) =>
+    `${ apiUrl }/games.json`
+
+export const getGameUrl = ( gameId: number, apiUrl: string = api ) =>
+    `${ apiUrl }/games/${ gameId }.json`
+
+export const getLeaguesUrl = ( apiUrl: string = api ) => `${ apiUrl }/leagues.json`
+
+export const getLeagueUrl = ( leagueId: number, apiUrl: string = api ) =>
+    `${ apiUrl }/leagues/${ leagueId }.json`
+
+export const getLeagueScheduleUrl = ( leagueId: number, apiUrl: string = api ) =>
+    `${ apiUrl }/leagues/${ leagueId }/schedule.json`
+
+export const getLeagueTableUrl = ( leagueId: number, apiUrl: string = api ) =>
+    `${ apiUrl }/leagues/${ leagueId }/table.json`
+
+export const getLeagueGroupedTableUrl = (
+    leagueId: number,
+    apiUrl: string = api
+) => `${ apiUrl }/leagues/${ leagueId }/grouped_table.json`
+
+export const getLeagueScorerUrl = ( leagueId: number, apiUrl: string = api ) =>
+    `${ apiUrl }/leagues/${ leagueId }/scorer.json`
+
+export const getLeagueGameDayScheduleUrl = (
+    leagueId: number,
+    gameDayId: number | "current" = "current",
+    apiUrl: string = api
+) => `${ apiUrl }/leagues/${ leagueId }game_days/${ gameDayId }/schedule.json`
+
+export const getPenaltiesUrl = ( apiUrl: string = api ) =>
+    `${ apiUrl }/user/leagues/penalties.json`
+
+export const getPenaltyCodesUrl = ( apiUrl: string = api ) =>
+    `${ apiUrl }/user/leagues/penalty_codes.json`
+
+export const getGameOperationLeaguesUrl = (
+    gameOperationId: number,
+    apiUrl: string = api
+) => `${ apiUrl }/game_operations/${ gameOperationId }/leagues.json`
+
+export const getAdminLeaguesAdditionalReferencesUrl = (
+    leagueId: number,
+    apiUrl: string = api
+) => `${ apiUrl }/admin/leagues/${ leagueId }/additional_references.json`
+
+export interface ApiTypeMap
+{
+    getInitUrl: Init
+    getGamesUrl: GamePreview[]
+    getGameUrl: Game
+    getLeaguesUrl: LeaguePreview[]
+    getLeagueUrl: League[]
+    getLeagueScheduleUrl: ScheduledGame[]
+    getLeagueTableUrl: Team[]
+    getLeagueGroupedTableUrl: GroupedTable
+    getLeagueScorerUrl: Scorer[]
+    getLeagueGameDayScheduleUrl: GameDay[]
+    getPenaltiesUrl: Penalty[]
+    getPenaltyCodesUrl: PenaltyCode[]
+    getGameOperationLeaguesUrl: LeagueWithSimilarLeagues
+    getAdminLeaguesAdditionalReferencesUrl: AdditionalReference
+}
+
+// https://saisonmanager.de/api/v2/init.json -> Init
 export interface Init
 {
     seasons: Season[] | null
@@ -76,7 +145,7 @@ export interface GameOperation
     top_leagues: League[] | null
 }
 
-// https://saisonmanager.de/api/v2/leagues.json -> ApiV2.LeaguePreview[]
+// https://saisonmanager.de/api/v2/leagues.json -> LeaguePreview[]
 export interface LeaguePreview
 {
     id: number | null
@@ -89,7 +158,7 @@ export interface LeaguePreview
     link_schedule: string | null
 }
 
-// https://saisonmanager.de/api/v2/games.json -> ApiV2.GamePreview[]
+// https://saisonmanager.de/api/v2/games.json -> GamePreview[]
 export interface GamePreview
 {
     id: number | null
@@ -98,7 +167,7 @@ export interface GamePreview
     audience: number | null
 }
 
-// https://saisonmanager.de/api/v2/user/leagues/penalties.json -> ApiV2.Penalty[]
+// https://saisonmanager.de/api/v2/user/leagues/penalties.json -> Penalty[]
 export interface Penalty
 {
     name: string | null
@@ -108,7 +177,7 @@ export interface Penalty
     id: string | null
 }
 
-// https://saisonmanager.de/api/v2/user/leagues/penalty_codes.json -> ApiV2.PenaltyCode[]
+// https://saisonmanager.de/api/v2/user/leagues/penalty_codes.json -> PenaltyCode[]
 export interface PenaltyCode
 {
     name: string | null
@@ -118,7 +187,7 @@ export interface PenaltyCode
     id: string | null
 }
 
-// https://saisonmanager.de/api/v2/game_operations/1/leagues.json -> ApiV2.League[]
+// https://saisonmanager.de/api/v2/game_operations/1/leagues.json -> League[]
 export interface League
 {
     id: number
@@ -156,7 +225,7 @@ export interface GameDay
     title: string | null
 }
 
-// https://saisonmanager.de/api/v2/admin/leagues/1396/additional_references.json -> ApiV2.AdditionalReference
+// https://saisonmanager.de/api/v2/admin/leagues/1396/additional_references.json -> AdditionalReference
 export interface AdditionalReference
 {
     arenas: Arena[] | null
@@ -242,7 +311,7 @@ interface BaseGame
     result: Result | null
 }
 
-// https://saisonmanager.de/api/v2/games/35497.json -> ApiV2.Game
+// https://saisonmanager.de/api/v2/games/35497.json -> Game
 export interface Game extends BaseGame
 {
     id: number | null
@@ -447,11 +516,11 @@ export enum PenaltyType
     Penalty_ms3 = "penalty_ms3",
 }
 
-// https://saisonmanager.de/api/v2/leagues/1375/game_days/current/schedule.json -> ApiV2.GameDay[]
-// https://saisonmanager.de/api/v2/leagues/1375/game_days/1/schedule.json -> ApiV2.GameDay[]
+// https://saisonmanager.de/api/v2/leagues/1375/game_days/current/schedule.json -> GameDay[]
+// https://saisonmanager.de/api/v2/leagues/1375/game_days/1/schedule.json -> GameDay[]
 export interface GameDay extends Game { }
 
-// https://saisonmanager.de/api/v2/leagues/1375/table.json -> ApiV2.Team[]
+// https://saisonmanager.de/api/v2/leagues/1375/table.json -> Team[]
 export interface Team
 {
     games: number | null
@@ -487,13 +556,13 @@ export interface GameDayTitle
     title: string | null
 }
 
-// https://saisonmanager.de/api/v2/leagues/1396.json -> ApiV2.LeagueWithSimilarLeagues
+// https://saisonmanager.de/api/v2/leagues/1396.json -> LeagueWithSimilarLeagues
 export interface LeagueWithSimilarLeagues extends League
 {
     similar_leagues: League[] | null
 }
 
-// https://saisonmanager.de/api/v2/leagues/1396/schedule.json -> ApiV2.ScheduledGame[]
+// https://saisonmanager.de/api/v2/leagues/1396/schedule.json -> ScheduledGame[]
 export interface ScheduledGame extends BaseGame
 {
     time: string | null
@@ -515,7 +584,7 @@ export interface ScheduledGame extends BaseGame
     state: string | null
 }
 
-// https://saisonmanager.de/api/v2/leagues/1396/scorer.json -> ApiV2.Scorer[]
+// https://saisonmanager.de/api/v2/leagues/1396/scorer.json -> Scorer[]
 export interface Scorer
 {
     games: number | null
@@ -541,7 +610,7 @@ export interface Scorer
     position: number | null
 }
 
-// https://saisonmanager.de/api/v2/leagues/1564/grouped_table.json -> ApiV2.GroupedTable
+// https://saisonmanager.de/api/v2/leagues/1564/grouped_table.json -> GroupedTable
 export interface GroupedTable
 {
     groups: { [ key: string ]: Group } | null

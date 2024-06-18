@@ -1,34 +1,36 @@
 {
-  "name": "floorball-saisonmanager",
-  "version": "1.0.0",
-  "description": "(non official) Saisonmanager API v2 as Typescript Package",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
-  "scripts": {
-      "build": "tsc --build",
-      "prepare": "npm run build"
-  },
-  "files": [
-      "lib/**/*"
-  ],
-  "keywords": [
-      "typescript",
-      "library",
-      "floorball",
-      "aisonmanager"
-  ],
-  "author": "nonsensation",
-  "license": "",
-  "devDependencies": {
-      "typescript": "^5.0.0"
-  },
-  "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nonsensation/floorball-saisonmanager.git"
-  },
-  "bugs": {
-      "url": "https://github.com/nonsensation/floorball-saisonmanager/issues"
-  },
-  "homepage": "https://github.com/nonsensation/floorball-saisonmanager#readme",
-  "typings": "./lib/index.d.ts"
+    "name": "floorball-saisonmanager",
+    "version": "0.1.2",
+    "description": "(inoffiziell) Saisonmanager API v2 als Typescript Package",
+    "main": "lib/index.js",
+    "types": "lib/index.d.ts",
+    "scripts": {
+        "build": "tsc --build",
+        "prepare": "npm run build"
+    },
+    "files": [
+        "lib/**/*",
+        "static/**/*.json"
+    ],
+    "keywords": [
+        "typescript",
+        "javascript",
+        "library",
+        "floorball",
+        "saisonmanager"
+    ],
+    "author": "",
+    "license": "",
+    "devDependencies": {
+        "typescript": "^5.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nonsensation/floorball-saisonmanager.git"
+    },
+    "bugs": {
+        "url": "https://github.com/nonsensation/floorball-saisonmanager/issues"
+    },
+    "homepage": "https://github.com/nonsensation/floorball-saisonmanager#readme",
+    "typings": "./lib/index.d.ts"
 }
