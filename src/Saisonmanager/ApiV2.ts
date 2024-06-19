@@ -50,56 +50,42 @@ https://saisonmanager.de/api/v2/
             └── penalty_codes.json
 */
 
-const api = "https://saisonmanager.de/api/v2/"
+export const getInitUrl = () => `init.json`
 
-export const getInitUrl = ( apiUrl: string = api ) => `${ apiUrl }/init.json`
+export const getGamesUrl = ( gameI: number ) => `games.json`
 
-export const getGamesUrl = ( gameI: number, apiUrl: string = api ) =>
-    `${ apiUrl }/games.json`
+export const getGameUrl = ( gameId: number ) => `games/${ gameId }.json`
 
-export const getGameUrl = ( gameId: number, apiUrl: string = api ) =>
-    `${ apiUrl }/games/${ gameId }.json`
+export const getLeaguesUrl = () => `leagues.json`
 
-export const getLeaguesUrl = ( apiUrl: string = api ) => `${ apiUrl }/leagues.json`
+export const getLeagueUrl = ( leagueId: number ) => `leagues/${ leagueId }.json`
 
-export const getLeagueUrl = ( leagueId: number, apiUrl: string = api ) =>
-    `${ apiUrl }/leagues/${ leagueId }.json`
+export const getLeagueScheduleUrl = ( leagueId: number ) =>
+    `leagues/${ leagueId }/schedule.json`
 
-export const getLeagueScheduleUrl = ( leagueId: number, apiUrl: string = api ) =>
-    `${ apiUrl }/leagues/${ leagueId }/schedule.json`
+export const getLeagueTableUrl = ( leagueId: number ) =>
+    `leagues/${ leagueId }/table.json`
 
-export const getLeagueTableUrl = ( leagueId: number, apiUrl: string = api ) =>
-    `${ apiUrl }/leagues/${ leagueId }/table.json`
+export const getLeagueGroupedTableUrl = ( leagueId: number ) =>
+    `leagues/${ leagueId }/grouped_table.json`
 
-export const getLeagueGroupedTableUrl = (
-    leagueId: number,
-    apiUrl: string = api
-) => `${ apiUrl }/leagues/${ leagueId }/grouped_table.json`
-
-export const getLeagueScorerUrl = ( leagueId: number, apiUrl: string = api ) =>
-    `${ apiUrl }/leagues/${ leagueId }/scorer.json`
+export const getLeagueScorerUrl = ( leagueId: number ) =>
+    `leagues/${ leagueId }/scorer.json`
 
 export const getLeagueGameDayScheduleUrl = (
     leagueId: number,
-    gameDayId: number | "current" = "current",
-    apiUrl: string = api
-) => `${ apiUrl }/leagues/${ leagueId }game_days/${ gameDayId }/schedule.json`
+    gameDayId: number | "current" = "current"
+) => `leagues/${ leagueId }game_days/${ gameDayId }/schedule.json`
 
-export const getPenaltiesUrl = ( apiUrl: string = api ) =>
-    `${ apiUrl }/user/leagues/penalties.json`
+export const getPenaltiesUrl = () => `user/leagues/penalties.json`
 
-export const getPenaltyCodesUrl = ( apiUrl: string = api ) =>
-    `${ apiUrl }/user/leagues/penalty_codes.json`
+export const getPenaltyCodesUrl = () => `user/leagues/penalty_codes.json`
 
-export const getGameOperationLeaguesUrl = (
-    gameOperationId: number,
-    apiUrl: string = api
-) => `${ apiUrl }/game_operations/${ gameOperationId }/leagues.json`
+export const getGameOperationLeaguesUrl = ( gameOperationId: number ) =>
+    `game_operations/${ gameOperationId }/leagues.json`
 
-export const getAdminLeaguesAdditionalReferencesUrl = (
-    leagueId: number,
-    apiUrl: string = api
-) => `${ apiUrl }/admin/leagues/${ leagueId }/additional_references.json`
+export const getAdminLeaguesAdditionalReferencesUrl = ( leagueId: number ) =>
+    `admin/leagues/${ leagueId }/additional_references.json`
 
 export interface ApiTypeMap
 {
@@ -365,14 +351,14 @@ export enum GameState
 
 export enum IngameState
 {
-    Period1 = "period1",            // PeriodNumber 1
-    Pause1 = "pause1",              // PeriodNumber 1.5
-    Period2 = "period2",            // PeriodNumber 2
-    Pause2 = "pause2",              // PeriodNumber 2.5
-    Period3 = "period3",            // PeriodNumber 3
-    PauseET = "pause_et",           // PeriodNumber 3.5
-    Extratime = "extratime",        // PeriodNumber 4
-    PausePS = "pause_ps",           // PeriodNumber 4.5
+    Period1 = "period1", // PeriodNumber 1
+    Pause1 = "pause1", // PeriodNumber 1.5
+    Period2 = "period2", // PeriodNumber 2
+    Pause2 = "pause2", // PeriodNumber 2.5
+    Period3 = "period3", // PeriodNumber 3
+    PauseET = "pause_et", // PeriodNumber 3.5
+    Extratime = "extratime", // PeriodNumber 4
+    PausePS = "pause_ps", // PeriodNumber 4.5
     PenaltyShots = "penalty_shots", // PeriodNumber 5
 }
 
