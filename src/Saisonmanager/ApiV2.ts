@@ -98,7 +98,7 @@ export interface ApiTypeMap
     getLeagueTableUrl: Team[]
     getLeagueGroupedTableUrl: GroupedTable
     getLeagueScorerUrl: Scorer[]
-    getLeagueGameDayScheduleUrl: GameDay[]
+    getLeagueGameDayScheduleUrl: ScheduledGame[]
     getPenaltiesUrl: Penalty[]
     getPenaltyCodesUrl: PenaltyCode[]
     getGameOperationLeaguesUrl: LeagueWithSimilarLeagues
@@ -192,7 +192,7 @@ export interface League
     season_id: string | null
     order_key: string | null
     game_day_numbers: number[] | null
-    game_day_titles: GameDay[] | null
+    game_day_titles: GameDayTitle[] | null
     deadline: string | null // "2008-08-31"
     before_deadline: boolean | null
     legacy_league: boolean | null
@@ -302,7 +302,7 @@ interface BaseGame
     guest_team_logo: string | null
     guest_team_small_logo: string | null
     referees: Referee[] | null
-    notice_type: string | null
+    notice_type: string | NoticeType | null
     notice_string: string | null
     current_period_title: PeriodTitle | null
     result_string: string | null
@@ -338,6 +338,12 @@ export interface Game extends BaseGame
     period_titles: PeriodTitle[] | null
     nominated_referees: string | null
     deletable: boolean | null
+}
+
+export enum NoticeType
+{
+    None = "",
+    Cancelled = "Cancelled",
 }
 
 export enum GameState
@@ -514,9 +520,9 @@ export enum PenaltyType
     Penalty_ms3 = "penalty_ms3",
 }
 
-// https://saisonmanager.de/api/v2/leagues/1375/game_days/current/schedule.json -> GameDay[]
-// https://saisonmanager.de/api/v2/leagues/1375/game_days/1/schedule.json -> GameDay[]
-export interface GameDay extends Game { }
+// // https://saisonmanager.de/api/v2/leagues/1375/game_days/current/schedule.json -> GameDay[]
+// // https://saisonmanager.de/api/v2/leagues/1375/game_days/1/schedule.json -> GameDay[]
+// export interface GameDay extends Game { }
 
 // https://saisonmanager.de/api/v2/leagues/1375/table.json -> Team[]
 export interface Team
@@ -560,6 +566,8 @@ export interface LeagueWithSimilarLeagues extends League
     similar_leagues: League[] | null
 }
 
+// https://saisonmanager.de/api/v2/leagues/1375/game_days/current/schedule.json -> ScheduledGame[]
+// https://saisonmanager.de/api/v2/leagues/1375/game_days/1/schedule.json -> ScheduledGame[]
 // https://saisonmanager.de/api/v2/leagues/1396/schedule.json -> ScheduledGame[]
 export interface ScheduledGame extends BaseGame
 {
