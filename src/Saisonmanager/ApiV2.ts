@@ -75,7 +75,7 @@ export const getLeagueScorerUrl = ( leagueId: number ) =>
 export const getLeagueGameDayScheduleUrl = (
     leagueId: number,
     gameDayId: number | "current" = "current"
-) => `leagues/${ leagueId }game_days/${ gameDayId }/schedule.json`
+) => `leagues/${ leagueId }/game_days/${ gameDayId }/schedule.json`
 
 export const getPenaltiesUrl = () => `user/leagues/penalties.json`
 
